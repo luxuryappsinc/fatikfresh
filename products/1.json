@@ -1,13 +1,4 @@
-[
-  {
-    "name": "Apple",
-    "price": 2.5,
-    "imageUrl": "assets/images/apples.jpg",
-    "description": "Fresh and juicy apples.",
-    "category": "Fruits",
-    "quantity": 1
-  },
-  {
+{
     "name": "Banana",
     "price": 1.0,
     "imageUrl": "assets/images/banana.jpg",
@@ -15,4 +6,3 @@
     "category": "Fruits",
     "quantity": 1
   }
-]
