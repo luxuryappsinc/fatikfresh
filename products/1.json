@@ -2,7 +2,7 @@
     "id": 1,
     "name": "Banana",
     "price": 1.0,
-    "imageUrl": "assets/images/bananas.jpg",
+    "imageUrl": "https://imgur.com/a/ck3wkdd",
     "description": "Sweet bananas.",
     "category": "Fruits",
     "quantity": 1
