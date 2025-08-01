@@ -1,0 +1,8 @@
+{
+    "name": "Apple",
+    "price": 2.5,
+    "imageUrl": "assets/images/apples.jpg",
+    "description": "Fresh and juicy apples.",
+    "category": "Fruits",
+    "quantity": 1
+  }
