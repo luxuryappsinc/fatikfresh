@@ -2,7 +2,7 @@
     "id": 2,
     "name": "Apple",
     "price": 2.5,
-    "imageUrl": "assets/images/apples.jpg",
+    "imageUrl": "https://imgur.com/a/triJLot",
     "description": "Fresh and juicy apples.",
     "category": "Fruits",
     "quantity": 1
