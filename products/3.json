@@ -5,6 +5,7 @@
     "imageUrl": "https://imgur.com/a/d6idmuU",
     "description": "Fresh and tangy oranges.",
     "category": "Fruits",
-    "quantity": 1
+    "quantity": 1,
+    "jsonUrl": "https://fatikfresh.pages.dev/products/3.json"
   }
 
