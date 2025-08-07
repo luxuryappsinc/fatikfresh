@@ -1,0 +1,9 @@
+{
+    "id": 11,
+    "name": "Wheat Flour",
+    "price": 2.50,
+    "imageUrl": "https://i.imgur.com/example-wheat-flour.jpg",
+    "description": "A powder made from the grinding of wheat, used for various baked goods and cooking.",
+    "category": "Grains",
+    "quantity": 1
+}
