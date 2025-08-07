@@ -1,0 +1,9 @@
+{
+    "id": 13,
+    "name": "Suji (Semolina)",
+    "price": 2.75,
+    "imageUrl": "https://i.imgur.com/example-suji.jpg",
+    "description": "A coarse middling flour made from durum wheat, used for a variety of dishes like upma and dosa.",
+    "category": "Grains",
+    "quantity": 1
+}
