@@ -1,0 +1,9 @@
+{
+    "id": 9,
+    "name": "Bashmoti Rice",
+    "price": 4.00,
+    "imageUrl": "https://i.imgur.com/example-bashmoti-rice.jpg",
+    "description": "A long-grained aromatic rice from the Indian subcontinent, known for its distinct fragrance and flavor.",
+    "category": "Grains",
+    "quantity": 1
+}
