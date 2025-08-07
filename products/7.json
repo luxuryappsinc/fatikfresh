@@ -1,0 +1,9 @@
+{
+    "id": 7,
+    "name": "Nazirshail Rice",
+    "price": 2.25,
+    "imageUrl": "https://i.imgur.com/example-nazirshail-rice.jpg",
+    "description": "A high-quality, aromatic rice with long, slender grains that cook up fluffy and separate.",
+    "category": "Grains",
+    "quantity": 1
+}
