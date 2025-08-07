@@ -1,0 +1,9 @@
+{
+    "id": 10,
+    "name": "Parboiled Rice",
+    "price": 1.80,
+    "imageUrl": "https://i.imgur.com/example-parboiled-rice.jpg",
+    "description": "Partially precooked rice that has been soaked, steamed, and dried, giving it a slightly yellow hue and higher nutritional value.",
+    "category": "Grains",
+    "quantity": 1
+}
