@@ -1,0 +1,9 @@
+{
+    "id": 6,
+    "name": "Miniket Rice",
+    "price": 1.90,
+    "imageUrl": "https://i.imgur.com/example-miniket-rice.jpg",
+    "description": "A medium-long grain rice with a subtle aroma and fluffy texture, ideal for everyday meals.",
+    "category": "Grains",
+    "quantity": 1
+}
