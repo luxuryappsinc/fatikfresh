@@ -1,0 +1,9 @@
+{
+    "id": 16,
+    "name": "Besan (Gram Flour)",
+    "price": 2.95,
+    "imageUrl": "https://i.imgur.com/example-besan.jpg",
+    "description": "A pulse flour made from ground chickpeas, a staple in Indian cuisine for snacks and batters.",
+    "category": "Grains",
+    "quantity": 1
+}
