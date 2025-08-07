@@ -1,0 +1,9 @@
+{
+    "id": 18,
+    "name": "Atta (Whole Wheat Flour)",
+    "price": 2.75,
+    "imageUrl": "https://i.imgur.com/example-atta.jpg",
+    "description": "Whole wheat flour used primarily to make flatbreads like roti, chapati, and puri in Indian cuisine.",
+    "category": "Grains",
+    "quantity": 1
+}
