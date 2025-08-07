@@ -1,0 +1,9 @@
+{
+    "id": 14,
+    "name": "Corn Flour",
+    "price": 1.50,
+    "imageUrl": "https://i.imgur.com/example-corn-flour.jpg",
+    "description": "A flour ground from dried maize (corn), used as a thickening agent in sauces and gravies.",
+    "category": "Grains",
+    "quantity": 1
+}
