@@ -1,0 +1,9 @@
+{
+    "id": 15,
+    "name": "Bread Flour",
+    "price": 3.10,
+    "imageUrl": "https://i.imgur.com/example-bread-flour.jpg",
+    "description": "A high-protein flour specifically milled for making yeasted breads with a strong, elastic dough.",
+    "category": "Grains",
+    "quantity": 1
+}
