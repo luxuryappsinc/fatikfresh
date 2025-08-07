@@ -1,9 +1,10 @@
 {
     "id": 4,
     "name": "Coconut",
-    "price": 3.8,
-    "imageUrl": "https://i.imgur.com/Na103W6.jpg",
+    "price": 2.8,
+    "imageUrl": "https://i.imgur.com/Y2xhxW1.jpg",
     "description": "Fresh and tangy oranges.",
     "category": "Fruits",
     "quantity": 1,
   }
+
