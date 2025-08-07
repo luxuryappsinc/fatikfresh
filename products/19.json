@@ -1,0 +1,9 @@
+{
+    "id": 19,
+    "name": "Brown Rice",
+    "price": 2.50,
+    "imageUrl": "https://i.imgur.com/example-brown-rice.jpg",
+    "description": "A whole grain rice with a mild nutty flavor and chewy texture, containing its outer layer of nutrients.",
+    "category": "Grains",
+    "quantity": 1
+}
