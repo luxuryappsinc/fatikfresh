@@ -1,0 +1,9 @@
+{
+    "id": 8,
+    "name": "Chinigura Rice",
+    "price": 3.50,
+    "imageUrl": "https://i.imgur.com/example-chinigura-rice.jpg",
+    "description": "A famous type of small, curvy rice from Dinajpur known for its sweet aroma when cooked.",
+    "category": "Grains",
+    "quantity": 1
+}
