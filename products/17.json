@@ -1,0 +1,9 @@
+{
+    "id": 17,
+    "name": "Rice Flour",
+    "price": 2.00,
+    "imageUrl": "https://i.imgur.com/example-rice-flour.jpg",
+    "description": "A finely milled flour made from rice, often used as a gluten-free substitute for wheat flour.",
+    "category": "Grains",
+    "quantity": 1
+}
