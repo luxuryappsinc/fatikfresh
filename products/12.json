@@ -1,0 +1,9 @@
+{
+    "id": 12,
+    "name": "Maida",
+    "price": 2.20,
+    "imageUrl": "https://i.imgur.com/example-maida.jpg",
+    "description": "A refined wheat flour from the Indian subcontinent, used for pastries and bakery items.",
+    "category": "Grains",
+    "quantity": 1
+}
