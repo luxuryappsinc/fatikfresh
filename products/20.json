@@ -1,0 +1,9 @@
+{
+  "id" : 1,
+  "name": "Chickpeas (Boot)",
+  "price": 1.4,
+  "imageUrl": "assets/images/chickpeas.jpg",
+  "description": "Dried chickpeas for cooking.",
+  "category": "Grains",
+  "quantity": 1
+}
