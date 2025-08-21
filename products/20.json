@@ -1,9 +1,9 @@
 {
-  "id" : 1,
-  "name": "Chickpeas (Boot)",
-  "price": 1.4,
-  "imageUrl": "assets/images/chickpeas.jpg",
-  "description": "Dried chickpeas for cooking.",
-  "category": "Grains",
-  "quantity": 1
-}
+    "id": 20,
+    "name": "Red Lentil (Masoor Dal)",
+    "price": 3.5,
+    "imageUrl": "https://i.imgur.com/masoor.jpg",
+    "description": "Nutritious red lentils, widely used in curries and soups.",
+    "category": "Pulses",
+    "quantity": 1
+  }
