@@ -1,0 +1,9 @@
+{
+    "id": 26,
+    "name": "Soybean",
+    "price": 4.5,
+    "imageUrl": "https://i.imgur.com/Mg76PHM.png",
+    "description": "High-protein soybeans, ideal for health-conscious diets.",
+    "category": "Pulses",
+    "quantity": 1
+}
