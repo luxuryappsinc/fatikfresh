@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "name": "Tomato",
+    "price": 2.75,
+    "imageUrl": "https://pngimg.com/d/tomato_PNG12519.png",
+    "description": "Fresh Toamtoes from garden.",
+    "category": "Fresh Vegetables",
+    "quantity": 1
+}
