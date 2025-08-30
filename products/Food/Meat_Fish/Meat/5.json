@@ -1,0 +1,110 @@
+{
+  "Name": "Broiler Chicken Breast Boneless ± 50 gm 1 kg",
+  "NameBn": "ব্রয়লার মুরগির হাড় ছাড়া বুকের মাংস ± ৫০ গ্রাম ১ কেজি",
+  "NameWithoutSubText": "Broiler Chicken Breast Boneless ± 50 gm",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 635,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 419,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 419,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Every 1kg of the product will contain 4 pcs of chicken.rnrnBoneless, skinless chicken breasts are cut from the chest of the bird, with the tenderloin removed. They're quick-cooking, tender and juicy if prepared correctly. They are also a leaner choice than other cuts of chicken.",
+  "Slug": "broiler-chicken-breast-boneless-50-gm-1-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/broiler-chicken-breast-boneless-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74660&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1593,
+    1696
+  ],
+  "AllRecursiveCategoryIds": [
+    1593,
+    23,
+    2,
+    1696,
+    23,
+    2
+  ],
+  "AllManufacturerIds": [
+    534,
+    542
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 17,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756594394889",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756602000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756602000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 67,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1030,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 31217600,
+      "Mid": 1,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2794,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "id": 5
+}
