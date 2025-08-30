@@ -1,0 +1,107 @@
+{
+  "Name": "Beijing Duck Meat (Net Weight ± 100 gm) 2 kg",
+  "NameBn": "বেইজিং হাঁসের মাংস (নিট ওজন ± ১০০ গ্রাম) ২ কেজি",
+  "NameWithoutSubText": "Beijing Duck Meat (Net Weight ± 100 gm)",
+  "SubText": "2 kg",
+  "Price": {
+    "Lo": 1659,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 1449,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 1449,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Before processing this product's live weight was 2.4 - 2.5 kg.rnChinese history and traditions are ancient. The Chinese are very picky eaters. Duck is one of their most popular dishes among the halal dishes. Therefore, a type of duck called Beijing duck is widely produced there after the name of their capital, Beijing. The Department of Fisheries and Livestock, with the help of the Government of Bangladesh, expands this duck in Bangladesh. Due to the presence of oil throughout the year, this duck is very tasty. This soft and juicy type of meat is loved by everyone from kids to old people.",
+  "Slug": "beijing-duck-meat-net-weight-100-gm-2-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/beijing-duck-meat-net-weight-100-gm-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167264&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1593,
+    1696
+  ],
+  "AllRecursiveCategoryIds": [
+    1593,
+    23,
+    2,
+    1696,
+    23,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756594394890",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756602000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756602000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 52,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 2000,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 912162966,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 2535,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "id": 20
+}
