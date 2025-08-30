@@ -1,0 +1,117 @@
+{
+  "Name": "Pui Shak (Pui Spinach) 1 bundle",
+  "NameBn": "পুই শাক ১ আঁটি",
+  "NameWithoutSubText": "Pui Shak (Pui Spinach)",
+  "SubText": "1 bundle",
+  "Price": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Weight: 800 - 900 gmrnrnPui Spinach is  is a popular tropical leafy-green vegetable commonly grown as backyard plant in the home gardens. the plant is a creeping vine, and its leaves feature glossy, broad, deep green, thick, and mucilaginous. Pui Spinach is high in Vitamin A and C as well as Iron and Calcium. It is low in calories but has a good protein/calories ratio, and plenty of soluble fiber. Its thick, fleshy leaves are a good source of non-starch polysaccharide, mucilage. In addition to regular fiber (roughage) that found in the stem and leaves, mucilage facilitates in smooth digestion, bring reduction in cholesterol absorption, and help prevent bowel movement problems.",
+  "Slug": "pui-shak-pui-spinach1-bundle",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/pui-shak-pui-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7071&q=low&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    12
+  ],
+  "AllRecursiveCategoryIds": [
+    12,
+    7,
+    2
+  ],
+  "AllManufacturerIds": [
+    277
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756522800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756567800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756515600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756515600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 100,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 800,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 268905,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 39,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "id": 38
+}

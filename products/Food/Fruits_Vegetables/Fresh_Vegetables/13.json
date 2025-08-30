@@ -1,0 +1,124 @@
+{
+  "Name": "Lal Shak (Red Spinach) 1 bundle",
+  "NameBn": "লাল শাক  ১ আঁটি ",
+  "NameWithoutSubText": "Lal Shak (Red Spinach)",
+  "SubText": "1 bundle",
+  "Price": {
+    "Lo": 39,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Red Spinach is common vegetable in  Bangladesh. Its leaves are usually round, thick, and rich green in color, but has a bright red colored central stem. The leaves and stems of red spinach contain a red liquid. This has a sweet, raw flavor and the texture is very delicate. Red spinach helps in the process of bowel movement since it contains a lot of fiber. This fibrous food helps in proper digestion and is useful for curing colon cancer, diabetes, cholesterol as well as for weight loss. Red spinach can be eaten in many ways. They can be consumed either raw or cooked. You can sauté them, use as salad leaves, mix in vegetables, fruits, eggs, nuts, pasta or cheese. This is used widely in Indian recipes with added flavors of spices, ginger, garlic, onions, creams, and chilies. You can also store them dry and refrigerated for about one to two weeks.This is all about red spinach recipe!",
+  "Slug": "lal-shak-1-bundle",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/lal-shak-red-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7226&q=low&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    12,
+    238
+  ],
+  "AllRecursiveCategoryIds": [
+    12,
+    7,
+    2,
+    238
+  ],
+  "AllManufacturerIds": [
+    543,
+    169,
+    277,
+    278,
+    287,
+    348
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756522800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756567800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756515600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756515600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 100,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 280,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1164,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 20,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "id": 13
+}

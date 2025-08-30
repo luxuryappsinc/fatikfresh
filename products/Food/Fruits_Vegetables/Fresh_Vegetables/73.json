@@ -1,0 +1,85 @@
+{
+  "Name": "Misti Kumra (Sweet Pumpkin) Processed  ±25 gm 500 gm",
+  "NameBn": "মিষ্টি কুমড়ো প্রক্রিয়াকৃত ±২৫ গ্রাম ৫০০ গ্রাম",
+  "NameWithoutSubText": "Misti Kumra (Sweet Pumpkin) Processed  ±25 gm",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 119,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 119,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 119,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "A convenient pack of Misti Kumra (Sweet Pumpkin) – perfect for a variety of dishes! This 500 gm pack contains processed sweet pumpkin, ready for use in your cooking. With its natural sweetness and vibrant color, it is ideal for curries, soups, pies, or as a side dish.rnrnKey Benefits:rnrnReady-to-cook Misti Kumra (Sweet Pumpkin) for easy preparationrnPerfect for curries, soups, pies, or roasted dishesrnNaturally sweet and packed with vitamins and essential nutrientsrnA healthy and flavorful addition to your mealsrnStorage: Keep refrigerated and use promptly for the best freshness.",
+  "Slug": "misti-kumra-sweet-pumpkin-processed-25-gm-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/misti-kumra-sweet-pumpkin-processed-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167602&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    12
+  ],
+  "AllRecursiveCategoryIds": [
+    12,
+    7,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756510258404",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 1,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 760,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1584,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 16,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "id": 73
+}

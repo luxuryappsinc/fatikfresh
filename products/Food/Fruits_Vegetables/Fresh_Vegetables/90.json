@@ -1,0 +1,99 @@
+{
+  "Name": "Water Lilies (Shapla) 1 bundle",
+  "NameBn": "ওয়াটার লিলিস (শাপলা) ১ বান্ডিল",
+  "NameWithoutSubText": "Water Lilies (Shapla)",
+  "SubText": "1 bundle",
+  "Price": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Weight: 400-500 gmrnrnEach bundle features fresh and carefully selected Water Lilies, perfect for garnishing, infusing, and creating exquisite dishes. Use the tender petals to add a touch of elegance to salads, desserts, and drinks. The subtle, slightly tangy flavor of Water Lilies will surprise and delight your taste buds, making them a versatile ingredient in your kitchen.rnrnIndulge in the art of cooking and elevate your culinary adventures with the natural beauty of Water Lilies. Whether you're a seasoned chef or a curious home cook, this bundle opens up a world of creative possibilities. Embrace the fusion of beauty and taste with Water Lilies (Shapla) 1 bundle, and let your culinary journey bloom.",
+  "Slug": "water-lilies-shapla-1-bundle",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/water-lilies-shapla-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140824&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    12
+  ],
+  "AllRecursiveCategoryIds": [
+    12,
+    7,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756522800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756567800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 505,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 2128761792,
+      "Mid": 1,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 3556,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    5126
+  ],
+  "IsAgeRestricted": false,
+  "id": 90
+}

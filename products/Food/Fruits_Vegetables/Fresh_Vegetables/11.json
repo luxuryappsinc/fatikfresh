@@ -1,0 +1,113 @@
+{
+  "Name": "Lal Peyaj (Onion Red Imported) ± 50 gm 1 kg",
+  "NameBn": "লাল পিঁয়াজ আমদানিকৃত ± ৫০ গ্রাম ১ কেজি",
+  "NameWithoutSubText": "Lal Peyaj (Onion Red Imported) ± 50 gm",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 90,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 85,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 85,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Indian onion is a popular agricultural product in the Indian subcontinent. Indian onion, scientifically known as Allium cepa, is a widely cultivated vegetable in India, playing a crucial role in both the culinary and agricultural sectors. Indian onions are renowned for their distinct, pungent flavor and aroma, which enhances the taste of a variety of dishes, including curries, salads, chutneys, and snacks.rnrnOnions are rich in nutrients such as Vitamin C, fiber, antioxidants, and essential minerals, making them beneficial for health. They possess medicinal properties, including anti-inflammatory, antimicrobial, and heart-protective effects. Indian onions are also known for their versatility; they are used both raw and cooked in various recipes.",
+  "Slug": "onion-red-imported-1-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/lal-peyaj-onion-red-imported-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163935&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    12,
+    238
+  ],
+  "AllRecursiveCategoryIds": [
+    12,
+    7,
+    2,
+    238
+  ],
+  "AllManufacturerIds": [
+    543,
+    257,
+    277,
+    278,
+    279,
+    531,
+    532
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 19,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756510258402",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756515600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756515600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 69,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "IN",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1020,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 88803,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 23,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "id": 11
+}

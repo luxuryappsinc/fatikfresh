@@ -1,0 +1,97 @@
+{
+  "Name": "Ol Kochu (Elephant Foot Yam) ± 25 gm 500 gm",
+  "NameBn": "ওল কচু (± ২৫ গ্রাম) ৫০০ গ্রাম",
+  "NameWithoutSubText": "Ol Kochu (Elephant Foot Yam) ± 25 gm",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 50,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Elephant Foot Yam is a versatile, nutrient-dense tuber that has been an important food source in many cultures for centuries, valued not only for its flavor but also for its health benefits.rnrnElephant Foot Yam is rich in carbohydrates, dietary fiber, and essential minerals such as potassium, magnesium, and iron. It also contains vitamins like Vitamin C, B6, and folate. The yam is known for its potential health benefits, including aiding digestion due to its high fiber content, supporting heart health by lowering blood pressure, and promoting weight management as it is low in calories yet filling.",
+  "Slug": "ol-kochu-elephant-foot-yam-25-gm-500-g",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/ol-kochu-elephant-foot-yam-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D89270&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    12
+  ],
+  "AllRecursiveCategoryIds": [
+    12,
+    7,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756522800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756567800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 24580596,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 4
+    },
+    "MaxDimension": {
+      "Lo": 1524,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "id": 91
+}

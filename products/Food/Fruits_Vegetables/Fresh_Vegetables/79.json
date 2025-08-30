@@ -1,0 +1,85 @@
+{
+  "Name": "Chichinga (Snake Gourd) Processed ±25 gm 500 gm",
+  "NameBn": "চিচিঙ্গা প্রক্রিয়াকৃত ±২৫ গ্রাম ৫০০ গ্রাম",
+  "NameWithoutSubText": "Chichinga (Snake Gourd) Processed ±25 gm",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 119,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 119,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 119,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "A convenient pack of Chichinga (Snake Gourd) – perfect for a variety of dishes! This 500 gm pack contains processed Snake Gourd, ready for use in your cooking. With its unique texture and mild flavor, it is ideal for curries, stir-fries, and other vegetable dishes.rnrnKey Benefits:rnrnReady-to-cook Chichinga (Snake Gourd) for easy preparationrnPerfect for curries, stir-fries, or mixed vegetable dishesrnRich in fiber, vitamins, and essential nutrientsrnA healthy and flavorful addition to your mealsrnStorage: Keep refrigerated and use promptly for the best freshness.",
+  "Slug": "chichinga-snake-gourd-processed-25-gm-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/chichinga-snake-gourd-processed-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175779&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    12
+  ],
+  "AllRecursiveCategoryIds": [
+    12,
+    7,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756510258404",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 1,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 710,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1470,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 175,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "id": 79
+}
