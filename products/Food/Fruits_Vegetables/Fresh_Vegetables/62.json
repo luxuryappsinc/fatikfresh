@@ -1,0 +1,124 @@
+{
+    "Name": "Paan (Betel Leaf) 20 pcs",
+    "NameBn": "পান (আধা বিরা) ২০ টি",
+    "NameWithoutSubText": "Paan (Betel Leaf)",
+    "SubText": "20 pcs",
+    "Price": {
+      "Lo": 45,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "DiscountedPrice": {
+      "Lo": 45,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "CorporatePrice": {
+      "Lo": 45,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "LongDescription": "20 Pieces\r\nFrom using it in prayers and religious ceremonies to eating it in the form of a 'paan', betel leaves contain many curative and healing health benefits. The leaves are full of vitamins like vitamin C, thiamine, niacin, riboflavin and carotene and are a great source of calcium. Since betel is an aromatic creeper, you can easily grow it as an ornamental plant in your homes and derive the maximum health benefits from the same.\r\n\r\nNutritional facts/Ingredients :\r\n\"It is believed that the components present in betel leaves can reduce the level of sugar in the blood, thus treating diabetes. Betel leaves can be used effectively by people who are trying to shed weight. It reduces 'Medha dhatu' (body fat) and increases the metabolic rate of the body.  Chewing betel leaves is known to prevent oral cancer as it helps maintain the levels of ascorbic acid in the saliva. All you need to do is boil 10 to 12 betel leaves for a few minutes and add honey to the boiled water. Drinking this on a daily basis can help. Betel leaves, when applied over a wound and bandaged, can heal a wound and accelerate the healing process. They are also widely used in Ayurveda for treating boils.  If you are suffering from a severe headache, betel leaves can come to your rescue. The leaves have cooling properties which provide instant relief from the ache when applied externally.",
+    "Slug": "paan-betel-leaf-half-bira-20-pcs",
+    "RecType": "",
+    "PictureUrls": [
+      "https://i.chaldn.com/_mpimage/paan-betel-leaf-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40757&q=best&v=1"
+    ],
+    "OfferPictureUrls": [],
+    "AllCategoryIds": [
+      12
+    ],
+    "AllRecursiveCategoryIds": [
+      12,
+      7,
+      2
+    ],
+    "AllManufacturerIds": [],
+    "DoNotApplyDiscounts": false,
+    "BlockSale": false,
+    "ProductAvailabilityForSelectedWarehouse": [
+      {
+        "Quantity": 1,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1756510258404",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      },
+      {
+        "EarliestAvailableTimeOfDay": {
+          "Ticks": "315000000000"
+        },
+        "AvailabilityCutOffTimeOfDay": {
+          "Ticks": "855000000000"
+        },
+        "Quantity": 50,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1756521900000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        },
+        "AvailabilityExpiryTime": {
+          "UnixTimeMilliseconds": "1756572300000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      },
+      {
+        "EarliestAvailableTimeOfDay": {
+          "Ticks": "252000000000"
+        },
+        "Quantity": 50,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1756515600000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        },
+        "AvailabilityExpiryTime": {
+          "UnixTimeMilliseconds": "1756515600000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      }
+    ],
+    "UnitQuantity": 1,
+    "UnitType": "",
+    "DrugRegulationType": "",
+    "BaseProductQuantity": 101,
+    "CatalogItemType": "Grocery",
+    "AlternateOf": "",
+    "SimilarOf": "",
+    "AdditionalShippingFee": 0,
+    "CountryOriginCode": "BD",
+    "Capacity": {
+      "Weight": {
+        "Lo": 130,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      },
+      "Volume": {
+        "Lo": 751837206,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 6
+      },
+      "MaxDimension": {
+        "Lo": 2159,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 2
+      }
+    },
+    "AlternateGroupIds": [],
+    "IsAgeRestricted": false,
+    "id": 62
+  }
