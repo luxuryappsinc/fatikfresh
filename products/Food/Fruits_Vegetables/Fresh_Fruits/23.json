@@ -1,0 +1,97 @@
+{
+  "Name": "Chalta 1 pcs",
+  "NameBn": "চালতা ১ টি",
+  "NameWithoutSubText": "Chalta",
+  "SubText": "each",
+  "Price": {
+    "Lo": 35,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 35,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 35,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Weight: 500-520 gmrnrnDiscover the bold, tangy flavor of Chalta, also known as Elephant Apple, a rare and exotic fruit cherished in traditional cuisines and Ayurvedic remedies. Grown in the lush tropical forests of South and Southeast Asia, this unique fruit is known for its distinctive aroma, juicy pulp, and rich nutritional value.rnrnChalta is widely used in curries, chutneys, jams, and pickles – adding a delightful sour punch that enhances flavor and stimulates the senses. It's also packed with antioxidants, fiber, and vitamin C, making it a smart choice for your wellness and taste buds alike.rnrnWe source only the finest quality Chalta, hand-picked at peak ripeness to preserve its natural tang and freshness. Whether you're a fan of regional delicacies or love experimenting with bold flavors, Chalta is a must-have in your pantry.rnrn✅ Natural & Freshrn✅ Rich in Vitamin C & Antioxidantsrn✅ Ideal for Pickles, Curries, and Chutneysrn✅ Traditionally SourcedrnrnAdd a twist of tang to your cooking with this wild and wonderful fruit. Order today and explore the zesty world of Chalta!",
+  "Slug": "chalta-1-pcs",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/chalta-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D83956&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    11
+  ],
+  "AllRecursiveCategoryIds": [
+    11,
+    7,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756609200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756654200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "",
+  "Capacity": {
+    "Weight": {
+      "Lo": 520,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 6032,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 10,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "id": 23
+}

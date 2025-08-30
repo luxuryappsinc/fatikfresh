@@ -1,0 +1,108 @@
+{
+  "Name": "Palm Fruit (taal) 1 pcs",
+  "NameBn": "তাল ১ টি",
+  "NameWithoutSubText": "Palm Fruit (taal)",
+  "SubText": "each",
+  "Price": {
+    "Lo": 119,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 89,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 89,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Weight:1.8kg to 2kgrnrnIndulge in the natural sweetness and cooling essence of Fresh Palm Fruit, also known as Ice Apple or Taal in various regions. Harvested straight from the towering palm trees during peak season, this tropical delicacy is a summer favorite known for its translucent, jelly-like texture and mild, refreshing flavor.rnrnEach fruit is carefully selected to ensure premium quality – soft, tender, and naturally hydrating. Rich in essential nutrients like potassium, calcium, and antioxidants, palm fruit is not just delicious but also a natural way to beat the heat and boost your energy.rnrnWhether enjoyed as a healthy snack, used in traditional desserts, or simply chilled for a refreshing treat, our palm fruit brings you the pure, authentic taste of nature.rnrn✅ Natural & Freshrn✅ No Preservatives or Additivesrn✅ Perfect for Smoothies, Desserts & Summer Drinksrn✅ Traditionally Sourced – Farm to TablernrnTaste the tropical freshness in every bite! Order now and experience the seasonal joy of palm fruit, delivered fresh to your doorstep.",
+  "Slug": "palm-fruit-1-pc",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/palm-fruit-taal-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131634&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    11
+  ],
+  "AllRecursiveCategoryIds": [
+    11,
+    7,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756591269554",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756609200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756654200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 52,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 127638,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 14,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    1567
+  ],
+  "IsAgeRestricted": false,
+  "id": 16
+}
