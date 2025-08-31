@@ -1,0 +1,121 @@
+{
+  "ProductVariantId": 5594,
+  "Name": "Boro Alu (Big Diamond Potato) ± 50 gm 1 kg",
+  "NameBn": "বড় ডায়মন্ড আলু ±৫০ গ্রাম ১ কেজি",
+  "NameWithoutSubText": "Boro Alu (Big Diamond Potato) ± 50 gm",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 29,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "5 - 8 pcsrnrnPotato is a very healthy food and popular vegetable all over the world. Potatoes are available year-round as they are harvested somewhere every month of the year. potato's have lots of variety. these Potatoes are comparatively bigger than regular Potatoes.  potatoes contain a goodly amount of carbohydrate (starch and sugar) they are also a storehouse for many vitamins and minerals. With the exception of vitamin A, potatoes have at least some of just about every nutrient, including fiber. Potatoes are relatively low in calories.  ",
+  "Slug": "big-potato-1-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/boro-alu-big-diamond-potato-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79694&q=low&v=1",
+    "https://i.chaldn.com/_mpimage/big-potato-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22307&q=low&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    12,
+    238
+  ],
+  "AllRecursiveCategoryIds": [
+    12,
+    7,
+    2,
+    238
+  ],
+  "AllManufacturerIds": [
+    257,
+    277,
+    278,
+    279,
+    287,
+    471,
+    472,
+    531,
+    532
+  ],
+  "DoNotApplyDiscounts": true,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 151,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756638863586",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756642463586",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756654200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 201,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1005,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 3680,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 23,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "id": 1,
+  "category": "Fresh_Vegetables"
+}

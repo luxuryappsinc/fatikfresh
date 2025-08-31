@@ -1,0 +1,128 @@
+{
+  "ProductVariantId": 24282,
+  "Name": "Lal Alu (Red Potato Cardinal) ± 50 gm 1 kg",
+  "NameBn": "লাল আলু (কার্ডিনাল) ± ৫০ গ্রাম ১ কেজি",
+  "NameWithoutSubText": "Lal Alu (Red Potato Cardinal) ± 50 gm",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 29,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "15-20 pcsrnrnCardinal Potato is a variety of potato that is known for its distinct red skin and smooth, white flesh. The skin of Cardinal potatoes is bright red, and it has an appealing smooth texture, making it easy to peel if desired. The flesh inside is firm, waxy, and white, with a smooth and creamy texture when cooked. rnrnIn terms of taste, Cardinal potatoes have a mild, slightly earthy flavor that is not overly strong. This makes them a versatile ingredient in various dishes, including salads, casseroles, and potato side dishes. Nutritionally, Cardinal potatoes are a good source of complex carbohydrates, fiber, and essential vitamins like Vitamin C and B6. They provide energy, support digestion, and help in boosting the immune system.",
+  "Slug": "potato-lal-alu-1-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/lal-alu-red-potato-cardinal-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76922&q=low&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    12,
+    238
+  ],
+  "AllRecursiveCategoryIds": [
+    12,
+    7,
+    2,
+    238
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 25,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756638863586",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756642463586",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756654200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756688400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756688400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 125,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1020,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 7824,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 20,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "id": 5,
+  "category": "Fresh_Vegetables"
+}
