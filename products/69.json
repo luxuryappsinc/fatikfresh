@@ -1,0 +1,102 @@
+{
+  "ProductVariantId": 10727,
+  "Name": "Gala Apple ± 50 gm 1 kg",
+  "NameBn": "গালা আপেল ± ৫০ গ্রাম ১ কেজি",
+  "NameWithoutSubText": "Gala Apple ± 50 gm",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 459,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 459,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 459,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Qty: 8 pcs - 9 pcsrnrnWe believe in your satisfaction and get Gala apple from Chaldal with a mild and sweet pleasant flavor. Overall orange in colour It's Parentage: Golden Delicious and Kidd's Orange Red with good quality. It is one of the most favorite fruits not only in Bangladesh but also in the world. So, buy Gala apply from Chaldal.",
+  "Slug": "gala-apple-1-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/gala-apple-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114751&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    11
+  ],
+  "AllRecursiveCategoryIds": [
+    11,
+    7,
+    2
+  ],
+  "AllManufacturerIds": [
+    534,
+    277
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756647342132",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756654200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "ZA",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1020,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 3249,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 19,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "id": 69,
+  "category": "Fresh_Fruits"
+}

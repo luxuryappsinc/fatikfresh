@@ -1,0 +1,110 @@
+{
+  "ProductVariantId": 7825,
+  "Name": "Amra (Hog Plum) ± 50 gm 1 kg",
+  "NameBn": "আমড়া (নেট ওজন ± ৫০ গ্রাম ) ১ কেজি",
+  "NameWithoutSubText": "Amra (Hog Plum) ± 50 gm",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 85,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 65,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 65,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Qty: 16-18 pcs.rnrnHog plums are rich in vitamin C, which, in addition to being an essential vitamin, is a natural antioxidant, protecting your body from damage caused by free radicals, potentially reducing your risk of heart disease. A 100-gram portion of hog plums has 46.4 milligrams of vitamin C per serving. This provides 39 to 49 percent of the daily intake needed each day. Vitamin C gives support to your immune system, and it helps with the production of collagen, which keeps your skin, ligaments, tendons and cartilage healthy. A 100-gram serving of hog plums has 2.8 milligrams of iron. This provides 15.5 to 35 percent of the recommended intake of iron per day. Iron is essential for overall health and body function because it is needed to produce hemoglobin and myoglobin, both of which carry oxygen throughout your body. Hemoglobin is stored in red blood cells, so having enough iron in your diet is key for red blood cell production. The fruits can be eaten raw and whole as a snack, but people are commonly made into fresh juices, or used to  jams and jellies. In Bangladesh, unripe hog plums are pickled to make a sour-spicy side dish.",
+  "Slug": "aamra-1-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/amra-hog-plum-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123315&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    11
+  ],
+  "AllRecursiveCategoryIds": [
+    11,
+    7,
+    2
+  ],
+  "AllManufacturerIds": [
+    277
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756643742132",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756647342132",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756654200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 52,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1050,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 101016,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 23,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "id": 63,
+  "category": "Fresh_Fruits"
+}
