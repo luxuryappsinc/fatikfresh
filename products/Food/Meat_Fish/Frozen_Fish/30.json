@@ -1,0 +1,96 @@
+{
+  "Name": "Chaldal Premium Rui Fish Headless Curry Cut (7-11 pcs) ±30 gm 500 gm",
+  "NameBn": "চালডাল প্রিমিয়াম রুই মাছ মাথাবিহীন কারি কাট (৭-১১ টি) ±৩০ গ্রাম ৫০০ গ্রাম",
+  "NameWithoutSubText": "Chaldal Premium Rui Fish Headless Curry Cut (7-11 pcs) ±30 gm",
+  "SubText": "500 gm",
+  "ShortDescription": "",
+  "Price": {
+    "Lo": 339,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 339,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 339,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "We are offering Premium Rui With means This fishes are dish bread and specially collected from Rajshahi.    Our RUI fish are mentioned as Medium size with means each of the live fish will have to be between 1.8 KG to 2.5 KG.  Bengali cut pieces of Freshwater Rui that's caught fresh, cut, cleaned. These are Medium pieces of Bengali Cuts of freshwater Rui, that are perfect for curries or fish fry. Rui is a soft-textured bony fish with a subtle flavour. Chaldal fish & seafood is sourced from approved local fishermen Regularly, they contain no added chemicals. Features of our premium Rui fish:    1.native cotton fish.  2. Our fishes are sourced from selected fish farms in Rajshahi where systematic fish farming is ensured.  3. Our premium fish are processed under our own supervision by skilled artisans.  4. Clean water is used when poaching premium fish.  5. Safe packing is done in compliance with complete hygiene rules.  6. Fish are caught and processed on the same day.",
+  "Slug": "chaldal-premium-rui-fish-headless-curry-cut-7-11-pcs-30-gm-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/chaldal-premium-rui-fish-headless-curry-cut-7-11-pcs-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175488&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/chaldal-premium-rui-fish-headless-curry-cut-7-11-pcs-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174632&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1235,
+    1725
+  ],
+  "AllRecursiveCategoryIds": [
+    1235,
+    23,
+    2,
+    1725,
+    23,
+    2
+  ],
+  "AllManufacturerIds": [
+    534,
+    542
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 3,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756634680568",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 3,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 550,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1243860336,
+      "Mid": 1,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2032,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    6452
+  ],
+  "IsAgeRestricted": false,
+  "id": 30
+}

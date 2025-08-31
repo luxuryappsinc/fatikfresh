@@ -1,0 +1,99 @@
+{
+  "Name": "PQS Chapila Fish Processed 250 gm",
+  "NameBn": "পিকিউএস চাপিলা মাছ কাটার পর ২৫০ গ্রাম",
+  "NameWithoutSubText": "PQS Chapila Fish Processed",
+  "SubText": "250 gm",
+  "ShortDescription": "",
+  "Price": {
+    "Lo": 165,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 165,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 165,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Before processing this product live weight was 350 gm.rnrnChapila is a popular fish because of its taste and easy availability. Moreover, the flesh contains a significant amount of protein, vitamin, calcium, iron, phosphorous, etc. The fish is silvery and has a dark shoulder and back. It attains a maximum body length of 20 cm. Its mouth is wide and teeth are absent. ",
+  "Slug": "pqs-chapila-fish-processed-250-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/pqs-chapila-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125603&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1235
+  ],
+  "AllRecursiveCategoryIds": [
+    1235,
+    23,
+    2
+  ],
+  "AllManufacturerIds": [
+    542
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1756688400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1756688400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 250,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 73741788,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 2286,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    6590
+  ],
+  "IsAgeRestricted": false,
+  "id": 35
+}
