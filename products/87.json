@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 29812,
+  "Name": "Moshur Dal (Imported) 500 gm",
+  "NameBn": "মসুর ডাল (আমদানিকৃত) ৫০০ গ্রাম",
+  "NameWithoutSubText": "Moshur Dal (Imported)",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 59,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 59,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 59,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from Australia.rnrnMoshur Dal (also known as Masoor Dal or Red Lentils) is a popular legume used in various South Asian and Middle Eastern dishes. This imported variety of Moshur Dal is known for its quick cooking time, mild flavor, and high nutritional content. It is rich in protein, fiber, and essential minerals, making it an excellent choice for a healthy and balanced diet.rnrnIngredients: Natural Masoor Dal (Red Lentils).rnrnBenefits:rnRich in Protein: A great source of plant-based protein, suitable for vegetarians and vegans.rnHigh in Fiber: Aids digestion, supports gut health, and promotes a feeling of fullness.rnNutrient-Rich: Contains essential vitamins, including B-vitamins, iron, and magnesium.rnHeart Health: Low in cholesterol and fat, which helps in maintaining a healthy heart.rnBlood Sugar Control: Helps stabilize blood sugar levels due to its low glycemic index.",
+  "Slug": "moshur-dal-imported-500-gm-2",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/moshur-dal-imported-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96211&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    198
+  ],
+  "AllRecursiveCategoryIds": [
+    198,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    277
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757646000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757691000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 833,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 17,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Dal_or_Lentil",
+  "id": 343
+}
