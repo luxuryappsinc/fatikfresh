@@ -1,0 +1,113 @@
+{
+  "ProductVariantId": 4051,
+  "Name": "Radhuni Fish Curry Masala 100 gm",
+  "NameBn": "রাঁধুনী মাছের মশলা ১০০ গ্রাম",
+  "NameWithoutSubText": "Radhuni Fish Curry Masala",
+  "SubText": "100 gm",
+  "Price": {
+    "Lo": 80,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 80,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 80,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Radhuni Fish Curry Masala is a specially crafted spice mix designed to elevate the flavor of your fish curry. With a perfect blend of aromatic spices, this masala adds a rich taste and fragrance to your fish dishes, making them a delightful treat for all. Ideal for preparing traditional Bengali-style fish curries, it’s a go-to option for busy home cooks who don’t want to compromise on flavor.rnrnIngredients:rnCorianderrnCuminrnTurmericrnFenugreekrnRed chili powderrnGarlic powderrnGinger powderrnMustard seedsrnTamarindrnSaltrnOther select spicesrn(Exact proportions are available on the packaging.)rnrnUses:rnIdeal for preparing traditional Bengali-style fish curry or any fish dish with a rich, flavorful curry base.rnAlso works well in making fish stews or soups.rnrnBrand: RadhunirnPack Size: 100 gm",
+  "Slug": "radhuni-fish-curry-100-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/radhuni-fish-curry-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132526&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    506,
+    528,
+    186,
+    317
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757606476506",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757646000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757691000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 51,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 120,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 420,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 14,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 365
+}

@@ -1,0 +1,110 @@
+{
+  "ProductVariantId": 55759,
+  "Name": "Foodela Chinigura Rice 1 kg",
+  "NameBn": "ফুডেলা চিনিগুঁড়া চাল ১ কেজি",
+  "NameWithoutSubText": "Foodela Chinigura Rice",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 170,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 129,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 129,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Foodela Chinigura Rice is a premium-quality, fragrant rice variety sourced from the finest paddy fields of Bangladesh. Known for its delicate aroma, fine grain, and soft texture, this rice is the perfect choice for preparing traditional dishes such as polao, biryani, khichuri, and payesh. Carefully processed and hygienically packed, Foodela Chinigura Rice ensures purity, consistent quality, and an authentic taste in every serving.",
+  "Slug": "foodela-chinigura-rice-1-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/foodela-chinigura-rice-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178456&q=best&v=1"
+  ],
+  "OfferPictureUrls": [
+    "https://i.chaldn.com/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182148&q=low&v=1"
+  ],
+  "AllCategoryIds": [
+    80,
+    238,
+    1479
+  ],
+  "AllRecursiveCategoryIds": [
+    80,
+    104,
+    2,
+    238,
+    1479
+  ],
+  "AllManufacturerIds": [
+    572
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 567,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757599612873",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 1872,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757651400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757608200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 2439,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1000,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 770,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 22,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Rice",
+  "id": 280
+}

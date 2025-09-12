@@ -1,0 +1,110 @@
+{
+  "ProductVariantId": 2121,
+  "Name": "ACI Pure Salt 1 kg",
+  "NameBn": "এ সি আই পিওর লবণ ১ কেজি",
+  "NameWithoutSubText": "ACI Pure Salt",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 42,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 42,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 42,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "ACI Pure Salt is a high-quality, refined salt designed to meet your cooking and seasoning needs. It is processed to ensure purity and is free from any impurities or additives.rnrnIngredientsrnSodium Chloride (NaCl): The primary ingredient, providing the characteristic saltiness to food.rnrnMaking ProcessrnExtraction: ACI Pure Salt is sourced from natural salt deposits or seawater.rnrnRefining: The raw salt undergoes a refining process to remove impurities and contaminants, ensuring a high level of purity.rnIodization (if applicable): Some salts are iodized to provide the essential nutrient iodine, though ACI Pure Salt may or may not be iodized, depending on the product variation.rnPackaging: The purified salt is then packaged in hygienic conditions to retain its quality.rnrnBenefitsrnHigh Purity: Free from impurities and additives, ensuring clean and pure salt for cooking.rnFlavor Enhancer: Enhances the taste of dishes, making it an essential kitchen ingredient.rnEssential Mineral: Salt is a vital mineral that helps maintain electrolyte balance in the body.rnSafe Consumption: Manufactured in compliance with safety and quality standards, making it safe for daily use.rnVersatile: Suitable for seasoning, cooking, baking, and preserving food.rnrnSize : 1 kg",
+  "Slug": "aci-pure-salt-1-kg-6",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/aci-pure-salt-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47100&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    238,
+    111
+  ],
+  "AllRecursiveCategoryIds": [
+    238,
+    111,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    135,
+    543,
+    257,
+    277,
+    278,
+    279,
+    287,
+    364
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757601418417",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757604600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1020,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1297287728,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2032,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Salt_Sugar",
+  "id": 278
+}

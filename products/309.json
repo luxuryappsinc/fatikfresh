@@ -1,0 +1,113 @@
+{
+  "ProductVariantId": 6265,
+  "Name": "Katarivog Rice 1 kg",
+  "NameBn": "কাটারিভোগ চাল ১ কেজি",
+  "NameWithoutSubText": "Katarivog Rice",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 129,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 129,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 129,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Kataribhog rice is a special type of rice known for its excellent quality and delicious properties. It is specially used in cooking and enhances the taste and quality of various grades of rice. The characteristics of Kataribhog rice per kilogram are:rnrnTaste: Katarivog rice imparts a smooth, soft and delicious taste to cooking. It enhances the overall taste of the rice and gives a rich and satisfying experience in every bite.rnSmell: It has a sweet and natural aroma, which brings a fresh and attractive flavor to cooking. It enhances the aroma of food while cooking and provides a pleasant experience.rnColor: Kataribhog rice is usually white or light golden in color, which gives a natural and lovely color to the dish.rnUses: It is used in various types of cooking, such as rice, polao, biryani, khichuri, and other rice items. Kataribhog rice is especially used for festivals, special days and entertaining guests.rnNutritional value: Katarivog rice is a good source of carbohydrates and is easily digested. It provides energy and is used as a healthy food.rnThe price of Katarivog rice per kilogram may vary depending on its quality and availability in the market.",
+  "Slug": "kataribough-rice-2-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/katarivog-rice-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48075&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    80
+  ],
+  "AllRecursiveCategoryIds": [
+    80,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    205,
+    257,
+    277,
+    295
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 5,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757599612874",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757603212874",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757604600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 55,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1100,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 141677136,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 2286,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Rice",
+  "id": 309
+}

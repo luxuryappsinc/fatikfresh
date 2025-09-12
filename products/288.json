@@ -1,0 +1,94 @@
+{
+  "ProductVariantId": 27863,
+  "Name": "Nazirshail Rice Premium (Half Boiled) ± 200 gm 25 kg",
+  "NameBn": "নাজিরশাইল চাল প্রিমিয়াম (আধা সিদ্ধ) ± ২০০ গ্রাম ২৫ কেজি",
+  "NameWithoutSubText": "Nazirshail Rice Premium (Half Boiled) ± 200 gm",
+  "SubText": "25 kg",
+  "Price": {
+    "Lo": 2299,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 2149,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 2149,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "​Nazirshail Rice Premium (Half Boiled) ±200 gm 25 kg is a high-quality, aromatic rice variety from Bangladesh, renowned for its soft texture and delicate flavor. The half-boiled (parboiled) processing enhances its nutritional value and ensures the grains remain fluffy and separate after cooking, making it ideal for dishes like plain rice, biryani, khichuri, and pulao. Sourced from trusted suppliers and hygienically packaged, this 25 kg bag offers excellent value for households and bulk buyers seeking quality and taste.",
+  "Slug": "nazirshail-rice-premium-half-boiled-200-gm-25-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/nazirshail-rice-premium-half-boiled-200-gm-25-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D94815&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    80,
+    238
+  ],
+  "AllRecursiveCategoryIds": [
+    80,
+    104,
+    2,
+    238
+  ],
+  "AllManufacturerIds": [
+    277,
+    278,
+    348,
+    471
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 41,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757599612873",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 41,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 30,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 25990,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 3621541144,
+      "Mid": 1,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 6604,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Rice",
+  "id": 288
+}

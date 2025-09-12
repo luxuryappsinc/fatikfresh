@@ -1,0 +1,89 @@
+{
+  "ProductVariantId": 315,
+  "Name": "Chinigura Rice Premium (Special Offer) 3 kg",
+  "NameBn": "চিনিগুড়া চাল প্রিমিয়াম (স্পেশাল অফার) ৩ কেজি",
+  "NameWithoutSubText": "Chinigura Rice Premium (Special Offer)",
+  "SubText": "3 kg",
+  "Price": {
+    "Lo": 417,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 399,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 399,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Package Content:rnChinigura Rice Premium 3 kg ",
+  "Slug": "chinigura-rice-premium-3-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/chinigura-rice-premium-special-offer-3-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174161&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    80,
+    238
+  ],
+  "AllRecursiveCategoryIds": [
+    80,
+    104,
+    2,
+    238
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 178,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757599612873",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 178,
+  "CatalogItemType": "VirtualBundle",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "",
+  "Capacity": {
+    "Weight": {
+      "Lo": 3300,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 425031408,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 2286,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Rice",
+  "id": 284
+}

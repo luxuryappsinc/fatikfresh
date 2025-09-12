@@ -1,0 +1,111 @@
+{
+  "ProductVariantId": 23873,
+  "Name": "Katari Atop Rice ± 50 gm 5 kg",
+  "NameBn": "কাটারি আতপ চাল ± ৫০ গ্রাম ৫ কেজি",
+  "NameWithoutSubText": "Katari Atop Rice ± 50 gm",
+  "SubText": "5 kg",
+  "Price": {
+    "Lo": 469,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 459,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 459,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Katari Atap Rice is a premium quality rice known for its exceptional quality, delicious taste and soft texture. It is specially used in cooking and enhances the taste and quality of various grades of rice. Features of Katari Atap Rice per kilogram are:rnrnTaste: Katari Atap rice imparts a smooth, soft and delicious taste to cooking. It enhances the taste of the rice and brings a rich experience to every bite, making the taste of the food more special.rnSmell: It has a natural and aromatic aroma that brings a fresh and sweet flavor to cooking. It enhances the aroma of the food and provides an interesting experience while cooking.rnColor: Katari Atap rice is usually white or light golden in color, which gives a natural and lovely color to the dish.rnUses: It is used in various cuisines, such as biryani, polao, khichuri, rice, and other rice items. Katari Atap rice is especially used in festivals, special days and entertaining guests.rnNutrition: Katari Atap rice is a good source of carbohydrates and is easily digested. It provides energy and is used as a healthy food.rnThe price of Katari Atap rice per kilogram may vary depending on its quality and availability in the market.",
+  "Slug": "katari-atop-rice-50-gm-5-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/katari-atop-rice-50-gm-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74589&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    80
+  ],
+  "AllRecursiveCategoryIds": [
+    80,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    278,
+    287
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 3,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757599612874",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757603212874",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757604600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 53,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 5005,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 7056,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 21,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Rice",
+  "id": 300
+}

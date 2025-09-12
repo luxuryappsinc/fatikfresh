@@ -1,0 +1,114 @@
+{
+  "ProductVariantId": 24267,
+  "Name": "Kajal Lata Rice (Boiled) ± 50 gm 5 kg",
+  "NameBn": "কাজল লতা চাল (সিদ্ধ) ± ৫০ গ্রাম ৫ কেজি",
+  "NameWithoutSubText": "Kajal Lata Rice (Boiled) ± 50 gm",
+  "SubText": "5 kg",
+  "Price": {
+    "Lo": 399,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 399,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 399,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Kajal Lata Rice is a premium quality rice known for its special taste, aroma and soft texture. It is specially used in cooking and enhances its quality in various grades of rice. The characteristics of Kajal Lata Rice per kilogram are:rnTaste: Kajal Lata rice imparts a smooth, soft and delicious taste to the dish. It enhances the overall taste of the rice and brings a rich and satisfying experience to every bite.rnSmell: It has a natural and sweet aroma which brings a fresh and attractive flavor to cooking. It enhances the aroma of food and provides a pleasant experience while cooking.rnColor: Kajal Lata rice is usually white or light golden in color, which gives a natural and beautiful color to the dish.rnUses: It is used in various cuisines, such as rice, polao, biryani, khichuri, and other rice items. Kajal lata rice is especially used in everyday food and special occasions.rnNutrition: Kajal Lata Rice is a good source of carbohydrates and is easily digested. It provides energy and is used as a healthy food.rnThe price of Kajol Lata rice per kilogram may vary depending on its quality and availability in the market.",
+  "Slug": "kajal-lata-rice-boiled-50-gm-5-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/kajal-lata-rice-boiled-50-gm-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76819&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    80
+  ],
+  "AllRecursiveCategoryIds": [
+    80,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    257,
+    277,
+    279,
+    295,
+    348
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 5,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757599612875",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757603212875",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757604600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 55,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 5005,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 7056,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 21,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Rice",
+  "id": 312
+}

@@ -1,0 +1,98 @@
+{
+  "ProductVariantId": 27861,
+  "Name": "Miniket Rice Standard (Boiled) ± 200 gm 25 kg",
+  "NameBn": "মিনিকেট চাল স্ট্যান্ডার্ড (সিদ্ধ) ± ২০০ গ্রাম ২৫ কেজি",
+  "NameWithoutSubText": "Miniket Rice Standard (Boiled) ± 200 gm",
+  "SubText": "25 kg",
+  "Price": {
+    "Lo": 1899,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 1899,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 1899,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Miniket Rice Standard (Boiled) ±200 gm 25 kg is a high-quality, long-grain rice variety, widely appreciated for its soft texture, mild aroma, and consistent quality. Perfect for everyday meals, this parboiled rice remains fluffy and non-sticky after cooking. Sourced from carefully selected grains and hygienically processed, it ensures purity, nutrition, and great taste. Ideal for plain rice, fried rice, or traditional dishes, this 25 kg pack offers excellent value for families and bulk users seeking reliability and flavor in every bite.",
+  "Slug": "miniket-rice-standard-boiled-200-gm-25-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/miniket-rice-standard-boiled-200-gm-25-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D94814&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    80,
+    238
+  ],
+  "AllRecursiveCategoryIds": [
+    80,
+    104,
+    2,
+    238
+  ],
+  "AllManufacturerIds": [
+    257,
+    277,
+    278,
+    287,
+    295,
+    348,
+    364,
+    471
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 6,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757599612873",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 6,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 30,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 25088,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 4129540128,
+      "Mid": 1,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 7112,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Rice",
+  "id": 290
+}
