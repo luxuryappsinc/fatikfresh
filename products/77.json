@@ -1,80 +1,63 @@
 {
-  "ProductVariantId": 6672,
-  "Name": "Boot Dal 500 gm",
-  "NameBn": "বুট ডাল ৫০০ গ্রাম",
-  "NameWithoutSubText": "Boot Dal",
+  "ProductVariantId": 52492,
+  "Name": "Chicken Liver (Kolija) ± 25 gm 500 gm",
+  "NameBn": "মুরগির কলিজা ± ২৫ গ্রাম ৫০০ গ্রাম",
+  "NameWithoutSubText": "Chicken Liver (Kolija) ± 25 gm",
   "SubText": "500 gm",
   "Price": {
-    "Lo": 65,
+    "Lo": 199,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "DiscountedPrice": {
-    "Lo": 65,
+    "Lo": 139,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "CorporatePrice": {
-    "Lo": 65,
+    "Lo": 139,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
-  "LongDescription": "Boot Dal (also known as Chana Dal) is a type of split chickpea commonly used in South Asian cooking. It is known for its nutty flavor and rich texture, and it is a popular ingredient in dals, curries, and soups. Boot Dal is packed with protein, fiber, and essential minerals, making it a highly nutritious addition to your diet.rnrnIngredients: Natural Split Chickpeas (Chana Dal).rnrnBenefits:rnHigh in Protein: Excellent source of plant-based protein, ideal for vegetarians.rnRich in Fiber: Supports digestive health and keeps you feeling full.rnPacked with Nutrients: Contains essential vitamins, minerals, and antioxidants.rnHeart Health: Low in cholesterol and beneficial for maintaining healthy cholesterol levels.rnBlood Sugar Control: Has a low glycemic index, making it suitable for those with diabetes.",
-  "Slug": "boot-dal-500-gm",
+  "LongDescription": "Chicken liver, as you might expect, refers to the liver of a healthy chicken. Chicken liver's classification is less obvious. It's not considered to be red meat or white meat; it's simply organ meat, or offal.",
+  "Slug": "chicken-liver-kolija-25-gm-500-gm",
   "RecType": "",
   "PictureUrls": [
-    "https://i.chaldn.com/_mpimage/boot-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47039&q=best&v=1"
+    "https://i.chaldn.com/_mpimage/chicken-liver-kolija-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167892&q=best&v=1"
   ],
   "OfferPictureUrls": [],
   "AllCategoryIds": [
-    198,
-    238
+    1593,
+    1696
   ],
   "AllRecursiveCategoryIds": [
-    198,
-    104,
+    1593,
+    23,
     2,
-    238
+    1696,
+    23,
+    2
   ],
-  "AllManufacturerIds": [
-    257,
-    277,
-    278,
-    287,
-    295,
-    364
-  ],
+  "AllManufacturerIds": [],
   "DoNotApplyDiscounts": false,
   "BlockSale": false,
   "ProductAvailabilityForSelectedWarehouse": [
     {
-      "Quantity": 10,
-      "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757606152018",
-        "Offset": {
-          "Ticks": "216000000000"
-        }
-      }
-    },
-    {
       "EarliestAvailableTimeOfDay": {
-        "Ticks": "0"
-      },
-      "AvailabilityCutOffTimeOfDay": {
-        "Ticks": "810000000000"
+        "Ticks": "252000000000"
       },
       "Quantity": 50,
       "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757646000000",
+        "UnixTimeMilliseconds": "1757552400000",
         "Offset": {
           "Ticks": "216000000000"
         }
       },
       "AvailabilityExpiryTime": {
-        "UnixTimeMilliseconds": "1757691000000",
+        "UnixTimeMilliseconds": "1757552400000",
         "Offset": {
           "Ticks": "216000000000"
         }
@@ -84,7 +67,7 @@
   "UnitQuantity": 1,
   "UnitType": "",
   "DrugRegulationType": "",
-  "BaseProductQuantity": 60,
+  "BaseProductQuantity": 50,
   "CatalogItemType": "Grocery",
   "AlternateOf": "",
   "SimilarOf": "",
@@ -98,13 +81,13 @@
       "SignScale": 0
     },
     "Volume": {
-      "Lo": 630901964,
+      "Lo": 188902848,
       "Mid": 0,
       "Hi": 0,
-      "SignScale": 6
+      "SignScale": 5
     },
     "MaxDimension": {
-      "Lo": 1778,
+      "Lo": 3048,
       "Mid": 0,
       "Hi": 0,
       "SignScale": 2
@@ -112,6 +95,6 @@
   },
   "AlternateGroupIds": [],
   "IsAgeRestricted": false,
-  "category": "Dal_or_Lentil",
-  "id": 333
+  "category": "Chicken_Poultry",
+  "id": 77
 }

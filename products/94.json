@@ -1,77 +1,100 @@
 {
-  "ProductVariantId": 342,
-  "Name": "Kheshari Dal 500 gm (Combo)",
-  "NameBn": "খেসারি ডাল ৫০০ গ্রাম (কম্বো)",
-  "NameWithoutSubText": "Kheshari Dal 500 gm (Combo)",
-  "SubText": "",
+  "ProductVariantId": 38614,
+  "Name": "Beijing Duck Meat (Net Weight ± 50 gm) 1500 gm",
+  "NameBn": "বেইজিং হাঁসের মাংস (নিট ওজন ± ৫০ গ্রাম) ১৫০০ গ্রাম",
+  "NameWithoutSubText": "Beijing Duck Meat (Net Weight ± 50 gm)",
+  "SubText": "1500 gm",
   "Price": {
-    "Lo": 138,
+    "Lo": 1299,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "DiscountedPrice": {
-    "Lo": 110,
+    "Lo": 999,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "CorporatePrice": {
-    "Lo": 110,
+    "Lo": 999,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
-  "LongDescription": "The Package Content:rnKheshari Dal 500 gm - QTY: 2",
-  "Slug": "kheshari-dal-500-gm-combo",
+  "LongDescription": "Before processing this product live weight was 1.9 - 2 kg.rnrnChinese history and traditions are very old. The Chinese are very picky eaters. Duck is one of their most popular dishes among the halal dishes. Therefore, a type of duck called Beijing duck is widely produced there after the name of their capital, Beijing. The Department of Fisheries and Livestock, with the help of the Government of Bangladesh, expands this duck in Bangladesh. Due to the presence of oil throughout the year, this duck is very tasty. This soft and juicy type of meat is loved by everyone from kids to old people. rnrn(Without gizzard and liver)rnrnWeight: 1500 gm",
+  "Slug": "beijing-duck-meat-net-weight-50-gm-1500-gm",
   "RecType": "",
   "PictureUrls": [
-    "https://i.chaldn.com/_mpimage/kheshari-dal-500-gm-combo?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D179556&q=best&v=1"
+    "https://i.chaldn.com/_mpimage/beijing-duck-meat-net-weight-50-gm-1500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127763&q=best&v=1"
   ],
   "OfferPictureUrls": [],
   "AllCategoryIds": [
-    198
+    1593
   ],
   "AllRecursiveCategoryIds": [
-    198,
-    104,
+    1593,
+    23,
     2
   ],
-  "AllManufacturerIds": [],
+  "AllManufacturerIds": [
+    542
+  ],
   "DoNotApplyDiscounts": false,
   "BlockSale": false,
-  "ProductAvailabilityForSelectedWarehouse": [],
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757552400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757552400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
   "UnitQuantity": 1,
   "UnitType": "",
   "DrugRegulationType": "",
-  "BaseProductQuantity": 0,
-  "CatalogItemType": "VirtualBundle",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
   "AlternateOf": "",
   "SimilarOf": "",
   "AdditionalShippingFee": 0,
-  "CountryOriginCode": "",
+  "CountryOriginCode": "BD",
   "Capacity": {
     "Weight": {
-      "Lo": 1000,
+      "Lo": 1500,
       "Mid": 0,
       "Hi": 0,
       "SignScale": 0
     },
     "Volume": {
-      "Lo": 1376513376,
+      "Lo": 98322384,
       "Mid": 0,
       "Hi": 0,
-      "SignScale": 6
+      "SignScale": 4
     },
     "MaxDimension": {
-      "Lo": 1778,
+      "Lo": 3048,
       "Mid": 0,
       "Hi": 0,
       "SignScale": 2
     }
   },
-  "AlternateGroupIds": [],
+  "AlternateGroupIds": [
+    4793
+  ],
   "IsAgeRestricted": false,
-  "category": "Dal_or_Lentil",
-  "id": 350
+  "category": "Chicken_Poultry",
+  "id": 94
 }

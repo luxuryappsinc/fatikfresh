@@ -1,53 +1,50 @@
 {
-  "ProductVariantId": 8951,
-  "Name": "Khosha Chara Chola Boot (Peeled Chick Pea) 500 gm",
-  "NameBn": "খোসা ছাড়ানো ছোলা বুট ৫০০ গ্রাম",
-  "NameWithoutSubText": "Khosha Chara Chola Boot (Peeled Chick Pea)",
-  "SubText": "500 gm",
+  "ProductVariantId": 50925,
+  "Name": "Broiler Chicken Skin On ± 50 gm 1.4 kg",
+  "NameBn": "ব্রয়লার মুরগি চামড়া সহ ± ৫০ গ্রাম ১.৪ কেজি",
+  "NameWithoutSubText": "Broiler Chicken Skin On ± 50 gm",
+  "SubText": "1.4 kg",
   "Price": {
-    "Lo": 75,
+    "Lo": 379,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "DiscountedPrice": {
-    "Lo": 65,
+    "Lo": 379,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "CorporatePrice": {
-    "Lo": 65,
+    "Lo": 379,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
-  "LongDescription": "Khosha Chara Chola Boot (Peeled Chick Peas) are a variety of chickpeas that have been peeled to remove the outer skin, leaving the soft inner seed. These peeled chickpeas have a mild flavor and smooth texture, making them perfect for various dishes. They are commonly used in South Asian cuisine for preparing snacks, curries, and stews. Peeled chickpeas are also quicker to cook compared to regular chickpeas and are a great source of protein and fiber.rnrnUses: Curries & Stews, Snacks, Salads, Baking, Hummus & Dips. rnrnBenefits:rnHigh in Protein: A great plant-based protein source, essential for muscle building and tissue repair.rnRich in Fiber: Helps with digestion and provides long-lasting energy, making it excellent for weight management.rnHeart Health: The high fiber and potassium content support heart health by lowering cholesterol levels and regulating blood pressure.rnBlood Sugar Regulation: Chickpeas are known to stabilize blood sugar levels, making them a good food choice for people with diabetes.rnNutrient-Rich: Chickpeas are rich in essential vitamins and minerals like iron, magnesium, and B-vitamins.",
-  "Slug": "khosha-chara-chola-boot-peeled-chick-pea-500-gm",
+  "LongDescription": "(1,900gm to 2,000gm)rnBefore processing this product's live weight was 2.1 kg. Broiler chickens are raised primarily for meat rather than to lay eggs. These poultry are often white and are bred to be large and very healthy, often with more breast meat for the consumer market. Broiler chicken breeds grow very fast and offer good value in terms of protein and calories.",
+  "Slug": "broiler-chicken-skin-on-50-gm-14-kg",
   "RecType": "",
   "PictureUrls": [
-    "https://i.chaldn.com/_mpimage/khosha-chara-chola-boot-peeled-chick-pea-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47044&q=best&v=1"
+    "https://i.chaldn.com/_mpimage/broiler-chicken-skin-on-50-gm-14-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163161&q=best&v=1"
   ],
   "OfferPictureUrls": [],
   "AllCategoryIds": [
-    198
+    1593
   ],
   "AllRecursiveCategoryIds": [
-    198,
-    104,
+    1593,
+    23,
     2
   ],
-  "AllManufacturerIds": [
-    257,
-    295
-  ],
+  "AllManufacturerIds": [],
   "DoNotApplyDiscounts": false,
   "BlockSale": false,
   "ProductAvailabilityForSelectedWarehouse": [
     {
       "Quantity": 3,
       "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757606152018",
+        "UnixTimeMilliseconds": "1757508622212",
         "Offset": {
           "Ticks": "216000000000"
         }
@@ -55,20 +52,38 @@
     },
     {
       "EarliestAvailableTimeOfDay": {
-        "Ticks": "0"
+        "Ticks": "324000000000"
       },
       "AvailabilityCutOffTimeOfDay": {
         "Ticks": "810000000000"
       },
       "Quantity": 50,
       "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757646000000",
+        "UnixTimeMilliseconds": "1757512222212",
         "Offset": {
           "Ticks": "216000000000"
         }
       },
       "AvailabilityExpiryTime": {
-        "UnixTimeMilliseconds": "1757691000000",
+        "UnixTimeMilliseconds": "1757518200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757552400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757552400000",
         "Offset": {
           "Ticks": "216000000000"
         }
@@ -78,7 +93,7 @@
   "UnitQuantity": 1,
   "UnitType": "",
   "DrugRegulationType": "",
-  "BaseProductQuantity": 53,
+  "BaseProductQuantity": 103,
   "CatalogItemType": "Grocery",
   "AlternateOf": "",
   "SimilarOf": "",
@@ -86,19 +101,19 @@
   "CountryOriginCode": "BD",
   "Capacity": {
     "Weight": {
-      "Lo": 508,
+      "Lo": 1400,
       "Mid": 0,
       "Hi": 0,
       "SignScale": 0
     },
     "Volume": {
-      "Lo": 585837538,
-      "Mid": 0,
+      "Lo": 424507136,
+      "Mid": 1,
       "Hi": 0,
       "SignScale": 6
     },
     "MaxDimension": {
-      "Lo": 1651,
+      "Lo": 2032,
       "Mid": 0,
       "Hi": 0,
       "SignScale": 2
@@ -106,6 +121,6 @@
   },
   "AlternateGroupIds": [],
   "IsAgeRestricted": false,
-  "category": "Dal_or_Lentil",
-  "id": 335
+  "category": "Chicken_Poultry",
+  "id": 79
 }

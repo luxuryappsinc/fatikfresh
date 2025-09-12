@@ -1,69 +1,72 @@
 {
-  "ProductVariantId": 3409,
-  "Name": "Dubli Boot 500 gm",
-  "NameBn": "ডাবলি বুট ৫০০ গ্রাম",
-  "NameWithoutSubText": "Dubli Boot",
+  "ProductVariantId": 52497,
+  "Name": "Broiler Chicken Thigh Boneless ± 25 gm 500 gm",
+  "NameBn": "ব্রয়লার মুরগির রানের হাড়হীন মাংস ± ২৫ গ্রাম ৫০০ গ্রাম",
+  "NameWithoutSubText": "Broiler Chicken Thigh Boneless ± 25 gm",
   "SubText": "500 gm",
   "Price": {
-    "Lo": 39,
+    "Lo": 255,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "DiscountedPrice": {
-    "Lo": 39,
+    "Lo": 249,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "CorporatePrice": {
-    "Lo": 39,
+    "Lo": 249,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
-  "LongDescription": "Dubli Boot, also known as Horse Gram (Macrotyloma uniflorum), is a small, dark brown legume commonly used in South Asian and Ayurvedic cuisines. Known for its high nutritional content, this legume is a rich source of protein, fiber, and essential minerals. Dubli Boot is commonly used to make hearty stews, soups, and curries and is also praised for its health benefits.rnrnUses: Stews and Soups, Dal, Sprouts, Flour, Pickles.rnrnBenefits:rnRich in Protein: Dubli Boot is an excellent source of plant-based protein, making it a great choice for vegetarians and vegans.rnHigh in Fiber: Supports digestive health and helps in weight management by promoting fullness and reducing cravings.rnRich in Iron: Helps combat iron deficiency and supports overall health.rnDiabetes Management: Horse gram is known to have a low glycemic index, making it beneficial for people with diabetes.rnDetoxifying: Often used in Ayurvedic practices for its detoxifying properties and ability to reduce excess body heat.",
-  "Slug": "dubli-boot-500-gm",
+  "LongDescription": "The chicken thigh is the dark meat from the upper part of the leg of a chicken, and is one of the most common parts of the chicken used in cooking. Chicken thighs are often sold skin-on and bone-in. The average 4 oz serving of chicken thigh has about 212 calories, 27 grams of protein, and only 4 grams of fat.",
+  "Slug": "broiler-chicken-thigh-boneless-25-gm-500-gm",
   "RecType": "",
   "PictureUrls": [
-    "https://i.chaldn.com/_mpimage/dubli-boot-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176958&q=best&v=1"
+    "https://i.chaldn.com/_mpimage/broiler-chicken-thigh-boneless-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167902&q=best&v=1&m=400"
   ],
   "OfferPictureUrls": [],
   "AllCategoryIds": [
-    198
+    1593,
+    1696
   ],
   "AllRecursiveCategoryIds": [
-    198,
-    104,
+    1593,
+    23,
+    2,
+    1696,
+    23,
     2
   ],
-  "AllManufacturerIds": [
-    257,
-    277,
-    278,
-    295,
-    348,
-    364
-  ],
+  "AllManufacturerIds": [],
   "DoNotApplyDiscounts": false,
   "BlockSale": false,
   "ProductAvailabilityForSelectedWarehouse": [
     {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757508622213",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
       "EarliestAvailableTimeOfDay": {
-        "Ticks": "0"
-      },
-      "AvailabilityCutOffTimeOfDay": {
-        "Ticks": "810000000000"
+        "Ticks": "252000000000"
       },
       "Quantity": 50,
       "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757646000000",
+        "UnixTimeMilliseconds": "1757552400000",
         "Offset": {
           "Ticks": "216000000000"
         }
       },
       "AvailabilityExpiryTime": {
-        "UnixTimeMilliseconds": "1757691000000",
+        "UnixTimeMilliseconds": "1757552400000",
         "Offset": {
           "Ticks": "216000000000"
         }
@@ -73,7 +76,7 @@
   "UnitQuantity": 1,
   "UnitType": "",
   "DrugRegulationType": "",
-  "BaseProductQuantity": 50,
+  "BaseProductQuantity": 52,
   "CatalogItemType": "Grocery",
   "AlternateOf": "",
   "SimilarOf": "",
@@ -81,19 +84,19 @@
   "CountryOriginCode": "BD",
   "Capacity": {
     "Weight": {
-      "Lo": 504,
+      "Lo": 500,
       "Mid": 0,
       "Hi": 0,
       "SignScale": 0
     },
     "Volume": {
-      "Lo": 958643244,
+      "Lo": 188902848,
       "Mid": 0,
       "Hi": 0,
-      "SignScale": 6
+      "SignScale": 5
     },
     "MaxDimension": {
-      "Lo": 1651,
+      "Lo": 3048,
       "Mid": 0,
       "Hi": 0,
       "SignScale": 2
@@ -101,6 +104,6 @@
   },
   "AlternateGroupIds": [],
   "IsAgeRestricted": false,
-  "category": "Dal_or_Lentil",
-  "id": 344
+  "category": "Chicken_Poultry",
+  "id": 88
 }

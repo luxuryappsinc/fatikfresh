@@ -1,53 +1,60 @@
 {
-  "ProductVariantId": 3783,
-  "Name": "Mixed Dal 500 gm",
-  "NameBn": "মিশ্র ডাল ৫০০ গ্রাম",
-  "NameWithoutSubText": "Mixed Dal",
-  "SubText": "500 gm",
+  "ProductVariantId": 21555,
+  "Name": "Bengal Meat Whole Chicken Curry Cut ± 50 gm 1 kg",
+  "NameBn": "বেঙ্গল মিট সম্পূর্ণ মুরগির কারি কাটা ± ৫০ গ্রাম ১ কেজি",
+  "NameWithoutSubText": "Bengal Meat Whole Chicken Curry Cut ± 50 gm",
+  "SubText": "1 kg",
   "Price": {
-    "Lo": 85,
+    "Lo": 465,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "DiscountedPrice": {
-    "Lo": 75,
+    "Lo": 465,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "CorporatePrice": {
-    "Lo": 75,
+    "Lo": 465,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
-  "LongDescription": "Mixed Dal is a mixture of many kinds of dal. As it is a mixture it can give you a different taste. rnrnMixed Dal Contains:rn1. Mug daalrn2. Indian Moshur Daalrn3. Anchor Daalrn4. Khesari Dalrn5. Mash Daal",
-  "Slug": "mixed-dal-pack-500-gm",
+  "LongDescription": "The Chicken Curry Cut (small) is a blend of dark and white meat that contains one leg cut in half, one wing without a tip, and one breast quarter with backbone. This package comprises bone-in and boneless chunks. When cooked, these chunks become juicy and tender, making them great for chicken curries.rn",
+  "Slug": "bengal-meat-chicken-pieces-bone-in-net-weight-50-gm-1-kg",
   "RecType": "",
   "PictureUrls": [
-    "https://i.chaldn.com/_mpimage/mixed-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47047&q=best&v=1"
+    "https://i.chaldn.com/_mpimage/bengal-meat-whole-chicken-curry-cut-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74653&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/bengal-meat-whole-chicken-curry-cut-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D166983&q=best&v=1"
   ],
   "OfferPictureUrls": [],
   "AllCategoryIds": [
-    198
+    1593,
+    1696
   ],
   "AllRecursiveCategoryIds": [
-    198,
-    104,
+    1593,
+    23,
+    2,
+    1696,
+    23,
     2
   ],
   "AllManufacturerIds": [
-    277,
-    364
+    542,
+    358,
+    471,
+    472
   ],
   "DoNotApplyDiscounts": false,
   "BlockSale": false,
   "ProductAvailabilityForSelectedWarehouse": [
     {
-      "Quantity": 1,
+      "Quantity": 2,
       "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757606152019",
+        "UnixTimeMilliseconds": "1757508622213",
         "Offset": {
           "Ticks": "216000000000"
         }
@@ -55,20 +62,38 @@
     },
     {
       "EarliestAvailableTimeOfDay": {
-        "Ticks": "0"
+        "Ticks": "324000000000"
       },
       "AvailabilityCutOffTimeOfDay": {
         "Ticks": "810000000000"
       },
       "Quantity": 50,
       "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757646000000",
+        "UnixTimeMilliseconds": "1757512222213",
         "Offset": {
           "Ticks": "216000000000"
         }
       },
       "AvailabilityExpiryTime": {
-        "UnixTimeMilliseconds": "1757691000000",
+        "UnixTimeMilliseconds": "1757518200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757552400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757552400000",
         "Offset": {
           "Ticks": "216000000000"
         }
@@ -78,7 +103,7 @@
   "UnitQuantity": 1,
   "UnitType": "",
   "DrugRegulationType": "",
-  "BaseProductQuantity": 51,
+  "BaseProductQuantity": 102,
   "CatalogItemType": "Grocery",
   "AlternateOf": "",
   "SimilarOf": "",
@@ -86,26 +111,26 @@
   "CountryOriginCode": "BD",
   "Capacity": {
     "Weight": {
-      "Lo": 500,
+      "Lo": 1050,
       "Mid": 0,
       "Hi": 0,
       "SignScale": 0
     },
     "Volume": {
-      "Lo": 11025,
-      "Mid": 0,
+      "Lo": 1899342896,
+      "Mid": 1,
       "Hi": 0,
-      "SignScale": 1
+      "SignScale": 6
     },
     "MaxDimension": {
-      "Lo": 21,
+      "Lo": 3556,
       "Mid": 0,
       "Hi": 0,
-      "SignScale": 0
+      "SignScale": 2
     }
   },
   "AlternateGroupIds": [],
   "IsAgeRestricted": false,
-  "category": "Dal_or_Lentil",
-  "id": 338
+  "category": "Chicken_Poultry",
+  "id": 82
 }

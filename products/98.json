@@ -1,64 +1,67 @@
 {
-  "ProductVariantId": 3322,
-  "Name": "White Chick Peas (Kabuli Boot) 500 gm",
-  "NameBn": "কাবুলি বুট (সাদা ছোলা) ৫০০ গ্রাম",
-  "NameWithoutSubText": "White Chick Peas (Kabuli Boot)",
-  "SubText": "500 gm",
+  "ProductVariantId": 51534,
+  "Name": "Live Cock Chicken (Processed) 900 gm",
+  "NameBn": "জীবিত কক মুরগি (প্রক্রিয়াকৃত) ৯০০ গ্রাম",
+  "NameWithoutSubText": "Live Cock Chicken (Processed)",
+  "SubText": "900 gm",
   "Price": {
-    "Lo": 139,
+    "Lo": 299,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "DiscountedPrice": {
-    "Lo": 139,
+    "Lo": 299,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "CorporatePrice": {
-    "Lo": 139,
+    "Lo": 299,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
-  "LongDescription": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from India.rnrnWhite Chick Peas, commonly known as Kabuli Chana, are versatile legumes celebrated for their nutritional benefits and culinary applications.rnIngredients: The primary ingredient is pure dried white chickpeas.rnUse: Kabuli Chana is a versatile ingredient used in various dishes, including:rnCurries: Cooked with spices to create flavorful curries.rnSalads: Tossed with vegetables and dressings for a nutritious salad.rnHummus: Blended with tahini, garlic, and lemon juice to make hummus.rnSnacks: Roasted or spiced for a healthy snack option. Kabuli Chana is rich in protein, fiber, and essential nutrients, making it a valuable addition to a balanced diet.",
-  "Slug": "white-chick-peas-kabuli-boot-500-gm",
+  "LongDescription": "It has a handling fee. This handling fee is for processing the live chicken.rnrnAfter placing the order we will process the chicken. Before processing the live weight will be 900 gm and after processing it will 500 gm (± 50 gm) without skin. Also, you will get Head, Kolija, and Ghila with it.",
+  "Slug": "live-cock-chicken-900-gm",
   "RecType": "",
   "PictureUrls": [
-    "https://i.chaldn.com/_mpimage/white-chick-peas-kabuli-boot-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47040&q=best&v=1"
+    "https://i.chaldn.com/_mpimage/live-cock-chicken-processed-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D165313&q=best&v=1&m=400",
+    "https://i.chaldn.com/_mpimage/live-cock-chicken-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D165314&q=best&v=1&m=400"
   ],
   "OfferPictureUrls": [],
   "AllCategoryIds": [
-    198
+    1593,
+    1696
   ],
   "AllRecursiveCategoryIds": [
-    198,
-    104,
+    1593,
+    23,
+    2,
+    1696,
+    23,
     2
   ],
-  "AllManufacturerIds": [
-    348
-  ],
+  "AllManufacturerIds": [],
   "DoNotApplyDiscounts": false,
   "BlockSale": false,
   "ProductAvailabilityForSelectedWarehouse": [
     {
       "EarliestAvailableTimeOfDay": {
-        "Ticks": "0"
+        "Ticks": "324000000000"
       },
       "AvailabilityCutOffTimeOfDay": {
         "Ticks": "810000000000"
       },
       "Quantity": 50,
       "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757646000000",
+        "UnixTimeMilliseconds": "1757512222214",
         "Offset": {
           "Ticks": "216000000000"
         }
       },
       "AvailabilityExpiryTime": {
-        "UnixTimeMilliseconds": "1757691000000",
+        "UnixTimeMilliseconds": "1757518200000",
         "Offset": {
           "Ticks": "216000000000"
         }
@@ -72,30 +75,30 @@
   "CatalogItemType": "Grocery",
   "AlternateOf": "",
   "SimilarOf": "",
-  "AdditionalShippingFee": 0,
+  "AdditionalShippingFee": 19,
   "CountryOriginCode": "BD",
   "Capacity": {
     "Weight": {
-      "Lo": 502,
+      "Lo": 503,
       "Mid": 0,
       "Hi": 0,
       "SignScale": 0
     },
     "Volume": {
-      "Lo": 1680,
+      "Lo": 932014265,
       "Mid": 0,
       "Hi": 0,
-      "SignScale": 0
+      "SignScale": 6
     },
     "MaxDimension": {
-      "Lo": 20,
+      "Lo": 1651,
       "Mid": 0,
       "Hi": 0,
-      "SignScale": 0
+      "SignScale": 2
     }
   },
   "AlternateGroupIds": [],
   "IsAgeRestricted": false,
-  "category": "Dal_or_Lentil",
-  "id": 354
+  "category": "Chicken_Poultry",
+  "id": 98
 }

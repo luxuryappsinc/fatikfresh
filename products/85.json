@@ -1,68 +1,71 @@
 {
-  "ProductVariantId": 8883,
-  "Name": "Split Pea (Motor Dal) 500 gm",
-  "NameBn": "মটর ডাল ৫০০ গ্রাম",
-  "NameWithoutSubText": "Split Pea (Motor Dal)",
-  "SubText": "500 gm",
+  "ProductVariantId": 9107,
+  "Name": "Bengal Meat Chicken Thigh Keema ± 50 gm 1 kg",
+  "NameBn": "বেঙ্গল মিট মুরগির কুচি মাংস ± ৫০ গ্রাম ১ কেজি",
+  "NameWithoutSubText": "Bengal Meat Chicken Thigh Keema ± 50 gm",
+  "SubText": "1 kg",
   "Price": {
-    "Lo": 85,
+    "Lo": 635,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "DiscountedPrice": {
-    "Lo": 85,
+    "Lo": 635,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "CorporatePrice": {
-    "Lo": 85,
+    "Lo": 635,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
-  "LongDescription": "Split Pea (Motor Dal) is a type of legume that is commonly used in a variety of dishes across South Asian, Middle Eastern, and Mediterranean cuisines. These yellow or green split peas are known for their mild flavor and high nutritional value. Rich in protein, fiber, and essential vitamins, Motor Dal is a great addition to your diet, offering both versatility and taste.rnrnIngredients: Natural Split Peas (Yellow or Green, depending on the variety).rnrnBenefits:rnHigh in Protein: An excellent source of plant-based protein, ideal for vegetarians and vegans.rnRich in Fiber: Supports digestive health and helps with weight management by promoting a feeling of fullness.rnHeart-Healthy: Low in fat and cholesterol, which supports overall cardiovascular health.rnNutrient-Rich: Contains essential vitamins like B-vitamins, folate, and minerals like iron and magnesium.rnBlood Sugar Control: The fiber and protein content help stabilize blood sugar levels.",
-  "Slug": "motor-dal-pack-1kg-2",
+  "LongDescription": "The Chicken Thigh Keema is a blend of dark and white meat that contains one leg cut in half, one wing without a tip, and one breast quarter with backbone. This package comprises bone-in and boneless chunks. When cooked, these chunks become juicy and tender, making them great for chicken curries.",
+  "Slug": "bengal-meat-chicken-thigh-keema-net-weight-50-gm-1-kg",
   "RecType": "",
   "PictureUrls": [
-    "https://i.chaldn.com/_mpimage/split-pea-motor-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47054&q=best&v=1"
+    "https://i.chaldn.com/_mpimage/bengal-meat-chicken-thigh-keema-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74662&q=best&v=1"
   ],
   "OfferPictureUrls": [],
   "AllCategoryIds": [
-    198
+    1593,
+    1696
   ],
   "AllRecursiveCategoryIds": [
-    198,
-    104,
+    1593,
+    23,
+    2,
+    1696,
+    23,
     2
   ],
   "AllManufacturerIds": [
-    295,
-    348
+    534,
+    542,
+    172,
+    358
   ],
   "DoNotApplyDiscounts": false,
   "BlockSale": false,
   "ProductAvailabilityForSelectedWarehouse": [
     {
-      "Quantity": 2,
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "360000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "792000000000"
+      },
+      "Quantity": 50,
       "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757606152019",
-        "Offset": {
-          "Ticks": "216000000000"
-        }
-      }
-    },
-    {
-      "Quantity": 3,
-      "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757651400000",
+        "UnixTimeMilliseconds": "1757512222213",
         "Offset": {
           "Ticks": "216000000000"
         }
       },
       "AvailabilityExpiryTime": {
-        "UnixTimeMilliseconds": "1757608200000",
+        "UnixTimeMilliseconds": "1757516400000",
         "Offset": {
           "Ticks": "216000000000"
         }
@@ -70,20 +73,17 @@
     },
     {
       "EarliestAvailableTimeOfDay": {
-        "Ticks": "0"
-      },
-      "AvailabilityCutOffTimeOfDay": {
-        "Ticks": "810000000000"
+        "Ticks": "252000000000"
       },
       "Quantity": 50,
       "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757646000000",
+        "UnixTimeMilliseconds": "1757552400000",
         "Offset": {
           "Ticks": "216000000000"
         }
       },
       "AvailabilityExpiryTime": {
-        "UnixTimeMilliseconds": "1757691000000",
+        "UnixTimeMilliseconds": "1757552400000",
         "Offset": {
           "Ticks": "216000000000"
         }
@@ -93,7 +93,7 @@
   "UnitQuantity": 1,
   "UnitType": "",
   "DrugRegulationType": "",
-  "BaseProductQuantity": 55,
+  "BaseProductQuantity": 100,
   "CatalogItemType": "Grocery",
   "AlternateOf": "",
   "SimilarOf": "",
@@ -101,19 +101,19 @@
   "CountryOriginCode": "BD",
   "Capacity": {
     "Weight": {
-      "Lo": 504,
+      "Lo": 1090,
       "Mid": 0,
       "Hi": 0,
       "SignScale": 0
     },
     "Volume": {
-      "Lo": 1190,
+      "Lo": 3060,
       "Mid": 0,
       "Hi": 0,
       "SignScale": 0
     },
     "MaxDimension": {
-      "Lo": 17,
+      "Lo": 20,
       "Mid": 0,
       "Hi": 0,
       "SignScale": 0
@@ -121,6 +121,6 @@
   },
   "AlternateGroupIds": [],
   "IsAgeRestricted": false,
-  "category": "Dal_or_Lentil",
-  "id": 341
+  "category": "Chicken_Poultry",
+  "id": 85
 }

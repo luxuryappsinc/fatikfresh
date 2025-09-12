@@ -1,59 +1,62 @@
 {
-  "ProductVariantId": 10164,
-  "Name": "Moshur Dal (Deshi) 1 kg",
-  "NameBn": "মশুর ডাল (দেশি) ১ কেজি",
-  "NameWithoutSubText": "Moshur Dal (Deshi)",
-  "SubText": "1 kg",
+  "ProductVariantId": 50926,
+  "Name": "Broiler Chicken Skin Off ± 50 gm 1.4 kg",
+  "NameBn": "ব্রয়লার মুরগি চামড়া ছাড়া ± ৫০ গ্রাম ১.৪ কেজি",
+  "NameWithoutSubText": "Broiler Chicken Skin Off ± 50 gm",
+  "SubText": "1.4 kg",
   "Price": {
-    "Lo": 159,
+    "Lo": 420,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "DiscountedPrice": {
-    "Lo": 159,
+    "Lo": 399,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "CorporatePrice": {
-    "Lo": 159,
+    "Lo": 399,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
-  "LongDescription": "These skinless, red lentils are small and round. They are fast-cooking and don't need to be soaked. They are often cooked, mashed, and added to curries and soups. Masoor is a very versatile lentil and has a creamy texture and warming flavor.      ",
-  "Slug": "moshur-dal-deshi-500-gm",
+  "LongDescription": "(2,000gm to 2,100gm)rnBefore processing this product's live weight was 2.3 kg. Broiler chickens are raised primarily for meat rather than to lay eggs. These poultry are often white and are bred to be large and very healthy, often with more breast meat for the consumer market. Broiler chicken breeds grow very fast and offer good value in terms of protein and calories.",
+  "Slug": "broiler-chicken-skin-off-50-gm-14-kg",
   "RecType": "",
   "PictureUrls": [
-    "https://i.chaldn.com/_mpimage/moshur-dal-deshi-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47048&q=best&v=1"
+    "https://i.chaldn.com/_mpimage/broiler-chicken-skin-off-50-gm-14-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D163162&q=best&v=1&m=400"
   ],
   "OfferPictureUrls": [],
   "AllCategoryIds": [
-    198,
-    238
+    1593
   ],
   "AllRecursiveCategoryIds": [
-    198,
-    104,
-    2,
-    238
+    1593,
+    23,
+    2
   ],
-  "AllManufacturerIds": [
-    543,
-    257,
-    277,
-    278,
-    287,
-    364
-  ],
+  "AllManufacturerIds": [],
   "DoNotApplyDiscounts": false,
   "BlockSale": false,
   "ProductAvailabilityForSelectedWarehouse": [
     {
-      "Quantity": 14,
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "360000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "792000000000"
+      },
+      "Quantity": 50,
       "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757606152018",
+        "UnixTimeMilliseconds": "1757512222212",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757516400000",
         "Offset": {
           "Ticks": "216000000000"
         }
@@ -61,20 +64,17 @@
     },
     {
       "EarliestAvailableTimeOfDay": {
-        "Ticks": "0"
-      },
-      "AvailabilityCutOffTimeOfDay": {
-        "Ticks": "810000000000"
+        "Ticks": "252000000000"
       },
       "Quantity": 50,
       "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757646000000",
+        "UnixTimeMilliseconds": "1757552400000",
         "Offset": {
           "Ticks": "216000000000"
         }
       },
       "AvailabilityExpiryTime": {
-        "UnixTimeMilliseconds": "1757691000000",
+        "UnixTimeMilliseconds": "1757552400000",
         "Offset": {
           "Ticks": "216000000000"
         }
@@ -84,7 +84,7 @@
   "UnitQuantity": 1,
   "UnitType": "",
   "DrugRegulationType": "",
-  "BaseProductQuantity": 64,
+  "BaseProductQuantity": 100,
   "CatalogItemType": "Grocery",
   "AlternateOf": "",
   "SimilarOf": "",
@@ -92,26 +92,26 @@
   "CountryOriginCode": "BD",
   "Capacity": {
     "Weight": {
-      "Lo": 1000,
+      "Lo": 1400,
       "Mid": 0,
       "Hi": 0,
       "SignScale": 0
     },
     "Volume": {
-      "Lo": 1242,
-      "Mid": 0,
+      "Lo": 208391486,
+      "Mid": 1,
       "Hi": 0,
-      "SignScale": 0
+      "SignScale": 6
     },
     "MaxDimension": {
-      "Lo": 23,
+      "Lo": 2007,
       "Mid": 0,
       "Hi": 0,
-      "SignScale": 0
+      "SignScale": 2
     }
   },
   "AlternateGroupIds": [],
   "IsAgeRestricted": false,
-  "category": "Dal_or_Lentil",
-  "id": 332
+  "category": "Chicken_Poultry",
+  "id": 76
 }

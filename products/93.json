@@ -1,65 +1,57 @@
 {
-  "ProductVariantId": 7456,
-  "Name": "Kheshari Dal 500 gm",
-  "NameBn": "খেসারি ডাল ৫০০ গ্রাম",
-  "NameWithoutSubText": "Kheshari Dal",
+  "ProductVariantId": 39155,
+  "Name": "Chaldal Premium Chicken Keema (Net Weight ± 50 gm) 500 gm",
+  "NameBn": "চালডাল প্রিমিয়াম চিকেন কিমা (নিট ওজন ± ৫০ গ্রাম) ৫০০ গ্রাম",
+  "NameWithoutSubText": "Chaldal Premium Chicken Keema (Net Weight ± 50 gm)",
   "SubText": "500 gm",
   "Price": {
-    "Lo": 69,
+    "Lo": 499,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "DiscountedPrice": {
-    "Lo": 65,
+    "Lo": 319,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "CorporatePrice": {
-    "Lo": 65,
+    "Lo": 319,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
-  "LongDescription": "Kheshari Dal (also known as Toor Dal or Pigeon Pea in some regions) is a commonly used lentil in South Asian cooking. Known for its yellow color and mild flavor, it is a rich source of protein, fiber, and essential vitamins. Kheshari Dal is versatile and can be used in a variety of dishes, from hearty dals to curries and stews.rnrnIngredients: Natural Toor Dal (Pigeon Pea).rnrnBenefits:rnHigh in Protein: Excellent source of plant-based protein, essential for muscle building and repair.rnRich in Fiber: Helps in digestion and promotes satiety, supporting weight management.rnLow Glycemic Index: Ideal for people with diabetes as it helps in stabilizing blood sugar levels.rnHeart-Healthy: Contains low levels of saturated fat, supporting overall cardiovascular health.rnNutrient-Rich: High in iron, magnesium, and B vitamins, contributing to overall health.",
-  "Slug": "khashari-dal-500-gm",
+  "LongDescription": "Create delightful, healthy meals with Chaldal Premium Chicken Keema, made from  fresh, high-quality chicken. Finely minced for convenience, this keema is versatile and perfect for a wide range of dishes, from traditional curries and stir-fries to modern recipes like pasta, wraps, and meatballs.rnrnKey Features:rnrnFresh & Premium Quality: Made from top-grade, tender chicken for a rich and delicious taste.rnNet Weight: ± 50 gm tolerance ensures approximately 500 gm per pack.rnProtein-Packed: A lean, healthy option for nutritious meals.rnHygienic Packaging: Ensures maximum freshness and quality.rnVersatile: Ideal for both traditional Bangladeshi dishes and international recipes.rnrnOrder Chaldal Premium Chicken Keema today for a hassle-free cooking experience and enjoy delicious meals straight from your kitchen!",
+  "Slug": "chaldal-premium-chicken-keema-net-weight-50-gm-500-gm",
   "RecType": "",
   "PictureUrls": [
-    "https://i.chaldn.com/_mpimage/kheshari-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129752&q=best&v=1"
+    "https://i.chaldn.com/_mpimage/chaldal-premium-chicken-keema-net-weight-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174695&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/chaldal-premium-chicken-keema-net-weight-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174648&q=best&v=1"
   ],
   "OfferPictureUrls": [],
   "AllCategoryIds": [
-    198
+    1593,
+    1725
   ],
   "AllRecursiveCategoryIds": [
-    198,
-    104,
+    1593,
+    23,
+    2,
+    1725,
+    23,
     2
   ],
   "AllManufacturerIds": [
-    295,
-    364
+    542
   ],
   "DoNotApplyDiscounts": false,
   "BlockSale": false,
   "ProductAvailabilityForSelectedWarehouse": [
     {
-      "EarliestAvailableTimeOfDay": {
-        "Ticks": "0"
-      },
-      "AvailabilityCutOffTimeOfDay": {
-        "Ticks": "810000000000"
-      },
-      "Quantity": 50,
+      "Quantity": 3,
       "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757646000000",
-        "Offset": {
-          "Ticks": "216000000000"
-        }
-      },
-      "AvailabilityExpiryTime": {
-        "UnixTimeMilliseconds": "1757691000000",
+        "UnixTimeMilliseconds": "1757508622214",
         "Offset": {
           "Ticks": "216000000000"
         }
@@ -69,7 +61,7 @@
   "UnitQuantity": 1,
   "UnitType": "",
   "DrugRegulationType": "",
-  "BaseProductQuantity": 50,
+  "BaseProductQuantity": 3,
   "CatalogItemType": "Grocery",
   "AlternateOf": "",
   "SimilarOf": "",
@@ -83,20 +75,22 @@
       "SignScale": 0
     },
     "Volume": {
-      "Lo": 688256688,
+      "Lo": 910,
       "Mid": 0,
       "Hi": 0,
-      "SignScale": 6
+      "SignScale": 0
     },
     "MaxDimension": {
-      "Lo": 1778,
+      "Lo": 13,
       "Mid": 0,
       "Hi": 0,
-      "SignScale": 2
+      "SignScale": 0
     }
   },
-  "AlternateGroupIds": [],
+  "AlternateGroupIds": [
+    1637
+  ],
   "IsAgeRestricted": false,
-  "category": "Dal_or_Lentil",
-  "id": 349
+  "category": "Chicken_Poultry",
+  "id": 93
 }

@@ -1,44 +1,54 @@
 {
-  "ProductVariantId": 50475,
-  "Name": "Farmer's Gold Khesari Dal 500 gm",
-  "NameBn": "ফার্মার'স গোল্ড খেসারি ডাল ৫০০ গ্রাম",
-  "NameWithoutSubText": "Farmer's Gold Khesari Dal",
-  "SubText": "500 gm",
+  "ProductVariantId": 38831,
+  "Name": "Chaldal Premium Broiler Chicken Curry Cut ± 50 gm 1 kg",
+  "NameBn": "চালডাল প্রিমিয়াম ব্রয়লার চিকেন কারি কাট ± ৫০ গ্রাম ১ কেজি",
+  "NameWithoutSubText": "Chaldal Premium Broiler Chicken Curry Cut ± 50 gm",
+  "SubText": "1 kg",
   "Price": {
-    "Lo": 85,
+    "Lo": 429,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "DiscountedPrice": {
-    "Lo": 85,
+    "Lo": 319,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
   "CorporatePrice": {
-    "Lo": 85,
+    "Lo": 319,
     "Mid": 0,
     "Hi": 0,
     "SignScale": 0
   },
-  "LongDescription": "It provides benefits in cardiovascular disease and cancer treatments. According to researchers, Khesari helps to improve memory and can be used to fight Alzheimer's and Parkinson's syndromes.",
-  "Slug": "farmers-gold-khesari-dal-500-gm",
+  "LongDescription": "Every 1 kg of the product will contain  22-25 pcs of Premium Broiler ChickenrnrnThis is processed and packaged by Chaldal's processing plant. The hygiene is well maintained and halal way is maintained.rn Our curry cut offers a healthy and high-quality protein option that's sure to impress. No added hormones or preservatives, it's a healthy and high-quality protein option that's sure to elevate your meals.",
+  "Slug": "chaldal-premium-broiler-chicken-curry-cut-50-gm-1-kg",
   "RecType": "",
   "PictureUrls": [
-    "https://i.chaldn.com/_mpimage/farmers-gold-khesari-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D160665&q=best&v=1"
+    "https://i.chaldn.com/_mpimage/chaldal-premium-broiler-chicken-curry-cut-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174698&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/chaldal-premium-broiler-chicken-curry-cut-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174697&q=best&v=1"
   ],
   "OfferPictureUrls": [],
   "AllCategoryIds": [
-    198
+    1593,
+    1696,
+    1725
   ],
   "AllRecursiveCategoryIds": [
-    198,
-    104,
+    1593,
+    23,
+    2,
+    1696,
+    23,
+    2,
+    1725,
+    23,
     2
   ],
   "AllManufacturerIds": [
-    559
+    534,
+    542
   ],
   "DoNotApplyDiscounts": false,
   "BlockSale": false,
@@ -46,13 +56,7 @@
     {
       "Quantity": 1,
       "EarliestAvailableTime": {
-        "UnixTimeMilliseconds": "1757651400000",
-        "Offset": {
-          "Ticks": "216000000000"
-        }
-      },
-      "AvailabilityExpiryTime": {
-        "UnixTimeMilliseconds": "1757608200000",
+        "UnixTimeMilliseconds": "1757511555959",
         "Offset": {
           "Ticks": "216000000000"
         }
@@ -70,26 +74,28 @@
   "CountryOriginCode": "BD",
   "Capacity": {
     "Weight": {
-      "Lo": 510,
+      "Lo": 1000,
       "Mid": 0,
       "Hi": 0,
       "SignScale": 0
     },
     "Volume": {
-      "Lo": 540773112,
+      "Lo": 2520,
       "Mid": 0,
       "Hi": 0,
-      "SignScale": 6
+      "SignScale": 0
     },
     "MaxDimension": {
-      "Lo": 1524,
+      "Lo": 18,
       "Mid": 0,
       "Hi": 0,
-      "SignScale": 2
+      "SignScale": 0
     }
   },
-  "AlternateGroupIds": [],
+  "AlternateGroupIds": [
+    5451
+  ],
   "IsAgeRestricted": false,
-  "category": "Dal_or_Lentil",
-  "id": 355
+  "category": "Premium_Perishables",
+  "id": 99
 }
