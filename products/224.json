@@ -1,0 +1,127 @@
+{
+  "ProductVariantId": 20357,
+  "Name": "Radhuni Turmeric (Holud) Powder Jar 200 gm",
+  "NameBn": "রাঁধুনী হলুদের গুঁড়া (জার) ২00 গ্রাম",
+  "NameWithoutSubText": "Radhuni Turmeric (Holud) Powder Jar",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 160,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 160,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 160,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Radhuni Turmeric Powder is a premium-quality spice made from carefully selected turmeric roots. It delivers a vibrant golden color, rich aroma, and distinctive flavor to enhance the taste and presentation of your dishes.rnrnIngredients:rnPure TurmericrnrnUses:rnCooking: Perfect for adding color, flavor, and aroma to curries, soups, and stir-fried dishes.rnMarinades: Essential for marinating meat, fish, and poultry to enhance taste and tenderness.rnBeverages: Ideal for preparing turmeric milk or tea for its health benefits.rnrnMaking Process:rnSelection: High-grade turmeric roots are sourced and carefully cleaned.rnDrying: The roots are sun-dried to retain their natural flavor and nutrients.rnGrinding: Dried turmeric is finely ground into a smooth powder under hygienic conditions.rnPackaging: Packed in an airtight jar to maintain freshness and aroma.rnrnBrand: Radhuni rnPack Size: 200 gm",
+  "Slug": "radhuni-turmeric-holud-powder-jar-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/radhuni-turmeric-holud-powder-jar-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132556&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    506,
+    528,
+    317
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 6,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757597220497",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 4,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757651400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757608200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757600820497",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757604600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 60,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 300,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 80899,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 1651,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 224
+}

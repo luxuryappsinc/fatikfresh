@@ -1,0 +1,108 @@
+{
+  "ProductVariantId": 30590,
+  "Name": "Farmer's Gold Coriander (Dhonia) Powder 200 gm",
+  "NameBn": "ফার্মার‘স গোল্ড ধনিয়া গুঁড়া ২০০ গ্রাম",
+  "NameWithoutSubText": "Farmer's Gold Coriander (Dhonia) Powder",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 110,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 110,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 110,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Elevate your culinary creations with the fragrant and versatile Farmer's Gold Coriander (Dhonia) Powder. This 200g jar of coriander powder captures the essence of this beloved spice, enhancing the flavors of your dishes while offering a delightful touch of traditional goodness.",
+  "Slug": "farmers-gold-coriander-dhonia-powder-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/farmers-gold-coriander-dhonia-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D98387&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    473,
+    559,
+    355
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757597220499",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 4,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757651400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757608200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 6,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 6145149,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 4
+    },
+    "MaxDimension": {
+      "Lo": 1524,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    2942
+  ],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 240
+}

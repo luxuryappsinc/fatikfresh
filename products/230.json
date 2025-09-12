@@ -1,0 +1,102 @@
+{
+  "ProductVariantId": 52436,
+  "Name": "Imperial Eats Healthy Gut Mix 250 gm",
+  "NameBn": "ইম্পেরিয়াল ইটস হেলদি গাট মিক্স ২৫০ গ্রাম",
+  "NameWithoutSubText": "Imperial Eats Healthy Gut Mix",
+  "SubText": "250 gm",
+  "Price": {
+    "Lo": 550,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 413,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 413,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Imperial Eats Healthy Gut Mix is a nutrient-packed blend designed to support digestive health. This carefully crafted mix combines high-fiber ingredients, probiotics, and prebiotics to promote gut balance and improve digestion. With a delicious combination of seeds, nuts, and natural enzymes, it’s the perfect snack to nourish your gut and boost overall wellness. Ideal for those looking to enhance their digestive health naturally, Imperial Eats Healthy Gut Mix offers a tasty, convenient way to prioritize your gut’s well-being.",
+  "Slug": "imperial-eats-healthy-gut-mix-250-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/imperial-eats-healthy-gut-mix-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167800&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 3,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757597220498",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 18,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757651400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757608200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 21,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 250,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 73695,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 102,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 230
+}

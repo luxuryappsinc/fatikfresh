@@ -1,0 +1,108 @@
+{
+  "ProductVariantId": 30580,
+  "Name": "Farmer's Gold Black Pepper (Gol Morich) Powder 100 gm",
+  "NameBn": "ফার্মার‘স গোল্ড কালো গোল মরিচ গুঁড়া ১০০ গ্রাম",
+  "NameWithoutSubText": "Farmer's Gold Black Pepper (Gol Morich) Powder",
+  "SubText": "100 gm",
+  "Price": {
+    "Lo": 270,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 270,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 270,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from India.rnrnBlack pepper powder is great for colds, coughs, and colds. Pepper is also very useful for those who have asthma or sinus problems. Acts as an anti-cancer ingredient.",
+  "Slug": "farmers-gold-black-pepper-gol-morich-powder-100-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/farmers-gold-black-pepper-gol-morich-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D98367&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    473,
+    559,
+    355
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757597220500",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 5,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757651400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757608200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 7,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 100,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 32774128,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 127,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    2909
+  ],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 247
+}

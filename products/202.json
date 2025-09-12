@@ -1,0 +1,96 @@
+{
+  "ProductVariantId": 39177,
+  "Name": "Chaldal Premium Beef Keema (Net Weight ± 50 gm) 250 gm",
+  "NameBn": "চালডাল প্রিমিয়াম গরুর মাংস কিমা (নিট ওজন ± ৫০ গ্রাম) ২৫০ গ্রাম",
+  "NameWithoutSubText": "Chaldal Premium Beef Keema (Net Weight ± 50 gm)",
+  "SubText": "250 gm",
+  "Price": {
+    "Lo": 369,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 299,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 299,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Upgrade your meals with Chaldal Premium Beef Keema, made from carefully selected, high-quality beef to bring you rich flavor and tenderness in every bite. Perfectly minced for convenience, this keema is ideal for preparing mouthwatering dishes like kebabs, meatballs, curries, and stuffed parathas.rnrnKey Features:rnrnPremium Quality: Sourced from fresh, high-grade beef for unbeatable taste and texture.rnNet Weight: ± 50 gm tolerance ensures you get approximately 250 gm per pack.rnrnVersatile Use: Perfect for traditional and modern recipes.rnHygienically Packed: Maintains freshness and quality from farm to your kitchen.rnrnAdd Chaldal Premium Beef Keema to your cart today and enjoy the convenience of crafting flavorful, protein-rich meals effortlessly!",
+  "Slug": "chaldal-premium-beef-keema-net-weight-50-gm-250-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/chaldal-premium-beef-keema-net-weight-50-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174817&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/chaldal-premium-beef-keema-net-weight-50-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174816&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1696,
+    1725
+  ],
+  "AllRecursiveCategoryIds": [
+    1696,
+    23,
+    2,
+    1725,
+    23,
+    2
+  ],
+  "AllManufacturerIds": [
+    542
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 3,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757592121690",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 3,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 250,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 280,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 10,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    5384
+  ],
+  "IsAgeRestricted": false,
+  "category": "Meat",
+  "id": 202
+}

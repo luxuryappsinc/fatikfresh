@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 5823,
+  "Name": "Dried Chillies (Shukna Morich) 100 gm",
+  "NameBn": "শুকনা মরিচ ১০০ গ্রাম",
+  "NameWithoutSubText": "Dried Chillies (Shukna Morich)",
+  "SubText": "100 gm",
+  "Price": {
+    "Lo": 55,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 55,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 55,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Dried Chillies (known as Shukna Morich in South Asia) are whole chilies that have been dried to preserve their flavor and heat. These chillies come in various varieties, including red, green, and yellow, and are used to add spice, heat, and depth to a wide range of dishes. Dried chillies are commonly used in Indian, Pakistani, Bangladeshi, and other South Asian cuisines for tempering (tadka), pickling, or as a base for sauces and curries.rnrnUses: Tempering (Tadka), Curries and Sauces Pickles, Spice Blends, Snacks and Garnishes.rnrnBenefits:rnRich in Vitamin C: Dried chillies are a good source of vitamin C, which helps boost immunity and skin health.rnSupports Metabolism: The capsaicin in dried chillies can increase metabolism and aid in weight management.rnPain Relief: Capsaicin is known to have pain-relieving properties and is often used in topical creams for muscle and joint pain.rnAntioxidant Properties: The antioxidants in dried chillies help combat free radicals in the body and promote overall health.rnDigestive Aid: Dried chillies can improve digestion by increasing the production of digestive enzymes.rnrnStorage Instructions: Store in a dry place. After opening, transfer the dried chillies to an airtight container to preserve their flavor and aroma.",
+  "Slug": "dried-chillies-shukna-morich-100-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/dried-chillies-shukna-morich-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48364&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107,
+    238
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2,
+    238
+  ],
+  "AllManufacturerIds": [
+    277
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757600820501",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757604600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 100,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1363739208,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 1651,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 255
+}

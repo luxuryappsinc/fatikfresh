@@ -1,0 +1,107 @@
+{
+  "ProductVariantId": 6230,
+  "Name": "Radhuni Garam Masala 40 gm",
+  "NameBn": "রাঁধুনী গরম মশলা ৪০ গ্রাম",
+  "NameWithoutSubText": "Radhuni Garam Masala",
+  "SubText": "40 gm",
+  "Price": {
+    "Lo": 80,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 80,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 80,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Radhuni Garam Masala is a finely blended spice mix made from high-quality, aromatic spices. It is an essential ingredient in South Asian cuisine, providing a warm, robust flavor to a variety of dishes. This 40 gm pack is ideal for home use, adding a burst of authentic taste and aroma to your recipes.rnrnIngredients: Cinnamon, Cardamom, Cloves, Cumin, Black Pepper, Nutmeg, Mace. rnrnNote: The exact blend of spices may vary slightly. Always check the packaging for specific ingredients.rnrnBenefits:rnEnhances Flavor: The blend of aromatic spices elevates the taste of any dish.rnRich in Antioxidants: Contains spices that are known for their health benefits, including anti-inflammatory properties and aiding digestion.rnVersatile: Can be used in a wide range of dishes, from traditional curries to modern fusion recipes.",
+  "Slug": "radhuni-garam-masala-40-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/radhuni-garam-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132527&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    506,
+    528,
+    186,
+    257,
+    317,
+    472,
+    474
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757600820501",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757604600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 40,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 221225364,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 1143,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 257
+}

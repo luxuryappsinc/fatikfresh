@@ -1,0 +1,96 @@
+{
+  "ProductVariantId": 52495,
+  "Name": "Raaj Hash (Swan) Meat After Cutting (Net Weight ± 50 gm) 1 kg",
+  "NameBn": "রাজহাশ (হাঁস) কাটার পর মাংস (নিট ওজন ± ৫০ গ্রাম) ১ কেজি",
+  "NameWithoutSubText": "Raaj Hash (Swan) Meat After Cutting (Net Weight ± 50 gm)",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 1019,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 919,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 919,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "In this pack, we are offering 1 kg Raaj Hash (Swan) Meat which is 1300gm to 1400 gm weight while it's live. Raaj Hash (Swan) meat is delicious to eat in winter. At this time, everyone eats duck meat more or less. Duck meat can be cooked in various ways. Duck meat is a good source of protein. It contains niacin, phosphorus, riboflavin, iron, zinc, vitamin B6, and thiamine. Apart from this, there is a small amount of vitamin B12 and magnesium. Duck meat, including the skin, also contains a high amount of fat and cholesterol.",
+  "Slug": "raaj-hash-swan-meat-after-cutting-net-weight-50-gm-1-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/raaj-hash-swan-meat-after-cutting-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167899&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1696
+  ],
+  "AllRecursiveCategoryIds": [
+    1696,
+    23,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757638800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757638800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1000,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 399225008,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 3556,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Meat",
+  "id": 195
+}
