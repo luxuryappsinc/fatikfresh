@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 23425,
+  "Name": "Nestle Maggi 2 Minute Masala Instant Noodles 16 pack",
+  "NameBn": "নেসলে ম্যাগি ২-মিনিট মাসালা ইন্সট্যান্ট নুডুলস ১৬ প্যাক",
+  "NameWithoutSubText": "Nestle Maggi 2 Minute Masala Instant Noodles",
+  "SubText": "16 pack",
+  "Price": {
+    "Lo": 340,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 340,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 340,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from India.rnrnAGGI offers tasty and healthy snack options for Bangladeshi families rnFortified with Vitamin A, Iron, and Iodine. rnThe tastemaker is comprised of known ingredients typically found in Bangladeshi households, such as turmeric, pepper, coriander, ginger, and cardamom. rnTo boost the goodness in your bowl, add colorful vegetables and lean protein such as chicken. rnContains noodle cake & Tastemaker inside for a quick 2-minute preparation rnVariant: MasalarnNet Weight: 992g ",
+  "Slug": "nestle-maggi-2-minute-masala-instant-noodles-16-pack",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/nestle-maggi-2-minute-masala-instant-noodles-16-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D153592&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    93
+  ],
+  "AllRecursiveCategoryIds": [
+    93,
+    49,
+    2
+  ],
+  "AllManufacturerIds": [
+    445,
+    472,
+    529
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1020,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 524386048,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 254,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Noodles",
+  "id": 1451
+}

@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 20505,
+  "Name": "Mama Cup Noodles (Hot & Spicy Flavour) 62 gm 1 pcs",
+  "NameBn": "মামা কাপ নুডলস (হট অ্যান্ড স্পাইসি ফ্লেভার) ৬২ গ্রাম ১ টি",
+  "NameWithoutSubText": "Mama Cup Noodles (Hot & Spicy Flavour) 62 gm",
+  "SubText": "each",
+  "Price": {
+    "Lo": 110,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 110,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 110,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Introducing Mama Hot & Spicy Cup Noodles, a thrilling and convenient choice for instant noodles that delivers a fiery and flavorful experience to your taste buds. This single cup contains 62 gm of noodles, ready to provide you with a bold and satisfying meal. Elevate your dining experience with the convenience and tantalizing taste of Mama Hot & Spicy Cup Noodles. Experience the zesty delight of Mama Hot & Spicy Cup Noodles. Each cup contains a serving of noodles infused with a tantalizing blend of hot and spicy seasonings, creating a taste that ignites your senses. The noodles are effortlessly prepared by adding hot water, making this cup an ideal choice for days when you crave a bold and invigorating dish.",
+  "Slug": "mama-cup-noodles-hot-spicy-flavour-62-gm-1-pcs",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/mama-cup-noodles-hot-spicy-flavour-62-gm-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130527&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    93
+  ],
+  "AllRecursiveCategoryIds": [
+    93,
+    49,
+    2
+  ],
+  "AllManufacturerIds": [
+    296,
+    364
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 12,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    3445
+  ],
+  "IsAgeRestricted": false,
+  "category": "Noodles",
+  "id": 1495
+}

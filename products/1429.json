@@ -1,0 +1,123 @@
+{
+  "ProductVariantId": 20507,
+  "Name": "Mama Noodles (Shrimp Tomyum Flavour) 8 pcs 496 gm",
+  "NameBn": "মামা নুডলস (শ্রিম্প টমিয়াম ফ্লেভার) ৮ টি ৪৯৬ গ্রাম",
+  "NameWithoutSubText": "Mama Noodles (Shrimp Tomyum Flavour) 8 pcs",
+  "SubText": "496 gm",
+  "Price": {
+    "Lo": 175,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 175,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 175,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Introducing Mama Shrimp Noodles, a delightful and convenient choice for instant noodles that brings the succulent taste of shrimp to your plate. This package contains 8 individual servings, with a total weight of 496 gm of noodles. Elevate your dining experience with the convenience and savory taste of Mama Shrimp Noodles.rnrnExperience the exquisite delight of Mama Shrimp Noodles. Each serving of noodles is complemented by the rich and authentic flavor of shrimp, creating a taste that satisfies seafood cravings. The noodles are quick and easy to prepare, making them an excellent option for a swift meal solution or when you're in the mood for a delicious shrimp-infused dish.",
+  "Slug": "mama-noodles-shrimp-tomyum-flavour-8-pcs-496-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/mama-noodles-shrimp-tomyum-flavour-8-pcs-496-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131893&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    93
+  ],
+  "AllRecursiveCategoryIds": [
+    93,
+    49,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757954739315",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1758083400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758040200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 53,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 294967152,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 2286,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Noodles",
+  "id": 1429
+}

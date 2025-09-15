@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 27726,
+  "Name": "Samyang Hot Chicken Carbo Cup Noodles 80 gm",
+  "NameBn": "সামিয়াং হট চিকেন কার্বো কাপ নুডলস ৮০ গ্রাম",
+  "NameWithoutSubText": "Samyang Hot Chicken Carbo Cup Noodles",
+  "SubText": "80 gm",
+  "Price": {
+    "Lo": 229,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 229,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 229,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Ingredients: Noodle (77.5%): Wheat Flour, Modified Tapioca Starch, Refined Palm Oil, Modified Potato Starch, Refined Salt, Glycerin, Soybean Oil, Thickener [Guar Gum (E412)], Purified Water, Emulsifier [Lecithin(E322)], Acidity Regulator [Potassium Carbonate(E501), Sodium Carbonate(E500), Sodium Phosphate Dibasic(E339)",
+  "Slug": "samyang-hot-chicken-carbo-cup-noodles-80-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/samyang-hot-chicken-carbo-cup-noodles-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133119&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    93
+  ],
+  "AllRecursiveCategoryIds": [
+    93,
+    49,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "KR",
+  "Capacity": {
+    "Weight": {
+      "Lo": 80,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 10080,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 40,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    3446
+  ],
+  "IsAgeRestricted": false,
+  "category": "Noodles",
+  "id": 1476
+}

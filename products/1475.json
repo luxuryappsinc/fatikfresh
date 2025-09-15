@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 27729,
+  "Name": "Samyang Hot Chicken Cheese Cup Noodles 70 gm",
+  "NameBn": "সামিয়াং হট চিকেন চিজ কাপ নুডলস ৭০ গ্রাম",
+  "NameWithoutSubText": "Samyang Hot Chicken Cheese Cup Noodles",
+  "SubText": "70 gm",
+  "Price": {
+    "Lo": 229,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 229,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 229,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Ingredients: Noodles (75.8%) WHEAT flour (41%), modified tapioca starch (17%), refined palm oil (14%), WHEAT gluten, salt, acidity regulator: citric acid (E330), sodium phosphate dibasic (E339), sodium carbonate (E500), potassium carbonate (E501), SOYBEAN oil, onion extract, sugar solution, sweetener.",
+  "Slug": "samyang-hot-chicken-cheese-cup-noodles-70-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/samyang-hot-chicken-cheese-cup-noodles-70-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133120&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    93
+  ],
+  "AllRecursiveCategoryIds": [
+    93,
+    49,
+    2
+  ],
+  "AllManufacturerIds": [
+    293,
+    296
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "KR",
+  "Capacity": {
+    "Weight": {
+      "Lo": 70,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 10080,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 40,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    3446
+  ],
+  "IsAgeRestricted": false,
+  "category": "Noodles",
+  "id": 1475
+}

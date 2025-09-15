@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 28899,
+  "Name": "Nongshim Chapagetti Original Noodles 140 gm",
+  "NameBn": "নংশিম চাপাগেটটি অরিজিনাল নুডলস ১৪০ গ্রাম ",
+  "NameWithoutSubText": "Nongshim Chapagetti Original Noodles",
+  "SubText": "140 gm",
+  "Price": {
+    "Lo": 175,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 175,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 175,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Chapagetti combines thick, chewy noodles with a savory black bean paste sauce, delivering a sweet and hearty taste reminiscent of traditional Jjajangmyeon. The product includes vegetable flakes such as carrot and onion, enhancing both flavor and texture. rnrnIngredients:rnNoodles: Wheat flour, potato starch, palm oil, salt, seasoning (rice oil, sugar, sweetener: E420, emulsifier: E322 [contains soy]), acidity regulators (E501, E339, E500), tocopherol liquid (antioxidant: E306, emulsifier: E322 [contains soy]), green tea extract (oligosaccharides, tea catechin, acidifier: E330), colorant: E101.rnSoup Powder: Seasoning (soybean paste, corn flour, onions, maltodextrin, salt, palm oil, wheat, shrimp), sugar, caramel powder (maltodextrin, colorant: E150c), flavor enhancers (E631, E627), salt.rnSeasoning Oil: Vegetable oil (rapeseed, olive oil, corn, peanuts, sesame, mustard), onions.rnFlakes: Textured vegetable protein (defatted soybeans, glucose, wheat gluten), cabbage, fried potato (potato, palm oil), onions, carrots.rnrnCooking Process:rnBoil 600 ml of water.rnAdd the noodles and vegetable flakes to the boiling water.rnCook for 5 minutes, stirring occasionally.rnRemove from heat and drain the water, leaving approximately 8 tablespoons (120 ml).rnAdd the soup powder and seasoning oil to the noodles, stirring well to combine.rnServe hot.rnrnUse: Chapagetti is ideal for a quick and satisfying meal, suitable for lunch, dinner, or a hearty snack.rnrnBenefits:rnConvenience: Ready in approximately 5 minutes, requiring only boiling water.rnFlavor: Offers a rich, savory taste with a blend of black bean paste and spices.rnTexture: Features thick, chewy noodles that enhance the eating experience.rnrnBrand : NongshimrnNet Weight : 140 grams per pack.",
+  "Slug": "nongshim-chapagetti-original-noodles-140-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/nongshim-chapagetti-original-noodles-140-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115718&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    93
+  ],
+  "AllRecursiveCategoryIds": [
+    93,
+    49,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "KR",
+  "Capacity": {
+    "Weight": {
+      "Lo": 140,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 672,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 16,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    3459
+  ],
+  "IsAgeRestricted": false,
+  "category": "Noodles",
+  "id": 1473
+}

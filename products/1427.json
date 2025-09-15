@@ -1,0 +1,111 @@
+{
+  "ProductVariantId": 56122,
+  "Name": "MAGGI Hot & Spicy Blast Noodles 8 pack",
+  "NameBn": "ম্যাগি হট অ্যান্ড স্পাইসি ব্লাস্ট নুডলস ৮ প্যাক",
+  "NameWithoutSubText": "MAGGI Hot & Spicy Blast Noodles",
+  "SubText": "8 pack",
+  "Price": {
+    "Lo": 200,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 200,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 200,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "MAGGI HOT & SPICY BLAST is yummy and spicy Noodles especially for the teenagers who love to have hot and spicy foods. Besides, its unique tastemaker is comprised of the ingredients that consumers know and love such as red chilli, coriander, cumin and other 11 spices sourced from both home and abroad. Add fresh vegetable & egg to make it more tasty & healthy for your family.",
+  "Slug": "maggi-hot-spicy-blast-noodles-8-pack",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/maggi-hot-spicy-blast-noodles-8-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180296&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/maggi-hot-spicy-blast-noodles-8-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180299&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    93,
+    1479
+  ],
+  "AllRecursiveCategoryIds": [
+    93,
+    49,
+    2,
+    1479
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 5,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757954739315",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 55,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 404,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 391733008,
+      "Mid": 1,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2794,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Noodles",
+  "id": 1427
+}

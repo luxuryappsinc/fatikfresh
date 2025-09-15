@@ -1,0 +1,112 @@
+{
+  "ProductVariantId": 7752,
+  "Name": "Mama Noodles (Chicken Flavour) 8 pcs 496 gm",
+  "NameBn": "মামা নুডুলস (চিকেন ফ্লেভার) ৮ টি ৪৯৬ গ্রাম",
+  "NameWithoutSubText": "Mama Noodles (Chicken Flavour) 8 pcs",
+  "SubText": "496 gm",
+  "Price": {
+    "Lo": 175,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 175,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 175,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Introducing Mama Noodles Chicken Flavour, a delectable and convenient choice for instant noodles that brings the savory goodness of chicken flavor to your plate. This package contains 8 individual servings, totaling 496 gm of noodles. Elevate your mealtime with the convenience and delightful taste of Mama Noodles Chicken Flavour.rnrnExperience the comforting taste of Mama Noodles Chicken Flavour. Each serving of noodles is accompanied by a flavorful chicken seasoning that enhances the overall taste experience. The noodles are quick and easy to prepare, making them an ideal choice for busy days or when you're craving a satisfying meal without the fuss.",
+  "Slug": "mama-noodles-chicken-flavour-8-pcs-496-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/mama-noodles-chicken-flavour-8-pcs-496-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131895&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    93
+  ],
+  "AllRecursiveCategoryIds": [
+    93,
+    49,
+    2
+  ],
+  "AllManufacturerIds": [
+    161,
+    472,
+    474
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 3,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757954739315",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757997000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 53,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 520,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 2322866322,
+      "Mid": 1,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2286,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Noodles",
+  "id": 1426
+}

@@ -1,0 +1,128 @@
+{
+  "ProductVariantId": 28005,
+  "Name": "Mama Noodles (Hot And Spicy Flavour) 10 pcs 620 gm",
+  "NameBn": "মামা নুডলস (হট এবং স্পাইসি ফ্লেভার) ১০ টি ৬২০ গ্রাম",
+  "NameWithoutSubText": "Mama Noodles (Hot And Spicy Flavour) 10 pcs",
+  "SubText": "620 gm",
+  "Price": {
+    "Lo": 220,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 220,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 220,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Mama Noodles (Hot and Spicy Flavor) deliver a bold and exciting taste experience for those who crave a little heat! Each pack features flavorful noodles infused with a spicy seasoning blend that packs a punch, making it perfect for spice lovers.rn rnReady in just minutes, these noodles are an ideal choice for a quick meal or snack anytime. Simply boil the noodles, add the seasoning, and enjoy a steaming bowl of deliciousness. You can also customize your dish by adding fresh vegetables, eggs, or your favorite protein for an extra kick.rnrnPackaged for freshness, Mama Noodles ensure that every bite is full of flavor and satisfaction. Dive into the fiery goodness of Mama Noodles (Hot and Spicy Flavor) and elevate your snacking game.",
+  "Slug": "mama-noodles-hot-and-spicy-flavour-10-pcs-620-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/mama-noodles-hot-and-spicy-flavour-10-pcs-620-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D88573&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/mama-noodles-hot-and-spicy-flavour-10-pcs-620-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176669&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    93
+  ],
+  "AllRecursiveCategoryIds": [
+    93,
+    49,
+    2
+  ],
+  "AllManufacturerIds": [
+    293,
+    296,
+    472
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 6,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757954739315",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 5,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1758083400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758040200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 61,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 620,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 55411100,
+      "Mid": 1,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2413,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Noodles",
+  "id": 1425
+}

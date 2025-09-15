@@ -1,0 +1,116 @@
+{
+  "ProductVariantId": 21733,
+  "Name": "Samyang Hot Chicken Cheese Noodles 700 gm",
+  "NameBn": "সামিয়াং হট চিকেন পনির নুডলস ৭০০ গ্রাম",
+  "NameWithoutSubText": "Samyang Hot Chicken Cheese Noodles",
+  "SubText": "700 gm",
+  "Price": {
+    "Lo": 1050,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 1050,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 1050,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Samyang Hot Chicken Cheese Noodles 700 gm is a bulk-sized instant noodle product that combines the fiery spiciness of Samyang's Hot Chicken flavor with the creamy richness of cheese, offering a unique and bold taste experience.rnThis product includes multiple packs of instant noodles, each infused with a spicy cheese seasoning, designed for those who enjoy intense flavors.rnrnIngredients:rnNoodles: Wheat flour, modified tapioca starch, palm oil, wheat gluten, salt, glycerin, soy oil, acidity regulators (E501(i), E500, E339(ii), E330), thickener (E412), purified water, emulsifier (E322), green tea flavor oil.rnSoup Base: Water, artificial cheese flavoring powder, soy sauce, white sugar, artificial chicken flavoring powder, soy oil, chili bell pepper powder, paprika powder, onion, garlic, modified potato starch.rnPowder: Mozzarella cheese powder, roasted sesame, roasted lavender. rnrnCooking Process:rnBoil Water: Bring approximately 600 ml of water to a boil.rnAdd Noodles: Place the noodles into the boiling water.rnCook: Let the noodles cook for 5 minutes, stirring occasionally.rnDrain: Drain the water, leaving a small amount if you prefer a soupier consistency.rnAdd Soup Base: Add the soup base and stir well to combine.rnAdd Cheese Powder: Sprinkle the cheese powder over the noodles and mix thoroughly until the noodles are well-coated.rnServe: Once the noodles are well-coated with the spicy cheese sauce, remove from heat and serve hot. rnrnUse: Ideal for a quick and satisfying meal, these noodles can be enjoyed on their own or enhanced by adding fresh vegetables, proteins like chicken or tofu, or a squeeze of lime to balance the spiciness.rnrnBenefits:rnQuick Preparation: Ready in minutes, suitable for busy individuals.rnBold Flavor: Combines the intense spiciness of Hot Chicken with the creamy richness of cheese.rnConvenient Packaging: Bulk packaging is cost-effective and suitable for families or gatherings.rnrnBrand : Samyang rnNet Weight : 700 gm",
+  "Slug": "samyang-hot-chicken-cheese-noodles-700-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/samyang-hot-chicken-cheese-noodles-700-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103608&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    93
+  ],
+  "AllRecursiveCategoryIds": [
+    93,
+    49,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1758083400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758040200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 51,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "KR",
+  "Capacity": {
+    "Weight": {
+      "Lo": 700,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 3432,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 26,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    3430
+  ],
+  "IsAgeRestricted": false,
+  "category": "Noodles",
+  "id": 1492
+}

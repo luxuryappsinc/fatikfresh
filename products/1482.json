@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 23900,
+  "Name": "Mama Instant Noodles Oriental Kitchen Spicy Seafood 65 gm",
+  "NameBn": "মামা ইন্সট্যান্ট নুডুলস ওরিয়েন্টাল কিচেন স্পাইসি সিফুড ৬৫ গ্রাম",
+  "NameWithoutSubText": "Mama Instant Noodles Oriental Kitchen Spicy Seafood",
+  "SubText": "65 gm",
+  "Price": {
+    "Lo": 180,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 180,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 180,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "• Very convenient and easy to make, enjoy as a meal or snack.rn• Make it your own by adding vegetables or a protein.rn• Individually wrapped packages, eat at home, work, or on-the-go, plastic fork Included.rn• Product of Thailand, Authentic Flavor.",
+  "Slug": "mama-instant-noodles-oriental-kitchen-spicy-seafood-65-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/mama-instant-noodles-oriental-kitchen-spicy-seafood-65-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130549&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    93
+  ],
+  "AllRecursiveCategoryIds": [
+    93,
+    49,
+    2
+  ],
+  "AllManufacturerIds": [
+    467,
+    527
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "TH",
+  "Capacity": {
+    "Weight": {
+      "Lo": 65,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1082035,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 3
+    },
+    "MaxDimension": {
+      "Lo": 115,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    3452
+  ],
+  "IsAgeRestricted": false,
+  "category": "Noodles",
+  "id": 1482
+}

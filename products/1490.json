@@ -1,0 +1,105 @@
+{
+  "ProductVariantId": 22853,
+  "Name": "Mama OK Instant Cup Noodles Hot Korean Flavour 80 gm",
+  "NameBn": "মামা ওরিয়েন্টাল কিচেন ইনস্ট্যান্ট কাপ নুডুলস হট কোরিয়ান ফ্লেভার ৮০ গ্রাম",
+  "NameWithoutSubText": "Mama OK Instant Cup Noodles Hot Korean Flavour",
+  "SubText": "80 gm",
+  "Price": {
+    "Lo": 190,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 190,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 190,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "•Very convenient and easy to make, enjoy as a meal or snack.rnrn•Make it your own by adding vegetables or a protein.rnrn•Individually wrapped packages, eat at home, work, or on-the-go, plastic fork Included.rnrn•Product of Thailand, Authentic Flavor.rn",
+  "Slug": "mama-ok-instant-cup-noodles-hot-korean-flavour-80-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/mama-ok-instant-cup-noodles-hot-korean-flavour-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130555&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    93
+  ],
+  "AllRecursiveCategoryIds": [
+    93,
+    49,
+    2
+  ],
+  "AllManufacturerIds": [
+    467,
+    527,
+    296
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "TH",
+  "Capacity": {
+    "Weight": {
+      "Lo": 124,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 396,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 12,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    3436
+  ],
+  "IsAgeRestricted": false,
+  "category": "Noodles",
+  "id": 1490
+}

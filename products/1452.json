@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 10024,
+  "Name": "Cocola Chicken Masala Noodles 150 gm",
+  "NameBn": "কোকোলা  চিকেন মশলা নুডুলস ১৫০ গ্রাম",
+  "NameWithoutSubText": "Cocola Chicken Masala Noodles",
+  "SubText": "150 gm",
+  "Price": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Cocola Chicken Masala Noodles is a quick and delicious snack or meal option, enriched with protein and flavored with a blend of savory chicken masala. The noodles are easy to prepare and come with a seasoning packet to deliver an authentic and flavorful taste.rnrnIngredients: The noodles are made from a blend of wheat flour, palm oil, salt, and various seasoning additives, including chicken powder, sugar, iodized salt, chili powder, corn starch, and egg powder​.rnrnUsage: Boil the noodles in water for 2-3 minutes. Add the included masala packet for seasoning. Can be garnished with vegetables, boiled eggs, or cooked chicken for a wholesome meal​.",
+  "Slug": "cocola-chicken-masala-noodles-180-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/cocola-chicken-masala-noodles-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127018&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/cocola-chicken-masala-noodles-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D134123&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    93
+  ],
+  "AllRecursiveCategoryIds": [
+    93,
+    49,
+    2
+  ],
+  "AllManufacturerIds": [
+    277,
+    472
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 150,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 345,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 23,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Noodles",
+  "id": 1452
+}
