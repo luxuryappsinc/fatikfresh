@@ -1,0 +1,114 @@
+{
+  "ProductVariantId": 6023,
+  "Name": "Daab (Green Coconut) 1 pcs",
+  "NameBn": "ডাব (সবুজ নারকেল)  ১ টি",
+  "NameWithoutSubText": "Daab (Green Coconut)",
+  "SubText": "each",
+  "Price": {
+    "Lo": 149,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 149,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 149,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Weight: 1.6 kg-1.7 kg.rnGreen coconut or young coconut is a very popular fruit all over the world. Green coconut produces more water than the brown or mature coconut. It is a complete food rich in calories, vitamins, and minerals. One whole green coconut contains roughly 140 calories, 28 grams of carbohydrates, 2 grams fiber, 3 grams fat, and 2 grams of protein. Coconut water is a very refreshing drink to beat tropical summer thirst. It is also a very good source of B-complex vitamins. These vitamins are essential in the sense that body requires them from external sources to replenish. Coconut water contains a very good amount of potassium. Coconut’s water reduce the risk of heart disease, boost your daily energy.",
+  "Slug": "green-coconut-daab-1-pcs",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/daab-green-coconut-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40755&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    11
+  ],
+  "AllRecursiveCategoryIds": [
+    11,
+    7,
+    2
+  ],
+  "AllManufacturerIds": [
+    257,
+    277,
+    471,
+    472,
+    474
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 10,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757795222962",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "360000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "792000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757822400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757862000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 60,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1700,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 111195,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 15,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Fresh_Fruits",
+  "id": 93
+}

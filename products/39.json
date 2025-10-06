@@ -1,0 +1,108 @@
+{
+  "ProductVariantId": 20874,
+  "Name": "Kakrol (Sweet Bitter Gourd) ±25 gm 500 gm",
+  "NameBn": "কাঁকরোল ±২৫ গ্রাম ৫০০ গ্রাম",
+  "NameWithoutSubText": "Kakrol (Sweet Bitter Gourd) ±25 gm",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 55,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 49,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 49,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Sweet Bitter Gourd (Kakrol) – A Nutrient-Packed Superfood!rnrnKakrol, or Sweet Bitter Gourd, is a powerhouse of health benefits, offering a perfect balance of flavor and nutrition. This mild-tasting variety of bitter gourd is rich in essential vitamins, minerals, and antioxidants that support your overall well-being.rnrnBlood Sugar Management: Helps regulate blood sugar, making it ideal for diabetics.rnDigestive Health: High in fiber, it aids digestion and promotes healthy bowel movements.rnImmune Support: Packed with Vitamin C, it strengthens the immune system.rnRich in Antioxidants: Fights free radicals, reducing the risk of chronic diseases.rnSkin Health: Promotes clearer, healthier skin by reducing inflammation and acne.rnDetoxifies the Body: Acts as a natural detoxifier, supporting liver health.rnHeart Health: Supports healthy blood pressure and cardiovascular function.rnrnSweet Bitter Gourd (Kakrol) is the perfect addition to any diet, providing a mild yet nourishing alternative to the more bitter variety. Enjoy it in curries, stir-fries, or stuffed with spices—an excellent choice for a healthy, flavorful lifestyle!",
+  "Slug": "sweet-bitter-gourd-net-weight-20-gm-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/kakrol-sweet-bitter-gourd-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64496&q=low&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    12
+  ],
+  "AllRecursiveCategoryIds": [
+    12,
+    7,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757793330445",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 51,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 55146,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 13,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Fresh_Vegetables",
+  "id": 39
+}

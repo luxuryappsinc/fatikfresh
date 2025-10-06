@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 16963,
+  "Name": "Gajor (Imported Carrot) ± 30 gm 600 gm",
+  "NameBn": "গাঁজর (আমদানিকৃত) ±৩০ গ্রাম ৬০০ গ্রাম",
+  "NameWithoutSubText": "Gajor (Imported Carrot) ± 30 gm",
+  "SubText": "600 gm",
+  "Price": {
+    "Lo": 85,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 75,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 75,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Carrots are a type of root vegetable, which is widespread all over the world. Imported carrots are often favored for their consistent quality, appearance, and freshness. rnCarrots contain many vitamins and minerals important for human health, such as vitamin A, potassium, phosphorus, magnesium, and iron. Carrots also contain antioxidant plant compounds that can help reduce the risk of chronic diseases such as cancer and cardiovascular disease. The taste and texture of imported carrots are generally similar to those grown locally, with a sweet, crunchy flavor. Carrots are rich in essential nutrients, particularly beta-carotene (a form of Vitamin A), fiber, and antioxidants, making them beneficial for vision, skin health, and overall nutrition.",
+  "Slug": "gp-china-carrot-net-weight-20-gm-600-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/gajor-imported-carrot-30-gm-600-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78085&q=low&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    12
+  ],
+  "AllRecursiveCategoryIds": [
+    12,
+    7,
+    2
+  ],
+  "AllManufacturerIds": [
+    277
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "CN",
+  "Capacity": {
+    "Weight": {
+      "Lo": 600,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 63495,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 17,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Fresh_Vegetables",
+  "id": 85
+}
