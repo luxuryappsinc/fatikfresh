@@ -1,0 +1,121 @@
+{
+  "ProductVariantId": 8861,
+  "Name": "Nautilus Lite Sandwich Tuna In Spring Water 165 gm",
+  "NameBn": "নেউটিলাস লাইট স্যান্ডউইচ টুনা ইন স্প্রিং ওয়াটার ১৬৫ গ্রাম",
+  "NameWithoutSubText": "Nautilus Lite Sandwich Tuna In Spring Water",
+  "SubText": "165 gm",
+  "Price": {
+    "Lo": 429,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 429,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 429,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Nautilus Lite Sandwich Tuna in Spring Water is a delicious and wholesome seafood option that combines the natural goodness of tuna with the purity of spring water. This tuna is thoughtfully sourced and prepared to offer a healthy and convenient protein source that's perfect for creating sandwiches, salads, wraps, and more. Packaged in a convenient 165-gram can, Nautilus Lite Sandwich Tuna in Spring Water is your go-to choice for a light and satisfying meal or snack.",
+  "Slug": "nautilus-lite-sandwich-tuna-in-spring-water-185gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/nautilus-lite-sandwich-tuna-in-spring-water-165-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92593&q=best&v=1&m=400",
+    "https://i.chaldn.com/_mpimage/nautilus-lite-sandwich-tuna-in-spring-water-165-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175526&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    9,
+    1618
+  ],
+  "AllRecursiveCategoryIds": [
+    9,
+    23,
+    2,
+    1618,
+    65,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 4,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 54,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "TH",
+  "Capacity": {
+    "Weight": {
+      "Lo": 330,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 405,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 9,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2551
+  ],
+  "IsAgeRestricted": false,
+  "category": "Tofu_Meat_Alternatives",
+  "id": 273
+}

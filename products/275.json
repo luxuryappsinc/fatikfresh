@@ -1,0 +1,108 @@
+{
+  "ProductVariantId": 3666,
+  "Name": "King Bell Light Meat Tuna Vegetable Oil 185 gm",
+  "NameBn": "কিং বেল লাইট মিট টুনা ভেজ ওয়েল ১৮৫ গ্রাম",
+  "NameWithoutSubText": "King Bell Light Meat Tuna Vegetable Oil",
+  "SubText": "185 gm",
+  "Price": {
+    "Lo": 310,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 310,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 310,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "King Bell Light Meat Tuna in Vegetable Oil is a delicious and nutritious canned tuna option. It features tender light meat tuna packed in vegetable oil, offering a rich flavor and smooth texture. Perfect for salads, sandwiches, or snacks, it’s a convenient source of protein and healthy fats. Ideal for quick and easy meals with a tasty, satisfying twist.",
+  "Slug": "king-bell-l-meat-tuna-dite-veg-oil-170-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/king-bell-light-meat-tuna-vegetable-oil-185-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92514&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    9,
+    1618
+  ],
+  "AllRecursiveCategoryIds": [
+    9,
+    23,
+    2,
+    1618,
+    65,
+    2
+  ],
+  "AllManufacturerIds": [
+    242,
+    471
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 220,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 325125,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 3
+    },
+    "MaxDimension": {
+      "Lo": 85,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    1973
+  ],
+  "IsAgeRestricted": false,
+  "category": "Tofu_Meat_Alternatives",
+  "id": 275
+}

@@ -1,0 +1,123 @@
+{
+  "ProductVariantId": 3807,
+  "Name": "Nautilus Sandwich Tuna In Soybean Oil 165 gm",
+  "NameBn": "নেউটিলাস স্যান্ডউইচ টুনা ইন সয়াবিন তেল ১৬৫ গ্রাম",
+  "NameWithoutSubText": "Nautilus Sandwich Tuna In Soybean Oil",
+  "SubText": "165 gm",
+  "Price": {
+    "Lo": 330,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 319,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 319,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Nautilus Sandwich Tuna in Soybean Oil is a premium seafood product that offers the exquisite taste of high-quality tuna immersed in rich and flavorful soybean oil. This tuna is expertly processed and conveniently packaged in a 165-gram can, making it an excellent choice for creating delicious and satisfying sandwiches, wraps, salads, and more. With its tender texture and savory flavor, Nautilus Sandwich Tuna in Soybean Oil adds a touch of gourmet delight to your culinary creations.",
+  "Slug": "nautilus-sandwich-tuna-in-soybean-oil-165-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/nautilus-sandwich-tuna-in-soybean-oil-165-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92539&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/nautilus-sandwich-tuna-in-soybean-oil-165-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127838&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    9,
+    1618
+  ],
+  "AllRecursiveCategoryIds": [
+    9,
+    23,
+    2,
+    1618,
+    65,
+    2
+  ],
+  "AllManufacturerIds": [
+    242
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 8,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 58,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "TH",
+  "Capacity": {
+    "Weight": {
+      "Lo": 350,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 384,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 8,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2550
+  ],
+  "IsAgeRestricted": false,
+  "category": "Tofu_Meat_Alternatives",
+  "id": 274
+}

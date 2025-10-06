@@ -1,0 +1,100 @@
+{
+  "ProductVariantId": 52497,
+  "Name": "Broiler Chicken Thigh Boneless ± 25 gm 500 gm",
+  "NameBn": "ব্রয়লার মুরগির রানের হাড়হীন মাংস ± ২৫ গ্রাম ৫০০ গ্রাম",
+  "NameWithoutSubText": "Broiler Chicken Thigh Boneless ± 25 gm",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 239,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 239,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 239,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "The chicken thigh is the dark meat from the upper part of the leg of a chicken, and is one of the most common parts of the chicken used in cooking. Chicken thighs are often sold skin-on and bone-in. The average 4 oz serving of chicken thigh has about 212 calories, 27 grams of protein, and only 4 grams of fat.",
+  "Slug": "broiler-chicken-thigh-boneless-25-gm-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/broiler-chicken-thigh-boneless-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167902&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1593,
+    1696
+  ],
+  "AllRecursiveCategoryIds": [
+    1593,
+    23,
+    2,
+    1696,
+    23,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757811600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757811600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 188902848,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 3048,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Meat",
+  "id": 240
+}

@@ -1,0 +1,116 @@
+{
+  "ProductVariantId": 4001,
+  "Name": "Cinnamon (Daruchini) Whole 100 gm",
+  "NameBn": "দারুচিনি  আস্থ ১০০ গ্রাম",
+  "NameWithoutSubText": "Cinnamon (Daruchini) Whole",
+  "SubText": "100 gm",
+  "Price": {
+    "Lo": 75,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 69,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 69,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from Vieatnum.rnrnCinnamon is used mainly as an aromatic condiment and flavoring additive in a wide variety of cuisines, sweet and savory dishes, breakfast cereals, snack foods, tea, and traditional foods. rnGround cinnamon is composed of around 11% water, 81% carbohydrates (including 53% dietary fiber), 4% protein, and 1% fat.[36] In a 100-gram reference amount, ground cinnamon is a rich source of calcium (100% of the Daily Value (DV)), iron (64% DV), and vitamin K (30% DV).",
+  "Slug": "cinnamon-daruchini-100-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/cinnamon-daruchini-whole-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48355&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    238,
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    238,
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    257,
+    277,
+    278,
+    295,
+    364
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 15,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757798075325",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 65,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 100,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 958643244,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 1651,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 283
+}

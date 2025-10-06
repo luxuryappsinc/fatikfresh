@@ -1,0 +1,99 @@
+{
+  "ProductVariantId": 20187,
+  "Name": "Khaas Food Organic Loitta Dry Fish 200 gm",
+  "NameBn": "খাস ফুড অর্গানিক লোইটা শুটকি মাছ ২০০ গ্রাম",
+  "NameWithoutSubText": "Khaas Food Organic Loitta Dry Fish",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 360,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 360,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 360,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Khaas Food Organic Loitta Dry Fish 200 gm is a premium-quality and organic seafood product that offers a rich and distinctive taste. Made from loitta fish, also known as Bombay Duck, this dry fish is carefully processed and dried to perfection, ensuring that you enjoy the authentic flavor of this organic delicacy. Enjoy the rich taste and distinctive flavors of loitta fish in your meals and savor the authenticity of this organic delicacy.",
+  "Slug": "khaas-food-organic-loitta-dry-fish-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/khaas-food-organic-loitta-dry-fish-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D56274&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1238
+  ],
+  "AllRecursiveCategoryIds": [
+    1238,
+    23,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 210,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 952,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 17,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Dried_Fish",
+  "id": 280
+}

@@ -1,0 +1,115 @@
+{
+  "ProductVariantId": 7899,
+  "Name": "Nautilus Lite Tuna Steak In Spring Water 165 gm",
+  "NameBn": "নেউটিলাস লাইট টুনা স্টেক ইন স্প্রিং ওয়াটার ১৬৫ গ্রাম",
+  "NameWithoutSubText": "Nautilus Lite Tuna Steak In Spring Water",
+  "SubText": "165 gm",
+  "Price": {
+    "Lo": 329,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 299,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 299,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Nautilus Lite Tuna Steak in Spring Water is a premium seafood product that brings the exquisite taste of tender tuna steaks, preserved in pristine spring water, to your culinary creations. These tuna steaks are expertly processed and thoughtfully packaged in a 165-gram can, making them a versatile and nutritious addition to your meals. With their succulent texture and natural flavor, Nautilus Lite Tuna Steak in Spring Water allows you to savor the pure essence of tuna in your favorite dishes.",
+  "Slug": "nautilus-lite-tuna-steak-in-spring-water-165-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/nautilus-lite-tuna-steak-in-spring-water-165-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D94471&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    9,
+    1618,
+    1505
+  ],
+  "AllRecursiveCategoryIds": [
+    9,
+    23,
+    2,
+    1618,
+    65,
+    2,
+    1505,
+    1484
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757797698726",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 52,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "TH",
+  "Capacity": {
+    "Weight": {
+      "Lo": 350,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 384,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 8,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Tofu_Meat_Alternatives",
+  "id": 268
+}

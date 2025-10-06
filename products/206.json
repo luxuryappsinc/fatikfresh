@@ -1,0 +1,109 @@
+{
+    "ProductVariantId": 38051,
+    "Name": "PQS Tengra Fish Processed 250 gm",
+    "NameBn": "পিকিউএস টেংরা মাছ কাটার পর ২৫০ গ্রাম",
+    "NameWithoutSubText": "PQS Tengra Fish Processed",
+    "SubText": "250 gm",
+    "Price": {
+      "Lo": 275,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "DiscountedPrice": {
+      "Lo": 275,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "CorporatePrice": {
+      "Lo": 275,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "LongDescription": "Before processing this product live weight was 400 gm.\r\n\r\nHalda Haor Tengra Fish (CLEANED-BLOCK) is processed and packaged by MarGEn in European approved processing plant which is located in Sylhet District. These fish mainly harvested from Haor located in the Sunamganj District in Bangladesh.  Hawor Tengra is a specific variety of the Tengra fish found in the wetlands and \"hawors\" (oxbow lakes) of Bangladesh. It shares many characteristics with the common Tengra fish, including its slender body and mild, sweet flavor. However, Hawor Tengra is known for its adaptation to the unique ecosystem of these wetlands, making it a sought-after delicacy in Bangladeshi cuisine.",
+    "Slug": "pqs-tengra-fish-processed-250-gm",
+    "RecType": "",
+    "PictureUrls": [
+      "https://i.chaldn.com/_mpimage/pqs-tengra-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167962&q=best&v=1"
+    ],
+    "OfferPictureUrls": [],
+    "AllCategoryIds": [
+      1235
+    ],
+    "AllRecursiveCategoryIds": [
+      1235,
+      23,
+      2
+    ],
+    "AllManufacturerIds": [
+      542
+    ],
+    "DoNotApplyDiscounts": false,
+    "BlockSale": false,
+    "ProductAvailabilityForSelectedWarehouse": [
+      {
+        "Quantity": 2,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1757796008466",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      },
+      {
+        "EarliestAvailableTimeOfDay": {
+          "Ticks": "252000000000"
+        },
+        "Quantity": 50,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1757811600000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        },
+        "AvailabilityExpiryTime": {
+          "UnixTimeMilliseconds": "1757811600000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      }
+    ],
+    "UnitQuantity": 1,
+    "UnitType": "",
+    "DrugRegulationType": "",
+    "BaseProductQuantity": 52,
+    "CatalogItemType": "Grocery",
+    "AlternateOf": "",
+    "SimilarOf": "",
+    "AdditionalShippingFee": 0,
+    "CountryOriginCode": "BD",
+    "Capacity": {
+      "Weight": {
+        "Lo": 250,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      },
+      "Volume": {
+        "Lo": 73741788,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 5
+      },
+      "MaxDimension": {
+        "Lo": 2286,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 2
+      }
+    },
+    "AlternateGroupIds": [
+      4578
+    ],
+    "IsAgeRestricted": false,
+    "category": "Frozen_Fish",
+    "id": 206
+  }
