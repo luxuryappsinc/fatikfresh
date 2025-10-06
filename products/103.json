@@ -1,0 +1,99 @@
+{
+    "ProductVariantId": 18522,
+    "Name": "Dragon Fruit Local (± 50 gm) 1 kg",
+    "NameBn": "ড্রাগন ফল দেশি (± ৫০ গ্রাম) ১ কেজি",
+    "NameWithoutSubText": "Dragon Fruit Local (± 50 gm)",
+    "SubText": "1 kg",
+    "Price": {
+      "Lo": 250,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "DiscountedPrice": {
+      "Lo": 219,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "CorporatePrice": {
+      "Lo": 219,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "LongDescription": "Qty: 4 pcs\r\n\r\nDragon fruit is known for its striking appearance, with a bright pink or yellow skin and large, petal-like scales or \"\"wings\"\" that give it a unique, dragon-like appearance. When the fruit is cut open, it reveals vibrant, white or red flesh speckled with tiny black seeds. The flesh is soft and mildly sweet, with a flavor that is often described as a cross between a kiwi and a pear, with subtle floral notes.\r\n\r\nThe fruit is not only visually appealing but also packed with nutrients. It is low in calories and high in dietary fiber, making it beneficial for digestion. Dragon fruit is also rich in antioxidants, such as vitamin C, betalains, and carotenoids, which help fight free radicals and reduce inflammation. Additionally, it contains a variety of minerals like magnesium, iron, and calcium, supporting overall health.\r\n\r\nAs a relatively easy-to-grow and visually captivating fruit, dragon fruit has gained popularity worldwide and is often featured in health-conscious diets and gourmet dishes.",
+    "Slug": "dragon-fruit-local-net-weight-100-gm-1-kg",
+    "RecType": "",
+    "PictureUrls": [
+      "https://i.chaldn.com/_mpimage/dragon-fruit-local-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D93407&q=best&v=1"
+    ],
+    "OfferPictureUrls": [],
+    "AllCategoryIds": [
+      11
+    ],
+    "AllRecursiveCategoryIds": [
+      11,
+      7,
+      2
+    ],
+    "AllManufacturerIds": [],
+    "DoNotApplyDiscounts": false,
+    "BlockSale": false,
+    "ProductAvailabilityForSelectedWarehouse": [
+      {
+        "EarliestAvailableTimeOfDay": {
+          "Ticks": "324000000000"
+        },
+        "AvailabilityCutOffTimeOfDay": {
+          "Ticks": "810000000000"
+        },
+        "Quantity": 50,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1757818800000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        },
+        "AvailabilityExpiryTime": {
+          "UnixTimeMilliseconds": "1757863800000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      }
+    ],
+    "UnitQuantity": 1,
+    "UnitType": "",
+    "DrugRegulationType": "",
+    "BaseProductQuantity": 50,
+    "CatalogItemType": "Grocery",
+    "AlternateOf": "",
+    "SimilarOf": "",
+    "AdditionalShippingFee": 0,
+    "CountryOriginCode": "BD",
+    "Capacity": {
+      "Weight": {
+        "Lo": 1020,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      },
+      "Volume": {
+        "Lo": 104424,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 2
+      },
+      "MaxDimension": {
+        "Lo": 19,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      }
+    },
+    "AlternateGroupIds": [],
+    "IsAgeRestricted": false,
+    "category": "Fresh_Fruits",
+    "id": 103
+  }

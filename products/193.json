@@ -1,0 +1,94 @@
+{
+  "ProductVariantId": 39553,
+  "Name": "Chaldal Premium Shing Fish Egg  ±10 gm 200 gm",
+  "NameBn": "চালডাল প্রিমিয়াম শিং মাছের ডিম ± ১০ গ্রাম ২০০ গ্রাম",
+  "NameWithoutSubText": "Chaldal Premium Shing Fish Egg  ±10 gm",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 239,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 239,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 239,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Add a unique and nutritious twist to your meals with Chaldal Premium Shing Fish Egg. Sourced from fresh Shing fish, these fish eggs are rich in flavor, packed with essential nutrients, and perfect for creating traditional and exotic dishes.rnrnKey Features:rnrnPremium Quality: rnFresh and carefully sourced from high-grade Shing fish.rnNet Weight: rn± 10 gm tolerance ensures approximately 200 gm per pack.rnHygienic Packaging: rnEnsures maximum freshness and quality.rnrnBring home the authentic taste of Chaldal Premium Shing Fish Egg and elevate your culinary creations. Order now for fresh, flavorful goodness!",
+  "Slug": "chaldal-premium-shing-fish-egg-10-gm-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/chaldal-premium-shing-fish-egg-10-gm-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168464&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/chaldal-premium-shing-fish-egg-10-gm-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168463&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1235,
+    1725
+  ],
+  "AllRecursiveCategoryIds": [
+    1235,
+    23,
+    2,
+    1725,
+    23,
+    2
+  ],
+  "AllManufacturerIds": [
+    542
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 8,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757796008465",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 8,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 189,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 9,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Frozen_Fish",
+  "id": 193
+}

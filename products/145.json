@@ -1,0 +1,96 @@
+{
+  "ProductVariantId": 38919,
+  "Name": "Chaldal Premium Beef Boneless ± 50 gm 500 gm",
+  "NameBn": "চালডাল প্রিমিয়াম বিফ বোনলেস ± ৫০ গ্রাম ৫০০ গ্রাম",
+  "NameWithoutSubText": "Chaldal Premium Beef Boneless ± 50 gm",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 669,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 659,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 659,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Introducing our Premium Beef (without bone), sourced from oxen aged 2 to 4 years, this delicacy is the perfect blend of flavor and nutrition. You can expect tender and juicy cuts of beef with every bite. Experience the richness of well-marbled meat that is sure to elevate your cooking experience. Order now and taste the difference of Premium Beef!",
+  "Slug": "chaldal-premium-beef-boneless-50-gm-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/chaldal-premium-beef-boneless-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174791&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/chaldal-premium-beef-boneless-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174790&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1696,
+    1725
+  ],
+  "AllRecursiveCategoryIds": [
+    1696,
+    23,
+    2,
+    1725,
+    23,
+    2
+  ],
+  "AllManufacturerIds": [
+    542
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757795876307",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 1,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 98322384,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 1524,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    1604
+  ],
+  "IsAgeRestricted": false,
+  "category": "Premium_Perishables",
+  "id": 145
+}

@@ -1,0 +1,96 @@
+{
+  "ProductVariantId": 39240,
+  "Name": "Chaldal Premium Roast Chicken ± 50 gm 500 gm",
+  "NameBn": "চালডাল প্রিমিয়াম রোস্ট চিকেন ± ৫০ গ্রাম ৫০০ গ্রাম",
+  "NameWithoutSubText": "Chaldal Premium Roast Chicken ± 50 gm",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 329,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 319,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 319,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Experience the irresistible taste of Chaldal Premium Roast Chicken, perfectly seasoned and roasted to golden perfection. Made from high-quality chicken, this ready-to-eat delight is ideal for quick meals, snacks, or as a centerpiece for your favorite dishes.rnrnKey Features:rnrnPremium Quality Chicken: rnTender, juicy, and packed with flavor.rnNet Weight: rn± 10 gm tolerance ensures approximately 500 gm per pack.rnReady to Serve: rnConvenient for quick meals, saving you time in the kitchen.rnFlavorful & Healthy: rnExpertly seasoned and roasted for a balanced taste.rnVersatile Use: rnEnjoy as a snack, in sandwiches, wraps, or salads.rnrnTreat yourself and your loved ones to the delicious and wholesome taste of Chaldal Premium Roast Chicken—order now and enjoy a hassle-free meal experience!",
+  "Slug": "chaldal-premium-roast-chicken-50-gm-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/chaldal-premium-roast-chicken-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174651&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/chaldal-premium-roast-chicken-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174652&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1593,
+    1725
+  ],
+  "AllRecursiveCategoryIds": [
+    1593,
+    23,
+    2,
+    1725,
+    23,
+    2
+  ],
+  "AllManufacturerIds": [
+    542
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757795452364",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 2,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 503,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 9324975,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 4
+    },
+    "MaxDimension": {
+      "Lo": 165,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    1657
+  ],
+  "IsAgeRestricted": false,
+  "category": "Chicken_Poultry",
+  "id": 132
+}
