@@ -1,0 +1,116 @@
+{
+  "ProductVariantId": 18533,
+  "Name": "Star Flower 50 gm",
+  "NameBn": "তারকা মৌরি ৫০ গ্রাম",
+  "NameWithoutSubText": "Star Flower",
+  "SubText": "50 gm",
+  "Price": {
+    "Lo": 159,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 129,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 129,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Star Flower, also known as Star Anise (Illicium verum), is a star-shaped spice that comes from the fruit of a tree native to northeastern Vietnam and southern China. The spice has a strong, sweet, and licorice-like flavor, similar to aniseed but more potent. Star Anise is commonly used in both sweet and savory dishes and is a key ingredient in Chinese five-spice powder and many Southeast Asian, Indian, and Mediterranean dishes.rnrnUses:rnSpice Blends: Star Anise is a primary ingredient in Chinese five-spice powder and various spice mixes for stews, curries, and marinades.rnBaking & Desserts: It is used in baking, especially in recipes for gingerbread, cakes, and cookies, and in syrups and fruit preserves.rnSoups & Stews: Star Anise can be added to broths, soups, and stews to enhance the depth of flavor, especially in Chinese, Vietnamese, and Indian cuisines.rnTeas & Beverages: Star Anise is used in herbal teas and beverages like mulled wine, chai, and hot toddies.rnPickles & Sauces: Star Anise is used in pickling brines and sauces for a fragrant and slightly sweet note.rnrnBenefits:rnDigestive Aid: Star Anise has been traditionally used to relieve indigestion, bloating, and gas. It also promotes overall digestive health.rnRich in Antioxidants: Star Anise contains compounds that have antioxidant properties, helping to protect cells from damage caused by free radicals.rnAnti-Microbial Properties: The spice has natural anti-bacterial and anti-fungal properties, making it useful in maintaining oral hygiene and combating infections.rnSupports Respiratory Health: Star Anise is used in traditional medicine to treat respiratory issues like cough and bronchitis.rnPain Relief: The active compounds in Star Anise can provide relief from muscle aches, headaches, and joint pain.",
+  "Slug": "star-flower-50-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/star-flower-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64813&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    473
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 10,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 60,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 50,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 75,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 5,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 359
+}

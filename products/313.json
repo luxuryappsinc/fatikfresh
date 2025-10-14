@@ -1,0 +1,89 @@
+{
+  "ProductVariantId": 37596,
+  "Name": "Bombay Premium Turmeric Powder 200 gm",
+  "NameBn": "বোম্বে প্রিমিয়াম হলুদ গুঁড়া ২০০ গ্রাম",
+  "NameWithoutSubText": "Bombay Premium Turmeric Powder",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 145,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 145,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 145,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Introducing Bombay Premium Turmeric Powder, available in a convenient 200g package. Elevate your culinary experience with the vibrant color and distinctive flavor of this carefully sourced and finely ground turmeric powder.rnrnSourced from the finest turmeric roots, this premium powder embodies the essence of Indian cooking. Known for its warm, earthy taste and bright golden hue, turmeric is a versatile spice that adds depth to a variety of dishes.rnrnWhether you're preparing traditional curries, experimenting with fusion cuisine, or crafting healthful beverages, Bombay Premium Turmeric Powder ensures a consistent and rich flavor profile that's essential for authentic and flavorful creations.rn",
+  "Slug": "bombay-premium-turmeric-powder-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/bombay-premium-turmeric-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124431&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757798075326",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 1,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 61976,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 16,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    3045
+  ],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 313
+}

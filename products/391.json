@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 21359,
+  "Name": "Fresh Refined Sugar 500 gm",
+  "NameBn": "ফ্রেস রিফাইন্ড চিনি ৫০০ গ্রাম",
+  "NameWithoutSubText": "Fresh Refined Sugar",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 62,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 62,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 62,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Fresh Refined Sugar is the number one sugar brand in Bangladesh. It is produced in a fully automated system, using the most modernized processes and state-of-the-art technology to ensure purity. It is packaged in a food graded pack with an anti-humid process to maintain the cleanliness and clarity inside by maintaining ISO 9001-2008 and food safety standards. MGI has recently taken a new initiative to produce inverted sugar in its new plant which is manned by highly experienced personnel. The plant has adopted biological processes and maintains environment-friendly operation through the use of purified flue gas for carbonation and maintains effluent treatment plants as well.",
+  "Slug": "fresh-refined-sugar-500-gm-3",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/fresh-refined-sugar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59305&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    111
+  ],
+  "AllRecursiveCategoryIds": [
+    111,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    147,
+    277,
+    287,
+    356
+  ],
+  "DoNotApplyDiscounts": true,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 900,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 20,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Salt_Sugar",
+  "id": 391
+}

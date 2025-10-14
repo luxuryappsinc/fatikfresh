@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 37597,
+  "Name": "Bombay Premium Coriander Powder 200 gm",
+  "NameBn": "বোম্বে প্রিমিয়াম ধনিয়া গুঁড়া ২০০ গ্রাম",
+  "NameWithoutSubText": "Bombay Premium Coriander Powder",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 110,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 110,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 110,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Introducing Bombay Premium Coriander Powder, available in a convenient 200g package. Elevate your culinary creations with the fragrant and flavorful essence of finely ground coriander seeds.rnrnCarefully sourced and expertly processed, this premium coriander powder captures the true aroma and taste of coriander, a staple spice in Indian and global cuisines. The powder's versatility makes it an essential addition to your spice collection, enabling you to enhance a wide range of dishes.rnrnWhether you're perfecting curries, marinades, or seasoning roasted vegetables, Bombay Premium Coriander Powder guarantees a consistent and aromatic profile that adds depth to your recipes.rn",
+  "Slug": "bombay-premium-coriander-powder-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/bombay-premium-coriander-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124432&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 4,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757798075326",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 44,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 48,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 61976,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 16,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2942
+  ],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 312
+}

@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 10223,
+  "Name": "Sis White Icing Sugar 500 gm",
+  "NameBn": "সিস সাদা আইসিং চিনি ৫০০ গ্রাম",
+  "NameWithoutSubText": "Sis White Icing Sugar",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 420,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 359,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 359,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Sis White Icing Sugar is a premium and finely powdered sugar specially crafted for all your baking and dessert decorating needs. This icing sugar, also known as confectioners' sugar or powdered sugar, is a versatile and essential ingredient for creating smooth, creamy, and delectably sweet icing, frosting, glazes, and desserts. Packaged in a convenient 500 gm pouch, Sis White Icing Sugar is a baker's and dessert enthusiast's best friend, enabling you to add a professional touch to your culinary creations.",
+  "Slug": "sis-white-icing-sugar-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/sis-white-icing-sugar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133672&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    111
+  ],
+  "AllRecursiveCategoryIds": [
+    111,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "SG",
+  "Capacity": {
+    "Weight": {
+      "Lo": 520,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 12075,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 23,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2155
+  ],
+  "IsAgeRestricted": false,
+  "category": "Salt_Sugar",
+  "id": 397
+}

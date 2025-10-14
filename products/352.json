@@ -1,0 +1,104 @@
+{
+    "ProductVariantId": 14968,
+    "Name": "Fresh Turmeric Powder 200 gm",
+    "NameBn": "ফ্রেশ হলুদের গুঁড়া ২০০ গ্রাম",
+    "NameWithoutSubText": "Fresh Turmeric Powder",
+    "SubText": "200 gm",
+    "Price": {
+      "Lo": 145,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "DiscountedPrice": {
+      "Lo": 145,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "CorporatePrice": {
+      "Lo": 145,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "LongDescription": "Fresh turmeric powder is a spice made from dried and ground turmeric roots. Turmeric is a flowering plant belonging to the ginger family and is commonly used as a spice and medicinal herb. However, it's important to note that \"fresh\" turmeric powder typically refers to recently ground turmeric rather than the fresh root itself.",
+    "Slug": "fresh-turmeric-powder-200-gm-2",
+    "RecType": "",
+    "PictureUrls": [
+      "https://i.chaldn.com/_mpimage/fresh-turmeric-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135109&q=best&v=1",
+      "https://i.chaldn.com/_mpimage/fresh-turmeric-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135108&q=best&v=1"
+    ],
+    "OfferPictureUrls": [],
+    "AllCategoryIds": [
+      107
+    ],
+    "AllRecursiveCategoryIds": [
+      107,
+      104,
+      2
+    ],
+    "AllManufacturerIds": [
+      147,
+      557,
+      356
+    ],
+    "DoNotApplyDiscounts": false,
+    "BlockSale": false,
+    "ProductAvailabilityForSelectedWarehouse": [
+      {
+        "EarliestAvailableTimeOfDay": {
+          "Ticks": "0"
+        },
+        "AvailabilityCutOffTimeOfDay": {
+          "Ticks": "810000000000"
+        },
+        "Quantity": 50,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1757818800000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        },
+        "AvailabilityExpiryTime": {
+          "UnixTimeMilliseconds": "1757863800000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      }
+    ],
+    "UnitQuantity": 1,
+    "UnitType": "",
+    "DrugRegulationType": "",
+    "BaseProductQuantity": 50,
+    "CatalogItemType": "Grocery",
+    "AlternateOf": "",
+    "SimilarOf": "",
+    "AdditionalShippingFee": 0,
+    "CountryOriginCode": "BD",
+    "Capacity": {
+      "Weight": {
+        "Lo": 202,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      },
+      "Volume": {
+        "Lo": 1080,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      },
+      "MaxDimension": {
+        "Lo": 18,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      }
+    },
+    "AlternateGroupIds": [],
+    "IsAgeRestricted": false,
+    "category": "Spices",
+    "id": 352
+  }

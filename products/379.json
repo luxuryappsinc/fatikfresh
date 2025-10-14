@@ -1,0 +1,95 @@
+{
+  "ProductVariantId": 10776,
+  "Name": "Brown Flax Seed 100 gm",
+  "NameBn": "বাদামী তিসি বীজ ১০০ গ্রাম",
+  "NameWithoutSubText": "Brown Flax Seed",
+  "SubText": "100 gm",
+  "Price": {
+    "Lo": 55,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Brown Flax Seeds are tiny, brown, flat seeds that come from the flax plant (Linum usitatissimum). These seeds are highly nutritious, offering a rich source of dietary fiber, omega-3 fatty acids, antioxidants, and protein. Brown flax seeds have a mild, nutty flavor and are often used in smoothies, baked goods, salads, and cereals. They can be consumed whole or ground, though ground flax seeds are easier for the body to digest and absorb nutrients.rnrnUses:rnSmoothies & Beverages: Add ground flax seeds to smoothies or shakes for a boost of omega-3s and fiber.rnBaking: Incorporate flax seeds into baked goods like bread, muffins, pancakes, and cookies for added nutrition.rnSprinkle on Foods: Sprinkle whole or ground flax seeds over yogurt, cereal, salads, or oatmeal.rnEgg Substitute: Use ground flax seeds mixed with water as a vegan egg replacement in recipes.rnEnergy Snacks: Flax seeds can be added to homemade granola, energy bars, or mixed with nuts and seeds for a healthy snack.rnrnBenefits:rnRich in Omega-3 Fatty Acids: Flax seeds are an excellent plant-based source of ALA (alpha-linolenic acid), an omega-3 fatty acid that supports heart health and reduces inflammation.rnHigh in Fiber: The high fiber content promotes digestive health, helps regulate bowel movements, and supports weight management.rnRich in Antioxidants: Flax seeds contain lignans, which are antioxidants that help reduce oxidative stress and protect cells from damage.rnSupports Heart Health: The combination of omega-3 fatty acids, fiber, and antioxidants in flax seeds contributes to improved heart health by lowering cholesterol and reducing the risk of cardiovascular diseases.rnHormonal Balance: Lignans in flax seeds may help balance hormones, especially in women during menopause.rnImproved Skin Health: The fatty acids in flax seeds can contribute to healthier skin, reducing dryness and irritation.",
+  "Slug": "brown-flax-seed-100-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/brown-flax-seed-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48352&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    532
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 8,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 8,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 101,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 515625,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 3
+    },
+    "MaxDimension": {
+      "Lo": 165,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 379
+}

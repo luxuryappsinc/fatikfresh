@@ -1,0 +1,106 @@
+{
+  "ProductVariantId": 9583,
+  "Name": "Radhuni Panch Phoran 50 gm",
+  "NameBn": "রাঁধুনী পাঁচফোড়ন ৫০ গ্রাম",
+  "NameWithoutSubText": "Radhuni Panch Phoran",
+  "SubText": "50 gm",
+  "Price": {
+    "Lo": 30,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 30,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 30,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Radhuni Panch Phoran is a traditional Bengali five-spice mix, specially crafted to add a burst of flavor and aroma to dishes. This blend of whole spices is perfect for tempering and is widely used in Bengali and South Asian cuisine.rnrnIngredients: Fennel Seeds, Cumin Seeds, Nigella Seeds (Kalonji), Fenugreek Seeds, Mustard Seeds.rnrnUses:rnTempering: Add to hot oil to release flavors and infuse curries, dals, and stir-fries.rnBengali Cuisine: Essential for preparing traditional dishes like shukto, charchari, and dal.rnPickles: Widely used in preparing homemade pickles.rnVegetables: Ideal for stir-frying vegetables, adding a unique, aromatic twist.rnSoups and Stews: Enhances the flavor and aroma when used in broths and stews.",
+  "Slug": "radhuni-panch-phoran-50-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/radhuni-panch-phoran-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132545&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    506,
+    528,
+    186,
+    257,
+    317,
+    472
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 5,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 384,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 12,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 342
+}

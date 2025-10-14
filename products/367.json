@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 18418,
+  "Name": "Fit Food Flax Seed 100 gm",
+  "NameBn": "ফিট ফুড তিসি বীজ ১০০ গ্রাম",
+  "NameWithoutSubText": "Fit Food Flax Seed",
+  "SubText": "100 gm",
+  "Price": {
+    "Lo": 160,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 160,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 160,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from India.rnrn10 Benifits:rn1.Loaded With Nutrientsrn2.High in Omega-3 Fatsrn3.A Rich Source of Lignans, Which May Reduce Cancer Riskrn4.Rich in Dietary Fiberrn5.May Improve Cholesterolrn6.May Lower Blood Pressurern7.Contain High-Quality Proteinrn8.May Help Control Blood Sugarrn9.Keep Hunger at Bay, Which May Aid Weight Controlrn10.Can Be a Versatile Ingredientrnrn.............rnFlax is a great source of fiber, which is beneficial rnfor digestive health and can also help lower cholesterol.rnrnOne tablespoon of ground seeds contains 55 calories, rn3 grams of fiber, 2 grams of protein, and about 2,300 milligrams rnof alpha-linolenic acid (ALA), a type of omega-3 fat. ALA has been rnshown to help decrease the risk of certain inflammatory diseases rnlike diabetes, arthritis, and heart disease. Flax seeds are also rnan excellent source of magnesium, manganese, and thiamin and a good rnsource of selenium. They also contain gamma-tocopheral, a form of rnthe antioxidant vitamin E.rnBenifits:rn************rn1.Loaded With Nutrientsrn2.High in Omega-3 Fatsrn3.A Rich Source of Lignans, Which May Reduce Cancer Riskrn4.Rich in Dietary Fiberrn5.May Improve Cholesterolrn6.May Lower Blood Pressurern7.Contain High-Quality Proteinrn8.May Help Control Blood Sugarrn9.Keep Hunger at Bay, Which May Aid Weight Controlrn10.Can Be a Versatile Ingredientrnrn.............rnFlax is a great source of fiber, which is beneficial rnfor digestive health and can also help lower cholesterol.rnrnOne tablespoon of ground seeds contains 55 calories, rn3 grams of fiber, 2 grams of protein, and about 2,300 milligrams rnof alpha-linolenic acid (ALA), a type of omega-3 fat. ALA has been rnshown to help decrease the risk of certain inflammatory diseases rnlike diabetes, arthritis, and heart disease. Flax seeds are also rnan excellent source of magnesium, manganese, and thiamin and a good rnsource of selenium. They also contain gamma-tocopheral, a form of rnthe antioxidant vitamin E.",
+  "Slug": "fitfood-flax-seed-100-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/fit-food-flax-seed-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128532&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 116,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 325,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 13,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2966
+  ],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 367
+}

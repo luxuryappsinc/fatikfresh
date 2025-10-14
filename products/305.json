@@ -1,0 +1,110 @@
+{
+  "ProductVariantId": 3802,
+  "Name": "Mustard Seed (Red) 100 gm",
+  "NameBn": "সরিষার দানা (লাল) ১০০ গ্রাম",
+  "NameWithoutSubText": "Mustard Seed (Red)",
+  "SubText": "100 gm",
+  "Price": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 25,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Red Mustard Seeds are small, round seeds with a slightly pungent, sharp flavor. They are commonly used in South Asian and Mediterranean cuisines, where they add a unique depth of flavor to a variety of dishes. Red mustard seeds are often used in tempering (tadka) to infuse their flavor into oil, which is then added to curries, soups, and pickles. They are also a key ingredient in many spice blends.rnrnUses: Tempering (Tadka), Pickles, Curries and Stews, Spice Blends,  Salads and Garnishes.rnrnBenefits:rnRich in Nutrients: Mustard seeds are high in minerals such as calcium, iron, and magnesium.rnPromotes Digestion: Known to aid in digestion and improve gut health.rnAnti-Inflammatory Properties: Contains compounds that have anti-inflammatory and antioxidant effects.rnRich in Fiber: Helps support digestive health and may aid in weight management.rnHeart Health: Mustard seeds are a source of omega-3 fatty acids, which support cardiovascular health.",
+  "Slug": "mustard-seed-red-100-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/mustard-seed-red-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D115243&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    473
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757798075326",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 51,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 100,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 80,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 8,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 305
+}

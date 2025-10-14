@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 24731,
+  "Name": "Radhuni Seeds 100 gm",
+  "NameBn": "রাঁধুনী বীজ ১০০ গ্রাম",
+  "NameWithoutSubText": "Radhuni Seeds",
+  "SubText": "100 gm",
+  "Price": {
+    "Lo": 65,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 59,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 59,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Radhuni, also known as Ajmod or white celery seeds, is a popular spice used primarily in Bengali cuisine. It belongs to the Apiaceae family and its botanical name is *Trachyspermum roxburgianum*. The seeds are slightly larger than ajwain and have a flavor profile that blends the sharpness of ajwain with a mild aftertaste of fennel seeds. They are commonly used in Bengali Panch Phoron (five-spice mix) and other traditional dishes.rnrnWeight: Available in a variety of pack sizes, including the common 100 gm pack.rnrnIngredients: Radhuni seeds, also known as white celery seeds, are the sole ingredient. These seeds are rich in essential oils, which contribute to their strong aroma and flavor.rnrnUse: Radhuni seeds are used in cooking to enhance the flavor of dishes, particularly in Bengali stews, and curries, and as part of the Panch Phoron mix. They are also considered to have medicinal properties, traditionally used to aid digestion and relieve colic.",
+  "Slug": "radhuni-seeds-100-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/radhuni-seeds-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80140&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    473
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757798075327",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 9,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 11,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 100,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 720,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 18,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 329
+}

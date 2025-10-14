@@ -1,0 +1,89 @@
+{
+  "ProductVariantId": 37595,
+  "Name": "Bombay Premium Chilli Powder 200 gm",
+  "NameBn": "বোম্বে প্রিমিয়াম মরিচ গুঁড়া ২০০ গ্রাম",
+  "NameWithoutSubText": "Bombay Premium Chilli Powder",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Introducing Bombay Premium Chilli Powder, an embodiment of fiery flavor and culinary excellence, available in a convenient 200g package. Elevate your dishes with the bold and tantalizing essence of finely ground red chilli peppers.rnrnCrafted with care, this premium chilli powder captures the vibrant heat and robust taste that red chillies bring to your cooking. From adding a kick to your curries and sauces to creating flavorful marinades and seasonings, Bombay Premium Chilli Powder ensures a consistent and intense flavor profile that ignites the palate.rn",
+  "Slug": "bombay-premium-chilli-powder-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/bombay-premium-chilli-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124430&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757798075326",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 2,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 61976,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 16,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2926
+  ],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 314
+}

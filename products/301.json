@@ -1,0 +1,110 @@
+{
+  "ProductVariantId": 18535,
+  "Name": "Black Cardamom (Kalo Elachi) Whole 50 gm",
+  "NameBn": "কালো এলাচ আস্ত ৫০ গ্রাম",
+  "NameWithoutSubText": "Black Cardamom (Kalo Elachi) Whole",
+  "SubText": "50 gm",
+  "Price": {
+    "Lo": 205,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 199,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 199,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Black Cardamom (known as Kalo Elachi in South Asia) is a large, dark, and aromatic spice that belongs to the ginger family. Unlike green cardamom, black cardamom has a smoky, earthy, and slightly pungent flavor. It is often used in savory dishes, especially in South Asian and Middle Eastern cuisines, to add depth and complexity to curries, stews, rice dishes, and spice blends. The pods are typically larger, with a dark brown to black color, and contain small black seeds inside.rnrnUses:rnCurries & Gravies: Black cardamom is commonly added to savory curry dishes, stews, and gravies for a smoky and aromatic flavor.rnRice Dishes: Black cardamom is used in rice dishes like biryani, pilaf, and khichdi to enhance the fragrance and flavor.rnSpice Blends: Black cardamom is an important component in spice blends like garam masala, biryani masala, and other regional spice mixtures.rnMarinades & Sauces: It can be added to marinades for meats, poultry, or vegetarian dishes, giving them a unique, smoky flavor.rnPickles & Stews: It is used in pickles and slow-cooked stews to add a rich, deep flavor.rnrnBenefits:rnDigestive Aid: Black cardamom is known to promote healthy digestion, alleviate indigestion, and help with bloating and gas.rnAnti-Inflammatory Properties: The spice has anti-inflammatory effects and may help reduce inflammation in the body.rnImproves Respiratory Health: Black cardamom has been traditionally used to treat respiratory issues like asthma, bronchitis, and cough due to its cooling and soothing properties.rnRich in Antioxidants: Black cardamom contains antioxidants that help combat oxidative stress and protect cells from damage.rnSupports Heart Health: The spice may help reduce blood pressure and improve overall heart health when consumed regularly.",
+  "Slug": "black-cardamom-50-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/black-cardamom-kalo-elachi-whole-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50292&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    257
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757798075325",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 52,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 50,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 53257958,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 1651,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 301
+}

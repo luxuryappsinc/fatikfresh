@@ -1,0 +1,99 @@
+{
+  "ProductVariantId": 24730,
+  "Name": "Kabab Chini 50 gm",
+  "NameBn": "কাবাব চিনি ৫০ গ্রাম",
+  "NameWithoutSubText": "Kabab Chini",
+  "SubText": "50 gm",
+  "Price": {
+    "Lo": 199,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 179,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 179,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Kabab Chini 50 gmrnrnDetails:rnKabab Chini, also known as cubeb or tailed pepper, is a spice derived from the dried unripe fruits of the *Piper cubeba* plant. Native to Java and Sumatra in Indonesia, it is widely cultivated in other parts of Southeast Asia, India, and Malaysia. Kabab Chini is known for its aromatic and medicinal properties and is often used in Ayurvedic medicine.rnrnIngredients:rnThe key component of Kabab Chini is the dried cubeb berries, which contain bioactive compounds such as essential oils, resin, and cubebin. These contribute to its unique aroma and therapeutic properties.rnrnUses:rn1. Culinary: It enhances the flavor of sweet and savory dishes and can be used as a spice in curries or desserts.  rn2. Medicinal: Known for digestive, anti-inflammatory, and respiratory benefits. It aids in treating bloating, indigestion, and respiratory congestion.  rn3. Therapeutic: Commonly used in Ayurveda for treating urinary and sexual health issues, and as an immune booster.  rn4. Cosmetic: Sometimes used in traditional cosmetics and perfumes for its aromatic qualities.",
+  "Slug": "kabab-chini-50-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/kabab-chini-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80139&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 50,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 108,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 6,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 365
+}

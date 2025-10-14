@@ -1,0 +1,114 @@
+{
+    "ProductVariantId": 10001,
+    "Name": "Black Sesame Seed (Til) 100 gm",
+    "NameBn": "কালো তিল বীজ (তিল) ১০০ গ্রাম",
+    "NameWithoutSubText": "Black Sesame Seed (Til)",
+    "SubText": "100 gm",
+    "Price": {
+      "Lo": 55,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "DiscountedPrice": {
+      "Lo": 45,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "CorporatePrice": {
+      "Lo": 45,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "LongDescription": "Black Sesame Seeds (Til) 100 gm\r\n\r\nDetails:\r\nBlack sesame seeds, known as \"til\" in India, are small, nutrient-rich seeds often used as a condiment, garnish, or ingredient in cooking. They are prized for their distinct nutty flavor and numerous health benefits, particularly in promoting healthy skin, bones, and digestion.  \r\n\r\nIngrediants:\r\nPure black sesame seeds. These seeds are naturally rich in calcium, zinc, healthy fats, protein, and dietary fiber. They are free from additives and suitable for vegan and vegetarian diets.  \r\n\r\nUse:\r\nSprinkle over cereals, salads, noodles, or rice for added crunch and flavor.  \r\nBlend into smoothies, yogurt, or hummus.  \r\nUse in baking flatbreads, cookies, or muffins.  \r\nCommonly incorporated into traditional desserts and savory dishes.  \r\n\r\nStorage Instructions:\r\nStore in a cool, dry place, away from direct sunlight and moisture, to maintain freshness and quality.",
+    "Slug": "black-sesame-til-100-gm",
+    "RecType": "",
+    "PictureUrls": [
+      "https://i.chaldn.com/_mpimage/black-sesame-seed-til-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48351&q=best&v=1"
+    ],
+    "OfferPictureUrls": [],
+    "AllCategoryIds": [
+      107
+    ],
+    "AllRecursiveCategoryIds": [
+      107,
+      104,
+      2
+    ],
+    "AllManufacturerIds": [],
+    "DoNotApplyDiscounts": false,
+    "BlockSale": false,
+    "ProductAvailabilityForSelectedWarehouse": [
+      {
+        "Quantity": 8,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1757910600000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        },
+        "AvailabilityExpiryTime": {
+          "UnixTimeMilliseconds": "1757867400000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      },
+      {
+        "EarliestAvailableTimeOfDay": {
+          "Ticks": "0"
+        },
+        "AvailabilityCutOffTimeOfDay": {
+          "Ticks": "828000000000"
+        },
+        "Quantity": 50,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1757824200000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        },
+        "AvailabilityExpiryTime": {
+          "UnixTimeMilliseconds": "1757865600000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      }
+    ],
+    "UnitQuantity": 1,
+    "UnitType": "",
+    "DrugRegulationType": "",
+    "BaseProductQuantity": 58,
+    "CatalogItemType": "Grocery",
+    "AlternateOf": "",
+    "SimilarOf": "",
+    "AdditionalShippingFee": 0,
+    "CountryOriginCode": "BD",
+    "Capacity": {
+      "Weight": {
+        "Lo": 264,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      },
+      "Volume": {
+        "Lo": 1722,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      },
+      "MaxDimension": {
+        "Lo": 205,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 1
+      }
+    },
+    "AlternateGroupIds": [],
+    "IsAgeRestricted": false,
+    "category": "Spices",
+    "id": 371
+  }

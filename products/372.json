@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 9759,
+  "Name": "Josti Modhu (Licorice) 100 gm",
+  "NameBn": "যষ্টি মধু ১০০ গ্রাম",
+  "NameWithoutSubText": "Josti Modhu (Licorice)",
+  "SubText": "100 gm",
+  "Price": {
+    "Lo": 99,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 99,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 99,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Josti Modhu (Licorice) 100 gmrnrnDetails:rnJosti Modhu, or licorice root, is a natural product widely used for its sweet flavor and potential medicinal properties. It is commonly used in herbal remedies and traditional medicine for treating various ailments like sore throats, digestive issues, and respiratory conditions.rnrnIngredients:rnPure dried licorice roots.rnrnUses:  rn1. As a Herbal Remedy: Boil the roots to make tea for soothing sore throats or coughs.  rn2. Flavoring Agent: Used to add a sweet taste to herbal teas and other beverages.  rn3. Skincare: Extracts are sometimes used in natural skincare for their soothing properties.  rn4. Digestive Aid: Often consumed to alleviate symptoms like indigestion or acid reflux.",
+  "Slug": "josti-modhu-licorice-100-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/josti-modhu-licorice-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48373&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    348
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 100,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 648,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 12,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 372
+}

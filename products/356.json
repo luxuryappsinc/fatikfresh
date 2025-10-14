@@ -1,0 +1,114 @@
+{
+  "ProductVariantId": 18532,
+  "Name": "Imperial Cumin (Shahi Jira) 50 gm",
+  "NameBn": "শাহী জিরা ৫০ গ্রাম ",
+  "NameWithoutSubText": "Imperial Cumin (Shahi Jira)",
+  "SubText": "50 gm",
+  "Price": {
+    "Lo": 129,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 129,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 129,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Imperial Cumin (known as Shahi Jira in South Asia) is a premium quality variety of cumin seeds, distinguished by its larger size and more intense aroma compared to regular cumin. These seeds are commonly used in Indian, Middle Eastern, and Mediterranean cuisines to add a warm, earthy, and slightly peppery flavor to a variety of dishes. Shahi Jira is often used in spice blends, curries, soups, rice dishes, and more, adding both depth and complexity to the food.rnrnUses: Spice Blends, Curries & Gravies, Rice Dishes, Pickles & Chutneys, Seasoning for Vegetables & Meats.rnrnBenefits:rnImproves Digestion: Cumin aids in digestion by stimulating the production of digestive enzymes, reducing bloating, and relieving indigestion.rnRich in Antioxidants: The antioxidants in cumin help to reduce oxidative stress in the body and may protect cells from damage.rnBoosts Immunity: Cumin is rich in vitamin C, iron, and other essential nutrients that help strengthen the immune system.rnWeight Management: Cumin is believed to aid in weight management by boosting metabolism and fat burning.rnSupports Respiratory Health: Cumin has been traditionally used to treat respiratory problems like asthma, bronchitis, and cough due to its anti-inflammatory and antimicrobial properties.",
+  "Slug": "cumin-shahi-jira-50-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/imperial-cumin-shahi-jira-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129472&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 14,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 64,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 50,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 75,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 5,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 356
+}

@@ -1,0 +1,116 @@
+{
+  "ProductVariantId": 18529,
+  "Name": "Poppy Seed (Posto Dana) 50 gm",
+  "NameBn": "পোস্তা দানা ৫০ গ্রাম",
+  "NameWithoutSubText": "Poppy Seed (Posto Dana)",
+  "SubText": "50 gm",
+  "Price": {
+    "Lo": 205,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 199,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 199,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Poppy Seeds (known as Posto Dana in South Asia) are small, round seeds harvested from the opium poppy plant (Papaver somniferum). These seeds are commonly used in cooking for their subtle, nutty flavor and crunchy texture. Poppy seeds are often incorporated into curries, sauces, salads, and sweets, and are a staple in many South Asian, Middle Eastern, and Mediterranean cuisines. They can also be ground into a paste to be used in various dishes.rnrnUses:rnCurries & Gravies: Poppy seeds are ground into a paste and added to curry gravies, especially in Bengali cuisine, to create a smooth, rich texture.rnSweets & Desserts: Poppy seeds are used in traditional desserts like Posto Raita, Posto Patishapta, and sweet rolls.rnBaking: Poppy seeds are often sprinkled over bread, muffins, or cookies to add a crunchy texture and subtle flavor.rnSpice Blends: Poppy seeds are used in spice mixes and are a key ingredient in various regional spice blends in Indian and Middle Eastern cooking.rnSmoothies & Drinks: They can be added to smoothies for an extra crunch or used in certain traditional drinks.rnrnBenefits:rnRich in Nutrients: Poppy seeds are packed with essential minerals such as calcium, iron, magnesium, and zinc, supporting bone health and overall well-being.rnPromotes Digestion: The fiber in poppy seeds aids in digestion and helps regulate bowel movements.rnRich in Antioxidants: Poppy seeds contain antioxidants that help fight free radicals and reduce inflammation in the body.rnSupports Skin Health: The oils in poppy seeds are known to help with skin health and provide a natural glow.rnGood Source of Energy: Poppy seeds provide a natural energy boost due to their high content of healthy fats, protein, and carbohydrates.",
+  "Slug": "poppy-seed-posto-dana-50-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/poppy-seed-posto-dana-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132211&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    107
+  ],
+  "AllRecursiveCategoryIds": [
+    107,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    257
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 9,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 59,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 50,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 192,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 8,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Spices",
+  "id": 349
+}

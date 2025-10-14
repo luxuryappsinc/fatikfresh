@@ -1,0 +1,112 @@
+{
+  "ProductVariantId": 6938,
+  "Name": "Sis Brown Sugar 800 gm",
+  "NameBn": "সিস বাদামি চিনি ৮০০ গ্রাম",
+  "NameWithoutSubText": "Sis Brown Sugar",
+  "SubText": "800 gm",
+  "Price": {
+    "Lo": 759,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 759,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 759,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Sis Brown Sugar is a natural and richly flavorful sweetener that adds a warm and caramel-like sweetness to your culinary creations. This brown sugar is meticulously crafted to retain the natural molasses content, giving it its distinctive color and deep, complex flavor profile. Packaged in a convenient 800-gram bag, Sis Brown Sugar is a versatile ingredient that enhances the taste of baked goods, desserts, beverages, and savory dishes.",
+  "Slug": "brown-suger-800-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/sis-brown-sugar-800-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133670&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    111
+  ],
+  "AllRecursiveCategoryIds": [
+    111,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    304
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757798596343",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 51,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "SG",
+  "Capacity": {
+    "Weight": {
+      "Lo": 820,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 192169288,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 2591,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    2150
+  ],
+  "IsAgeRestricted": false,
+  "category": "Salt_Sugar",
+  "id": 388
+}
