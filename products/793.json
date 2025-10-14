@@ -1,0 +1,97 @@
+{
+  "ProductVariantId": 38654,
+  "Name": "Fargo Sweet Chili Sauce 335 ml",
+  "NameBn": "ফার্গো সুইট চিলি সস ৩৩৫ মিলি",
+  "NameWithoutSubText": "Fargo Sweet Chili Sauce",
+  "SubText": "335 ml",
+  "Price": {
+    "Lo": 110,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 110,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 110,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Fargo’s Sweet and Hot Chili Sauce to enhance the flavor of your favorite fried snacks! This yummy sauce has a sweet and spicy kick to it that works as a perfect addition to your snacks while delivering the benefits of Vitamin A, Vitamin C, folate, magnesium, and potassium that help prevent diabetes, obesity, inflammation, and indigestion.",
+  "Slug": "fargo-sweet-chili-sauce-335-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/fargo-sweet-chili-sauce-335-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127932&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1632
+  ],
+  "AllRecursiveCategoryIds": [
+    1632,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [
+    498
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757997000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757953800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 1,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 335,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 82296,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 2286,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    4744
+  ],
+  "IsAgeRestricted": false,
+  "category": "Tomato_Sauces",
+  "id": 793
+}

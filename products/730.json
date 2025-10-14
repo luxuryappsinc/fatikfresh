@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 9859,
+  "Name": "Maggi Seasoning Sauce 680 ml",
+  "NameBn": "ম্যাগী সিজনিং সস ৬৮০ মিলি",
+  "NameWithoutSubText": "Maggi Seasoning Sauce",
+  "SubText": "680 ml",
+  "Price": {
+    "Lo": 690,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 569,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 569,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Maggi Seasoning Sauce is a beloved and iconic condiment renowned for its ability to enhance the flavor of a wide variety of dishes. This sauce has been a kitchen staple for generations, trusted by cooks and food enthusiasts around the world to add depth, umami, and a delightful savory twist to their culinary creations. Packaged in a generous 680 ml bottle, Maggi Seasoning Sauce is your secret ingredient for elevating the taste of soups, stews, stir-fries, marinades, and more.",
+  "Slug": "maggi-seasoning-sauce-700-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/maggi-seasoning-sauce-680-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48211&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1372
+  ],
+  "AllRecursiveCategoryIds": [
+    1372,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "TH",
+  "Capacity": {
+    "Weight": {
+      "Lo": 70,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1856,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 29,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    4531
+  ],
+  "IsAgeRestricted": false,
+  "category": "Colors_Flavours",
+  "id": 730
+}

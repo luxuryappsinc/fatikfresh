@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 8612,
+  "Name": "French's Classic Yellow Mustard 255 gm",
+  "NameBn": "ফ্রান্স'স ক্লাসিক হলুদ সরিষা ২৫৫ গ্রাম",
+  "NameWithoutSubText": "French's Classic Yellow Mustard",
+  "SubText": "255 gm",
+  "Price": {
+    "Lo": 460,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 460,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 460,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "French's Classic Yellow Mustard is made with stone ground, #1 Grade Mustard Seeds, and has no artificial colors, flavors, or preservatives.  No corners cut, no weird stuff, just classic mustard sauce that brings food to life with zero fat, calories, or gluten. Crafted by our master grinders, our stone ground yellow mustard delivers the smooth texture and tangy taste your family will love. ",
+  "Slug": "frenchs-classic-yellow-mustard-255-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/frenchs-classic-yellow-mustard-255-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128597&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1372
+  ],
+  "AllRecursiveCategoryIds": [
+    1372,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "US",
+  "Capacity": {
+    "Weight": {
+      "Lo": 405,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 490,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 10,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    4529
+  ],
+  "IsAgeRestricted": false,
+  "category": "Colors_Flavours",
+  "id": 732
+}

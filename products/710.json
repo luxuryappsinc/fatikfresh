@@ -1,0 +1,97 @@
+{
+  "ProductVariantId": 39067,
+  "Name": "Fargo Ghani Extracted Premium Mustard Oil 500 ml",
+  "NameBn": "ফার্গো ঘানিভাঙ্গা প্রিমিয়াম সরিষার তেল ৫০০ মিলি",
+  "NameWithoutSubText": "Fargo Ghani Extracted Premium Mustard Oil",
+  "SubText": "500 ml",
+  "Price": {
+    "Lo": 340,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 340,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 340,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Fargo Premium Mustard Oil is a complete package of nutritional supplements from top quality mustard seeds that never compromises with its naturally soothing smell and taste. It is extracted and packed to perfection to be ready for delivery right at your doorstep at your utmost convenience.rn",
+  "Slug": "fargo-ghani-extracted-premium-mustard-oil-500-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/fargo-ghani-extracted-premium-mustard-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132183&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    108
+  ],
+  "AllRecursiveCategoryIds": [
+    108,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    498
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 1,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 77556297,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 273,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    6255
+  ],
+  "IsAgeRestricted": false,
+  "category": "Oil",
+  "id": 710
+}

@@ -1,0 +1,123 @@
+{
+  "ProductVariantId": 2882,
+  "Name": "Foster Clark's Food Colour (Red) 28 ml",
+  "NameBn": "ফস্টার ক্লার্ক'স ফুড কালার (লাল) ২৮ মিলি",
+  "NameWithoutSubText": "Foster Clark's Food Colour (Red)",
+  "SubText": "28 ml",
+  "Price": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Foster Clark's Food Colour Red color is used in food baking and cooking. It gives a beautiful texture to the dish. No Toxins or chemicals were used.rnrnFoster Clark's Food Colour is a high-quality, vibrant liquid colourant that enhances the appearance of your culinary creations. Available in a variety of colors, it is perfect for cakes, icing, desserts, and drinks. The easy-to-use formula ensures consistent and bold color with just a few drops. Ideal for both home baking and professional use.",
+  "Slug": "foster-clarks-food-colour-red-28-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/foster-clarks-food-colour-red-28-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D112888&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    102,
+    1372
+  ],
+  "AllRecursiveCategoryIds": [
+    102,
+    100,
+    2,
+    1372,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    525,
+    242
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 3,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 53,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "MT",
+  "Capacity": {
+    "Weight": {
+      "Lo": 28,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 11025,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 9,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    4525
+  ],
+  "IsAgeRestricted": false,
+  "category": "Colors_Flavours",
+  "id": 737
+}

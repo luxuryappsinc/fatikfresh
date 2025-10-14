@@ -1,0 +1,126 @@
+{
+  "ProductVariantId": 4412,
+  "Name": "Hershey's Strawberry Syrup 623 gm",
+  "NameBn": "হারসে'স স্ট্রবেরি সিরাপ ৬২৩ গ্রাম",
+  "NameWithoutSubText": "Hershey's Strawberry Syrup",
+  "SubText": "623 gm",
+  "Price": {
+    "Lo": 939,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 939,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 939,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Hershey's Strawberry Syrup is a luscious and versatile topping that adds the delightful taste of ripe strawberries to a wide array of sweet treats and beverages. This syrup is meticulously crafted to provide a perfect balance of fruity sweetness and vibrant strawberry flavor. Packaged in a convenient 623-gram bottle, Hershey's Strawberry Syrup is a cherished companion for enhancing ice creams, milkshakes, desserts, pancakes, and more.",
+  "Slug": "hersheys-strawberry-syrup-623-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/hersheys-strawberry-syrup-623-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174494&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    102,
+    189,
+    1372
+  ],
+  "AllRecursiveCategoryIds": [
+    102,
+    100,
+    2,
+    189,
+    17,
+    2,
+    1372,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    525
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 5,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 55,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "US",
+  "Capacity": {
+    "Weight": {
+      "Lo": 700,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 840,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 21,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2377
+  ],
+  "IsAgeRestricted": false,
+  "category": "Colors_Flavours",
+  "id": 735
+}

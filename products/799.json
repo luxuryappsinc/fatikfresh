@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 38028,
+  "Name": "The Eastern Pickle Company Amra Achar 400 gm",
+  "NameBn": "দ্য ইস্টার্ন পিকল কোম্পানি আমড়ার আচার ৪০০ গ্রাম",
+  "NameWithoutSubText": "The Eastern Pickle Company Amra Achar",
+  "SubText": "400 gm",
+  "Price": {
+    "Lo": 390,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 390,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 390,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Introducing The Eastern Pickle Company's Amra Achar, a flavorful delight in a generous 400g jar. Immerse your taste buds in the tangy and savory experience of this traditional Indian mango pickle.Handcrafted with care, Amra Achar captures the essence of expertly pickled green mangoes, expertly blended with a selection of aromatic spices. The result is a harmonious fusion of flavors that range from mildly tangy to subtly spicy, offering a burst of authenticity in every bite.",
+  "Slug": "the-eastern-pickle-company-amra-achar-400-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/the-eastern-pickle-company-amra-achar-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125463&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    78
+  ],
+  "AllRecursiveCategoryIds": [
+    78,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757947599122",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757997000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757953800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 4,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 400,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 51209575,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 127,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    2605
+  ],
+  "IsAgeRestricted": false,
+  "category": "Pickles",
+  "id": 799
+}

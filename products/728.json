@@ -1,0 +1,105 @@
+{
+  "ProductVariantId": 11506,
+  "Name": "Hosen Gherkins Original Flavour Jar 680 gm",
+  "NameBn": "হোসেন ঘেরকিন্স অরিজিনাল ফ্লেভার জার ৬৮০ গ্রাম",
+  "NameWithoutSubText": "Hosen Gherkins Original Flavour Jar",
+  "SubText": "680 gm",
+  "Price": {
+    "Lo": 529,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 529,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 529,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Hosen Gherkins in the original flavor jar offer a delightful and tangy twist to your meals and snacks. This 680 gm jar of gherkins is filled with crisp and flavorful pickled cucumbers that can be enjoyed on their own or as a zesty accompaniment to various dishes. Trust in Hosen to provide you with a classic and flavorful pickle option that complements a wide range of culinary delights.",
+  "Slug": "hosen-gherkins-original-flavour-jar-680-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/hosen-gherkins-original-flavour-jar-680-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D104889&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1372,
+    1615
+  ],
+  "AllRecursiveCategoryIds": [
+    1372,
+    104,
+    2,
+    1615,
+    65,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "CN",
+  "Capacity": {
+    "Weight": {
+      "Lo": 835,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1100,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 11,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2580
+  ],
+  "IsAgeRestricted": false,
+  "category": "Colors_Flavours",
+  "id": 728
+}

@@ -1,0 +1,99 @@
+{
+  "ProductVariantId": 55260,
+  "Name": "Ruchi Hot Tomato Sauce 200 gm",
+  "NameBn": "রুচি হট টমেটো সস ২০০ গ্রাম",
+  "NameWithoutSubText": "Ruchi Hot Tomato Sauce",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 80,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 80,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 80,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Volumetric: 200gmrnDescription: Ruchi Hot Tomato Sauce is a condiment product known for its well-balanced taste among sweetness, spiciness & Tanginess. This sauce, originating from an unspecified country, comes in a 200gm package. It is made from ripe tomatoes and carefully blended with spices to create a hot and flavorful sauce. Ruchi Hot Tomato Sauce can be used as a dipping sauce, a condiment for burgers and sandwiches, or as an ingredient in various recipes to add a fiery kick. Please note that specific ingredients and flavor profiles may vary depending on the brand and manufacturer.",
+  "Slug": "ruchi-hot-tomato-sauce-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/ruchi-hot-tomato-sauce-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176908&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1632
+  ],
+  "AllRecursiveCategoryIds": [
+    1632,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757949795029",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 210,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 375,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 15,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Tomato_Sauces",
+  "id": 780
+}

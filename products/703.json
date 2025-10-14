@@ -1,0 +1,102 @@
+{
+  "ProductVariantId": 9155,
+  "Name": "Orkide Sunflower Oil 5 ltr",
+  "NameBn": "অরকিড সূর্যমুখী তেল ৫ লিটার",
+  "NameWithoutSubText": "Orkide Sunflower Oil",
+  "SubText": "5 ltr",
+  "Price": {
+    "Lo": 2100,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 2100,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 2100,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Manufacturer: Kugukbay Refined sunflower oil. Very rich in vitamin E. Cholesterol-free. The bottle is protected against sunrays. Nutrition: Energy, protein, saturated and unsaturated fat.",
+  "Slug": "orkide-sunflower-oil-offer-5-ltr",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/orkide-sunflower-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131611&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    108
+  ],
+  "AllRecursiveCategoryIds": [
+    108,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    197,
+    364
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 10,
+  "CountryOriginCode": "TR",
+  "Capacity": {
+    "Weight": {
+      "Lo": 4740,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 688256688,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 3556,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Oil",
+  "id": 703
+}

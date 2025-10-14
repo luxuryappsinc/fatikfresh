@@ -1,0 +1,107 @@
+{
+  "ProductVariantId": 36567,
+  "Name": "Farmer's Gold Oshwagandha powder 100 gm",
+  "NameBn": "ফার্মার‘স গোল্ড অশ্বগন্ধা গুঁড়া ১০০ গ্রাম",
+  "NameWithoutSubText": "Farmer's Gold Oshwagandha powder",
+  "SubText": "100 gm",
+  "Price": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Farmer's Gold Ashwagandha Powder is more than just a supplement; it's a holistic approach to well-being and a connection to ancient wisdom. Whether you're looking to reduce stress, increase vitality, or simply enhance your overall health, this ashwagandha powder is a natural and trusted choice. Embrace the wisdom of tradition, nurture your inner balance, and embark on a journey to a healthier you with Farmer's Gold Ashwagandha Powder (100g). Taste the purity, savor the quality, and make well-being a part of your daily routine with this exceptional ashwagandha supplement.",
+  "Slug": "farmers-gold-oshwagandha-powder-100-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/farmers-gold-oshwagandha-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128398&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1266
+  ],
+  "AllRecursiveCategoryIds": [
+    1266,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    525,
+    559
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757804152428",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 11,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 12,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 100,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 32774128,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 127,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    6307
+  ],
+  "IsAgeRestricted": false,
+  "category": "Premium_Ingredients",
+  "id": 761
+}

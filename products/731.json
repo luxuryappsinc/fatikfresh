@@ -1,0 +1,105 @@
+{
+  "ProductVariantId": 9858,
+  "Name": "Saporito Red Grape Vinegar 500 ml",
+  "NameBn": "সাপোরিটো রেড গ্রেপ ভিনেগার ৫০০ মিলি",
+  "NameWithoutSubText": "Saporito Red Grape Vinegar",
+  "SubText": "500 ml",
+  "Price": {
+    "Lo": 569,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 569,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 569,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Saporito Red Grape Vinegar is a premium culinary vinegar celebrated for its bold and fruity flavor, derived from the essence of ripe red grapes. This vinegar is meticulously crafted to offer a rich and complex taste profile, making it a cherished ingredient in salad dressings, marinades, sauces, and a wide range of gourmet dishes. Presented in a generous 500 ml bottle, Saporito Red Grape Vinegar is your go-to choice for adding depth and character to your culinary creations.",
+  "Slug": "saporito-red-grape-vinegar-500-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/saporito-red-grape-vinegar-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133149&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    79,
+    1372
+  ],
+  "AllRecursiveCategoryIds": [
+    79,
+    49,
+    2,
+    1372,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "IT",
+  "Capacity": {
+    "Weight": {
+      "Lo": 889,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "Volume": {
+      "Lo": 936,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 26,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    3174
+  ],
+  "IsAgeRestricted": false,
+  "category": "Colors_Flavours",
+  "id": 731
+}

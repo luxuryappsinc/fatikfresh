@@ -1,0 +1,131 @@
+{
+  "ProductVariantId": 12873,
+  "Name": "Bragg Organic Apple Cider Vinegar 946 ml",
+  "NameBn": "ব্রাগ অরগানিক আপেল সিডার ভিনেগার ৯৪৬ মিলি",
+  "NameWithoutSubText": "Bragg Organic Apple Cider Vinegar",
+  "SubText": "946 ml",
+  "Price": {
+    "Lo": 1600,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 1600,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 1600,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Discover the wholesome goodness and countless benefits of Bragg Organic Apple Cider Vinegar, a true household staple that has been trusted for generations. This 946ml bottle contains pure, unfiltered, and organic apple cider vinegar that's brimming with the natural essence of crisp, organic apples. Elevate your lifestyle with this natural elixir that's as good for your taste buds as it is for your well-being.",
+  "Slug": "bragg-organic-apple-cider-vinegar-946-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/bragg-organic-apple-cider-vinegar-946-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126229&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    79,
+    1372
+  ],
+  "AllRecursiveCategoryIds": [
+    79,
+    49,
+    2,
+    1372,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    304
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 3,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757803824254",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 54,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "US",
+  "Capacity": {
+    "Weight": {
+      "Lo": 10646,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "Volume": {
+      "Lo": 2025,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 25,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    3165
+  ],
+  "IsAgeRestricted": false,
+  "category": "Colors_Flavours",
+  "id": 717
+}

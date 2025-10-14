@@ -1,0 +1,95 @@
+{
+  "ProductVariantId": 26836,
+  "Name": "Foster Clark's Culinary Essence Lemon 28 ml",
+  "NameBn": "ফোস্টার ক্লার্ক'স কালিনারি এসেন্স লেমন ২৮ মিলি",
+  "NameWithoutSubText": "Foster Clark's Culinary Essence Lemon",
+  "SubText": "28 ml",
+  "Price": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Foster clarks lemon food essence is a mildly flavored pure organic low glycemic natural sweetener. It is ideal for adding to hot and cold beverages, baking or drizzled over fruits, desserts and yoghurts.",
+  "Slug": "foster-clarks-culinary-essence-lemon-28-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/foster-clarks-culinary-essence-lemon-28-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180957&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1372
+  ],
+  "AllRecursiveCategoryIds": [
+    1372,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 3,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 3,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "MT",
+  "Capacity": {
+    "Weight": {
+      "Lo": 96,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 144,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 9,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    4523
+  ],
+  "IsAgeRestricted": false,
+  "category": "Colors_Flavours",
+  "id": 738
+}

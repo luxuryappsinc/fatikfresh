@@ -1,0 +1,131 @@
+{
+  "ProductVariantId": 21460,
+  "Name": "American Garden Pizza Sauce Classic 397 ml",
+  "NameBn": "আমেরিকান গার্ডেন পিজ্জা সস ক্লাসিক ৩৯৭ মিলি",
+  "NameWithoutSubText": "American Garden Pizza Sauce Classic",
+  "SubText": "397 ml",
+  "Price": {
+    "Lo": 670,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 670,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 670,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "American Garden Sauce - Classic Pizza, 397 ml, American Garden is Natural Pizza Sauce to give homemade pizzas a great flavor in a simple way. ... Tomato Puree (Water, (Parsley, Oregano), Dehydrated Garlic, Natural Flavour (Spice Extract), Salt, Soybean Oil, Citric Acid. Tomato Paste), Contains Less than 2% of spices.",
+  "Slug": "american-garden-pizza-sauce-classic-397-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/american-garden-pizza-sauce-classic-397-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177295&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    79,
+    1372
+  ],
+  "AllRecursiveCategoryIds": [
+    79,
+    49,
+    2,
+    1372,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    310
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757803824254",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 5,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 57,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "US",
+  "Capacity": {
+    "Weight": {
+      "Lo": 412,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 960,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 15,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2673
+  ],
+  "IsAgeRestricted": false,
+  "category": "Colors_Flavours",
+  "id": 716
+}

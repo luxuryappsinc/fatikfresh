@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 26889,
+  "Name": "Ligion Black Seed With Sesame Seed 100 gm",
+  "NameBn": "লীজান কালো বীজ তিল বীজ সহ ১০০গ্রাম",
+  "NameWithoutSubText": "Ligion Black Seed With Sesame Seed",
+  "SubText": "100 gm",
+  "Price": {
+    "Lo": 130,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 130,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 130,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "1. Increase of milk in mother's breast, 2. Reduces diabetes, 3. Controls high blood pressure, 4. Increases memory, 5. Removes cold, cough, asthma, 6. Eliminates impotence, 7. Removes heart disease, 8. Eliminates head lice and dandruff, 9. Prevents hair loss and hair growth, 10. Eliminates head-holding, 11. Removes pain and rheumatism, 12. Reduces back and waist pain, 13. Removes wounds and skin diseases, 14. For colds, coughs, asthma, phlegm and sore throat, consume half a spoonful of black cumin oil with honey twice a day. Massage black cumin oil on the chest and back in the morning and at night before going to bed.",
+  "Slug": "ligion-black-seed-with-sesame-seed-100-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/ligion-black-seed-with-sesame-seed-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138645&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1266
+  ],
+  "AllRecursiveCategoryIds": [
+    1266,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    525
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 140,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 660772872,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 2845,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    3160
+  ],
+  "IsAgeRestricted": false,
+  "category": "Premium_Ingredients",
+  "id": 766
+}

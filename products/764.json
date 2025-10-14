@@ -1,0 +1,119 @@
+{
+  "ProductVariantId": 36564,
+  "Name": "Farmer's Gold Protein Powder 200 gm",
+  "NameBn": "ফার্মার‘স গোল্ড প্রোটিন গুঁড়া ২০০গ্রাম",
+  "NameWithoutSubText": "Farmer's Gold Protein Powder",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 400,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 400,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 400,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Farmer's Gold Protein Powder is more than just a dietary supplement; it's a commitment to your health and wellness journey. Whether you're striving for a more balanced diet, looking to enhance your physical performance, or simply seeking a convenient way to add protein to your daily meals, our protein powder is your trusted partner. Experience the nourishing benefits, embrace the versatility, and elevate your nutrition with Farmer's Gold Protein Powder (200g). Taste the purity, savor the quality, and make every meal a step toward a healthier you with this exceptional plant-based protein powder.",
+  "Slug": "farmers-gold-protein-powder-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/farmers-gold-protein-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131671&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1266
+  ],
+  "AllRecursiveCategoryIds": [
+    1266,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    525,
+    559
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 51,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 884901456,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 1524,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    6563
+  ],
+  "IsAgeRestricted": false,
+  "category": "Premium_Ingredients",
+  "id": 764
+}

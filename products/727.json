@@ -1,0 +1,130 @@
+{
+  "ProductVariantId": 12180,
+  "Name": "Hershey's Caramel Syrup 623 gm",
+  "NameBn": "হারসে'স কেরামেল সিরাপ ৬২৩ গ্রাম",
+  "NameWithoutSubText": "Hershey's Caramel Syrup",
+  "SubText": "623 gm",
+  "Price": {
+    "Lo": 999,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 899,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 899,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Hershey's Caramel Syrup is a luscious and indulgent dessert topping that adds a rich, velvety caramel flavor to your favorite treats and desserts. Crafted with the signature quality of Hershey's, this syrup is a beloved choice for drizzling over ice cream, pancakes, waffles, or incorporating into various dessert recipes. With its smooth consistency and unmistakable caramel taste, Hershey's Caramel Syrup is the perfect way to elevate the sweetness of your culinary creations. Packaged in a convenient 623 gm bottle, it ensures that you have an ample supply of caramel goodness for your dessert adventures.",
+  "Slug": "hersheys-caramel-syrup-623-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/hersheys-caramel-syrup-623-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103085&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    102,
+    189,
+    1596,
+    1372
+  ],
+  "AllRecursiveCategoryIds": [
+    102,
+    100,
+    2,
+    189,
+    17,
+    2,
+    1596,
+    14,
+    2,
+    1372,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    525
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 8,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 58,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "US",
+  "Capacity": {
+    "Weight": {
+      "Lo": 672,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1452,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 22,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2377
+  ],
+  "IsAgeRestricted": false,
+  "category": "Colors_Flavours",
+  "id": 727
+}
