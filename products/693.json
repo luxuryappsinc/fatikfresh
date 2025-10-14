@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 29268,
+  "Name": "Clariss Olive Oil Pomace Glass Bottle 250 ml",
+  "NameBn": "ক্লারিস অলিভ অয়েল পোমেস গ্লাস বোতল ২৫০ মিলি",
+  "NameWithoutSubText": "Clariss Olive Oil Pomace Glass Bottle",
+  "SubText": "250 ml",
+  "Price": {
+    "Lo": 495,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 495,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 495,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Olive Oil is a cholesterol-free productrnrn.No ADDITIVES.No PRESERVATIVESrnINGREDIENTSrnrnRefined Olive Pomace Oil blended with Extra Virgin Olive OilrnrnSAFETY DIRECTIONSrnrnStore in a dark, cool place away from the stove or other heat-producing appliances at room temperature. Check quality seal before buying.",
+  "Slug": "clariss-olive-oil-pomace-glass-bottle-250-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/clariss-olive-oil-pomace-glass-bottle-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D93952&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    108,
+    1505
+  ],
+  "AllRecursiveCategoryIds": [
+    108,
+    104,
+    2,
+    1505,
+    1484
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "AE",
+  "Capacity": {
+    "Weight": {
+      "Lo": 498,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 65548256,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 254,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    1802
+  ],
+  "IsAgeRestricted": false,
+  "category": "Oil",
+  "id": 693
+}

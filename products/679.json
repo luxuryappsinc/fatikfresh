@@ -1,0 +1,99 @@
+{
+  "ProductVariantId": 55414,
+  "Name": "ACI Aroma Mustard Oil 5 ltr",
+  "NameBn": "এসিআই অ্যারোমা সরিষার তেল ৫ লিটার",
+  "NameWithoutSubText": "ACI Aroma Mustard Oil",
+  "SubText": "5 ltr",
+  "Price": {
+    "Lo": 1350,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 1350,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 1350,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "ACI AROMA Mustard Oil   rnBrand: ACI Aroma (Pack Size: 5 ltr)rnOrigin: Product of BangladeshrnACI AROMA Mustard Oil is a premium-quality oil made from carefully selected mustard seeds, known for its authentic aroma, golden color, and perfect fragrance with right pungency. A flavorsome cooking oil that captures the essence of traditional heritage and enhances real taste and aroma of our daily food. rn•        Authentic Taste of Bengal – Perfect pungency to elevate the flavors of our rich culinary heritage.rn•        Naturally Aromatic – Cold-pressed to retain its natural scent and nutritional value.rn•        Versatile in the Kitchen – Ideal for frying, sautéing, and traditional dishes.rn•         Natural Preservative– Works wonderfully in preserving pickles, chutneys, and condiments. rn•         Pure & Natural – Free from additives, ensuring quality and purity in every drop.",
+  "Slug": "aci-aroma-mustard-oil-5-ltr",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/aci-aroma-mustard-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177223&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    108
+  ],
+  "AllRecursiveCategoryIds": [
+    108,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 4750,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 7208448,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 3
+    },
+    "MaxDimension": {
+      "Lo": 312,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Oil",
+  "id": 679
+}

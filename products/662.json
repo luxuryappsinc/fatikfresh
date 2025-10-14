@@ -1,0 +1,117 @@
+{
+  "ProductVariantId": 21685,
+  "Name": "Ceylon Organic Extra Virgin Coconut Oil 500 ml",
+  "NameBn": "সিলোন অরগানিক এক্সট্রা ভার্জিন নারকেল তেল ৫০০ মিলি",
+  "NameWithoutSubText": "Ceylon Organic Extra Virgin Coconut Oil",
+  "SubText": "500 ml",
+  "Price": {
+    "Lo": 1590,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 1590,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 1590,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Ceylon Organic Extra Virgin Coconut Oil is pure, cold-pressed oil that retains its natural flavor and aroma. The 500 ml bottle is perfect for cooking, baking, or skin care. Rich in antioxidants and healthy fats, it’s a versatile oil that promotes health both inside and out. Ideal for a natural and organic lifestyle.",
+  "Slug": "ceylon-organic-extra-virgin-coconut-oil-500-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/ceylon-organic-extra-virgin-coconut-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126647&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    33,
+    108,
+    1505
+  ],
+  "AllRecursiveCategoryIds": [
+    33,
+    1494,
+    30,
+    108,
+    104,
+    2,
+    1505,
+    1484
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757803237464",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 51,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "LK",
+  "Capacity": {
+    "Weight": {
+      "Lo": 206,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 4165,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 85,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    1914
+  ],
+  "IsAgeRestricted": false,
+  "category": "Oil",
+  "id": 662
+}

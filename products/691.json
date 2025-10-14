@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 36421,
+  "Name": "Fine Dine Sunflower Oil 5 ltr",
+  "NameBn": "ফাইন ডাইন সানফ্লাওয়ার অয়েল ৫ লিটার",
+  "NameWithoutSubText": "Fine Dine Sunflower Oil",
+  "SubText": "5 ltr",
+  "Price": {
+    "Lo": 2250,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 2250,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 2250,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Fine Dine Sunflower Oil is imported directly from Turkey. It is produced by one of the largest edible oil producer companies in the world It is rich in Vitamin A and vitamin Which help in promoting skin health. Thesevitaminsact antioxidants. They help in regenerating damaged skin cells and getting rid of acne-causing bacteria. It contains more than 80% of monounsaturated fats which makes it good for your heart. The impressive fatty acid content in sunflower oil helps in maintaining a balance in your body.",
+  "Slug": "fine-dine-sunflower-oil-5-ltr",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/fine-dine-sunflower-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D119432&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    108
+  ],
+  "AllRecursiveCategoryIds": [
+    108,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 10,
+  "CountryOriginCode": "UA",
+  "Capacity": {
+    "Weight": {
+      "Lo": 5000,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 4257523584,
+      "Mid": 3,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 4064,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    1821
+  ],
+  "IsAgeRestricted": false,
+  "category": "Oil",
+  "id": 691
+}

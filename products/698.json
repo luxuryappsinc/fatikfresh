@@ -1,0 +1,105 @@
+{
+    "ProductVariantId": 21538,
+    "Name": "La Espanola Pure Olive Oil 250 ml",
+    "NameBn": "লা এস্পানোলা খাঁটি জলপাই তেল ২৫০ মিলি",
+    "NameWithoutSubText": "La Espanola Pure Olive Oil",
+    "SubText": "250 ml",
+    "Price": {
+      "Lo": 530,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "DiscountedPrice": {
+      "Lo": 530,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "CorporatePrice": {
+      "Lo": 530,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "LongDescription": "La Espanola Pure Olive Oil is a brand of olive oil known for its quality and versatility. La Espanola Pure Olive Oil typically refers to a blend of refined olive oil and extra virgin olive oil. It is important to note that \"pure\" in this context does not mean it is pure extra virgin olive oil but rather a blend with a milder flavor profile suitable for a variety of culinary uses.",
+    "Slug": "la-espanola-pure-olive-oil-250-ml",
+    "RecType": "",
+    "PictureUrls": [
+      "https://i.chaldn.com/_mpimage/la-espanola-pure-olive-oil-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129929&q=best&v=1&m=400"
+    ],
+    "OfferPictureUrls": [],
+    "AllCategoryIds": [
+      108,
+      1622
+    ],
+    "AllRecursiveCategoryIds": [
+      108,
+      104,
+      2,
+      1622,
+      1698,
+      30
+    ],
+    "AllManufacturerIds": [],
+    "DoNotApplyDiscounts": false,
+    "BlockSale": false,
+    "ProductAvailabilityForSelectedWarehouse": [
+      {
+        "EarliestAvailableTimeOfDay": {
+          "Ticks": "0"
+        },
+        "AvailabilityCutOffTimeOfDay": {
+          "Ticks": "810000000000"
+        },
+        "Quantity": 50,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1757818800000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        },
+        "AvailabilityExpiryTime": {
+          "UnixTimeMilliseconds": "1757863800000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      }
+    ],
+    "UnitQuantity": 1,
+    "UnitType": "",
+    "DrugRegulationType": "",
+    "BaseProductQuantity": 50,
+    "CatalogItemType": "Grocery",
+    "AlternateOf": "",
+    "SimilarOf": "",
+    "AdditionalShippingFee": 0,
+    "CountryOriginCode": "ES",
+    "Capacity": {
+      "Weight": {
+        "Lo": 258,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      },
+      "Volume": {
+        "Lo": 450,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      },
+      "MaxDimension": {
+        "Lo": 18,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      }
+    },
+    "AlternateGroupIds": [
+      1802
+    ],
+    "IsAgeRestricted": false,
+    "category": "Oil",
+    "id": 698
+  }

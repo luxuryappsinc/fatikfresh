@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 18280,
+  "Name": "Anchor Agar-Agar Powder 20 gm",
+  "NameBn": "অ্যাংকর আগর-আগার পাউডার ২০ গ্রাম",
+  "NameWithoutSubText": "Anchor Agar-Agar Powder",
+  "SubText": "20 gm",
+  "Price": {
+    "Lo": 120,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 120,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 120,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Brand: AnchorrnProduct Type: BakingrnCapacity: 20gmrnZero Preservatives, 100% Natural, Certified Vegan, Odourless, Colourless, Gluten Free, Kosher, Non-GMO; Use Case: For Puddings, Jellies & Vegan Cheese, Flans, Cavier, Boba Pearls, Jujubes, Cheese Cake, Fruit Jelly Cake, Rain Drop Cake, Jelly Art, Popsicles, Bread, Marshmallows",
+  "Slug": "agar-agar-powder-20-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/anchor-agar-agar-powder-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123431&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    200
+  ],
+  "AllRecursiveCategoryIds": [
+    200,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    318
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "IN",
+  "Capacity": {
+    "Weight": {
+      "Lo": 28,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 24037,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 13,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Special_Ingredients",
+  "id": 621
+}

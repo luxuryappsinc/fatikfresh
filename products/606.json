@@ -1,0 +1,99 @@
+{
+  "ProductVariantId": 18530,
+  "Name": "Kidney Bean 500 gm",
+  "NameBn": "কিডনি বীন ৫০০ গ্রাম",
+  "NameWithoutSubText": "Kidney Bean",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 119,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 119,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 119,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Kidney Beans are a variety of common beans (Phaseolus vulgaris) that are kidney-shaped, with a smooth, dark red or white skin. They have a mild, nutty flavor and a firm texture, making them a popular ingredient in a variety of dishes, including soups, stews, salads, and chili. Kidney beans are high in protein and fiber, making them a nutritious addition to vegetarian and vegan diets.rnrnUses: Soups & Stews, Salads, Curries & Rice Dishes, Veggie Burgers, Baked Beans.rnrnBenefits:rnHigh in Protein: Kidney beans are a great source of plant-based protein, supporting muscle growth and repair.rnRich in Fiber: The high fiber content of kidney beans helps support digestion, regulate blood sugar levels, and promote heart health.rnSupports Heart Health: Kidney beans are low in fat and contain potassium and magnesium, which are essential for maintaining healthy blood pressure and heart function.rnRich in Iron: Kidney beans are a good source of iron, which is essential for transporting oxygen in the blood and preventing anemia.rnWeight Management: The high fiber and protein content in kidney beans help promote satiety, reducing overall calorie intake.",
+  "Slug": "kidney-bean-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/kidney-bean-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129766&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    200
+  ],
+  "AllRecursiveCategoryIds": [
+    200,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 2700,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 15,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Special_Ingredients",
+  "id": 606
+}

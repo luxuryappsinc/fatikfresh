@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 29285,
+  "Name": "Minerva Pomace Olive Oil 500 ml",
+  "NameBn": "মিনার্ভা পোমেস অলিভ অয়েল ৫০০ মিলি",
+  "NameWithoutSubText": "Minerva Pomace Olive Oil",
+  "SubText": "500 ml",
+  "Price": {
+    "Lo": 490,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 490,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 490,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "1. Olive Oil Is Rich in Healthy Monounsaturated Fats.rn2. Olive Oil Contains Large Amounts of Antioxidants.rn3. Olive Oil Has Strong Anti-Inflammatory Propertiesrn4.Olive Oil May Help Prevent Strokes.rn5. Olive Oil Is Protective Against Heart Disease.rn6.Olive Oil Is Not Associated With Weight Gain and Obesity.rn7. Olive Oil May Fight Alzheimer's Disease.rn8. Olive Oil May Reduce Type 2 Diabetes Risk.rn9. The Antioxidants in Olive Oil Have Anti-Cancer Properties.rn10. Olive Oil Can Help Treat Rheumatoid Arthritis.rn11. Olive Oil Has Antibacterial Properties.",
+  "Slug": "minerva-pomace-olive-oil-500-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/minerva-pomace-olive-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130776&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    108
+  ],
+  "AllRecursiveCategoryIds": [
+    108,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "GR",
+  "Capacity": {
+    "Weight": {
+      "Lo": 844,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 721030816,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2794,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    1795
+  ],
+  "IsAgeRestricted": false,
+  "category": "Oil",
+  "id": 692
+}

@@ -1,0 +1,106 @@
+{
+  "ProductVariantId": 36561,
+  "Name": "Farmer's Gold Awus Red Rice (Dheki Chata) 1 kg",
+  "NameBn": "ফার্মার‘স গোল্ড আউশ লাল চাল (ঢেঁকি ছাটা) ১ কেজি",
+  "NameWithoutSubText": "Farmer's Gold Awus Red Rice (Dheki Chata)",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 130,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 130,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 130,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Farmer's Gold Awus Red Rice (Dheki Chata) is an invitation to rediscover the joys of genuine, farm-fresh goodness. Whether you're a seasoned chef looking for unique flavors or a home cook seeking a nutritious and flavorful addition to your meals, this rice variety is your gateway to a richer, more vibrant culinary experience. Celebrate tradition, nurture your health, and elevate your dining with Farmer's Gold Awus Red Rice (Dheki Chata) 1 kg. Taste the heritage, savor the quality, and make every meal a memorable occasion with this extraordinary red rice variety.",
+  "Slug": "farmers-gold-awus-red-rice-dheki-chata-1-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/farmers-gold-awus-red-rice-dheki-chata-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131686&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    200
+  ],
+  "AllRecursiveCategoryIds": [
+    200,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    559
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757803018684",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 3,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 5,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1000,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1048772096,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2032,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    4956
+  ],
+  "IsAgeRestricted": false,
+  "category": "Special_Ingredients",
+  "id": 603
+}

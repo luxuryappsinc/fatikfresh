@@ -1,0 +1,110 @@
+{
+  "ProductVariantId": 54487,
+  "Name": "Starship Fortified Soyabean Oil 5 ltr",
+  "NameBn": "স্টারশিপ ফর্টিফাইড সয়াবিন তেল ৫ লিটার",
+  "NameWithoutSubText": "Starship Fortified Soyabean Oil",
+  "SubText": "5 ltr",
+  "Price": {
+    "Lo": 922,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 922,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 922,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Starship Fortified Soyabean Oil (5 Ltr) is a healthy and versatile cooking oil, enriched with essential vitamins A, D, and E. Perfect for everyday cooking, it offers a light, neutral flavor and a high smoke point, making it ideal for frying, sautéing, and baking. Packed with heart-healthy omega-3 fatty acids, it supports overall wellness while delivering great taste to your meals. Choose Starship Soyabean Oil for a nutritious and flavorful cooking experience.",
+  "Slug": "starship-fortified-soyabean-oil-5-ltr",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/starship-fortified-soyabean-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D171854&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    108,
+    238
+  ],
+  "AllRecursiveCategoryIds": [
+    108,
+    104,
+    2,
+    238
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": true,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757803237462",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 52,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 5000,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 10693,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 37,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Oil",
+  "id": 633
+}

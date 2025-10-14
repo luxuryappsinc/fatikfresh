@@ -1,0 +1,113 @@
+{
+  "ProductVariantId": 8022,
+  "Name": "ACI Nutrilife Rice Bran Oil 5 ltr",
+  "NameBn": "এ সি আই নিউট্রিলাইফ রাইস ব্র্যান তেল ৫ লিটার",
+  "NameWithoutSubText": "ACI Nutrilife Rice Bran Oil",
+  "SubText": "5 ltr",
+  "Price": {
+    "Lo": 1080,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 1080,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 1080,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "ACI Nutrilife Rice Bran Oil                                             rnBrand: ACI Nutrilife (Pack Size:  5 ltr)                                      rnOrigin: Product of Bangladesh                                                                rnACI Nutrilife Rice Bran Oil - the world’s healthiest edible oil! This oil is truly a nutritional powerhouse, containing vitamins, antioxidants, and nutrients that are essential for a healthy lifestyle. ACI Nutrilife Rice Bran Oil is also Trans-fat-free, making it a healthier alternative to other cooking oils. With its high smoke point, this oil is perfect for high-temperature cooking methods such as everyday cooking and deep-frying.          rn •tHeart-Healthy oil – Naturally rich in Gamma Oryzanol antioxidant, known to reduces harmful cholesterol. rn •tIdeal for All Cooking Needs – High smoke point makes it perfect for deep frying and everyday cooking.rn•tBundle of Nutrients – Up to 20% less oil absorption, keeping meals lighter and more nutritious. rn •tVitamin-Enriched – Fortified with Vitamin A & E to support immunity and overall wellness.      rn•tTrans-Fat Free – Nil presence of stored Fat",
+  "Slug": "aci-nutrilife-rice-bran-oil-5-ltr",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/aci-nutrilife-rice-bran-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177941&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    108,
+    191
+  ],
+  "AllRecursiveCategoryIds": [
+    108,
+    104,
+    2,
+    191,
+    2
+  ],
+  "AllManufacturerIds": [
+    135
+  ],
+  "DoNotApplyDiscounts": true,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757803237463",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 52,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 4740,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 57354724,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 4
+    },
+    "MaxDimension": {
+      "Lo": 3556,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Oil",
+  "id": 641
+}

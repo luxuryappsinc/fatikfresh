@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 19945,
+  "Name": "Olitalia Fortified Sunflower Oil 2 ltr",
+  "NameBn": "ওলিটালিয়া ফর্টিফাইড সূর্যমুখী তেল ২ লিটার",
+  "NameWithoutSubText": "Olitalia Fortified Sunflower Oil",
+  "SubText": "2 ltr",
+  "Price": {
+    "Lo": 895,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 895,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 895,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "World No1 edible oil brand Olitalia is present in over 120 countries around the world today. In Bangladesh, Fair Food & Life Style is the authorized distributor of Olitalia. Olitalia extra virgin olive Oil, Sunflower Oil, Skin Care and Modena balsamic vinegar – iconic Italian products recognized around the world. Olitalia has built a reputation as an international ambassador for Italian taste. FFL directly imports all Olitalia products from Italy in Bangladesh and ensures the best product experience having high health benefit to Bangladeshi consumers.",
+  "Slug": "olitalia-fortified-sunflower-oil-2-ltr",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/olitalia-fortified-sunflower-oil-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131543&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    108
+  ],
+  "AllRecursiveCategoryIds": [
+    108,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    167
+  ],
+  "DoNotApplyDiscounts": true,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "IT",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1904,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 339256008,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 2845,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Oil",
+  "id": 672
+}

@@ -1,0 +1,105 @@
+{
+  "ProductVariantId": 21539,
+  "Name": "La Espanola Extra Virgin Olive Oil 500 ml",
+  "NameBn": "লা এস্পানোলা এক্সট্রা ভার্জিন জলপাই তেল ৫০০ মিলি",
+  "NameWithoutSubText": "La Espanola Extra Virgin Olive Oil",
+  "SubText": "500 ml",
+  "Price": {
+    "Lo": 1350,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 1350,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 1350,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "La Espanola Extra Virgin Olive Oil is a premium-quality olive oil known for its rich flavor, versatility, and health benefits. Extra virgin olive oil is the highest grade of olive oil, known for its exceptional taste and nutritional value.rn",
+  "Slug": "la-espanola-extra-virgin-olive-oil-500-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/la-espanola-extra-virgin-olive-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D129928&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    108,
+    1622
+  ],
+  "AllRecursiveCategoryIds": [
+    108,
+    104,
+    2,
+    1622,
+    1698,
+    30
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "ES",
+  "Capacity": {
+    "Weight": {
+      "Lo": 76,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1075401075,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2667,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    1795
+  ],
+  "IsAgeRestricted": false,
+  "category": "Oil",
+  "id": 697
+}

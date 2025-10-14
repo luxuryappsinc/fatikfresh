@@ -1,0 +1,107 @@
+{
+    "ProductVariantId": 36895,
+    "Name": "Olio Orolio Extra Virgin Olive Oil 750 ml",
+    "NameBn": "অলিও ওরোলিও এক্সট্রা ভার্জিন অলিভ অয়েল ৭৫০ মিলি",
+    "NameWithoutSubText": "Olio Orolio Extra Virgin Olive Oil",
+    "SubText": "750 ml",
+    "Price": {
+      "Lo": 1770,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "DiscountedPrice": {
+      "Lo": 1770,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "CorporatePrice": {
+      "Lo": 1770,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "LongDescription": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from Italy.\r\n\r\nFor the first time ever in the history of Bangladesh, by using Italian technology and European machineries, Olio Orolio Extra Virgin and Olive Oil is bottled and packaged in own factory premise of EC Organic Products Limited at Aukpara, Ashulia. Olio Orolio directly comes from Italy's most prominent and authentic manufacturing company \"Ursini\". Giuseppe Ursini was the first person in Italy to receive the Olive Oil \"FIT FOR HUMAN CONSUMPTION\" certification. Ursini was one of the recognized master Olive Oil experts of the nineteenth century",
+    "Slug": "olio-orolio-extra-virgin-olive-oil-750-ml",
+    "RecType": "",
+    "PictureUrls": [
+      "https://i.chaldn.com/_mpimage/olio-orolio-extra-virgin-olive-oil-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122135&q=best&v=1"
+    ],
+    "OfferPictureUrls": [],
+    "AllCategoryIds": [
+      108
+    ],
+    "AllRecursiveCategoryIds": [
+      108,
+      104,
+      2
+    ],
+    "AllManufacturerIds": [
+      478,
+      518
+    ],
+    "DoNotApplyDiscounts": false,
+    "BlockSale": false,
+    "ProductAvailabilityForSelectedWarehouse": [
+      {
+        "Quantity": 1,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1757803237463",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      },
+      {
+        "Quantity": 2,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1757910600000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        },
+        "AvailabilityExpiryTime": {
+          "UnixTimeMilliseconds": "1757867400000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      }
+    ],
+    "UnitQuantity": 1,
+    "UnitType": "",
+    "DrugRegulationType": "",
+    "BaseProductQuantity": 3,
+    "CatalogItemType": "Grocery",
+    "AlternateOf": "",
+    "SimilarOf": "",
+    "AdditionalShippingFee": 0,
+    "CountryOriginCode": "BD",
+    "Capacity": {
+      "Weight": {
+        "Lo": 1192,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      },
+      "Volume": {
+        "Lo": 1147175125,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 6
+      },
+      "MaxDimension": {
+        "Lo": 2845,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 2
+      }
+    },
+    "AlternateGroupIds": [
+      6293
+    ],
+    "IsAgeRestricted": false,
+    "category": "Oil",
+    "id": 654
+  }

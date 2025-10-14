@@ -1,0 +1,108 @@
+{
+  "ProductVariantId": 22536,
+  "Name": "Rupchanda Fortified Soyabean Oil Pet Bottle 1 ltr",
+  "NameBn": "রূপচাঁদা ফর্টিফাইড সয়াবিন তেল ১ লিটার",
+  "NameWithoutSubText": "Rupchanda Fortified Soyabean Oil Pet Bottle",
+  "SubText": "1 ltr",
+  "Price": {
+    "Lo": 189,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 189,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 189,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Introducing Rupchanda Fortified Soybean Oil, presented in a convenient 1-liter PET bottle. This premium-quality cooking oil is a testament to health, nutrition, and culinary excellence, offering a versatile and nourishing option for your everyday cooking needs.Rupchanda Fortified Soybean Oil is carefully crafted to provide a balance of taste and wellness. It is enriched with essential nutrients, making it a wise choice for those seeking a nutritious cooking oil option. The oil is sourced from quality soybeans and processed using advanced techniques to ensure purity and consistency. With its neutral flavor profile and high smoke point, this soybean oil is perfect for a wide range of culinary applications.",
+  "Slug": "rupchanda-soyabean-oil-pet-bottle-1-ltr",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/rupchanda-fortified-soyabean-oil-pet-bottle-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D149559&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    108
+  ],
+  "AllRecursiveCategoryIds": [
+    108,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": true,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 22,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757803237462",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 72,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1000,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 165193218,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 2845,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Oil",
+  "id": 635
+}

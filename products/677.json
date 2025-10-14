@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 18643,
+  "Name": "Pusti Fortified Soyabean Oil (poly) 1 ltr",
+  "NameBn": "পুষ্টি ফর্টিফাইড সয়াবিন তেল (পলি) ১ লিটার ",
+  "NameWithoutSubText": "Pusti Fortified Soyabean Oil (poly)",
+  "SubText": "1 ltr",
+  "Price": {
+    "Lo": 186,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 186,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 186,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "PUSTI Soyabean Oil’ is a flagship premium brand in soyabean oil market of Bangladesh. Due to excellence in sourcing and state-of-the-art German refining technology, ‘PUSTI Soyabean Oil’ preserves the inherent goodness and properties of soyabean to give consumers light, tasty and healthy edible oil. The great taste enhancer along with their quality has won the consumer loyalty across Bangladesh. As these oils are rich in Polyunsaturated Fatty Acids, they help in keeping cholesterol level under check and are preferred by health-conscious home makers for their families.",
+  "Slug": "pusti-fortified-soyabean-oil-poly-1-ltr",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/pusti-fortified-soyabean-oil-poly-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175020&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    108
+  ],
+  "AllRecursiveCategoryIds": [
+    108,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    225,
+    277
+  ],
+  "DoNotApplyDiscounts": true,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 880,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 94451424,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 1524,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    1816
+  ],
+  "IsAgeRestricted": false,
+  "category": "Oil",
+  "id": 677
+}
