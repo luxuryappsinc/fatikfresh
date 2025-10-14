@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 12362,
+  "Name": "Pran Kacchi Biryani Masala 45 gm",
+  "NameBn": "প্রান কাচ্চি বিরিয়ানি মাসালা ৪৫ গ্রাম",
+  "NameWithoutSubText": "Pran Kacchi Biryani Masala",
+  "SubText": "45 gm",
+  "Price": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "PRAN Kacchi Biryani Masala 45g is a specially crafted spice blend designed to simplify the preparation of traditional Bengali kacchi biryani. Combining a harmonious mix of aromatic spices and herbs, this ready-to-use masala enhances the flavor of marinated meat and rice, delivering an authentic and rich taste. Ideal for home cooks seeking convenience without compromising on traditional flavors, PRAN Kacchi Biryani Masala ensures consistent and delicious results every time.",
+  "Slug": "shan-biryani-masala-mix-50-gm-2",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/pran-kacchi-biryani-masala-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114955&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    131
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 70,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 55125,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 15,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    3091
+  ],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 552
+}

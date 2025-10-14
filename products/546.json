@@ -1,0 +1,119 @@
+{
+  "ProductVariantId": 30295,
+  "Name": "ACI Pure Shahi Haleem Mix 200 gm",
+  "NameBn": "এ সি আই পিওর শাহী হালিম মিক্স ২০০ গ্রাম",
+  "NameWithoutSubText": "ACI Pure Shahi Haleem Mix",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 65,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 65,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 65,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "The ACI Pure Shahi Haleem Mix offers a quick and easy way to prepare the traditional and flavorful Haleem, a rich and wholesome dish enjoyed across cultures. This mix combines high-quality ingredients to deliver authentic taste and texture without the hassle of lengthy preparation.rnrnIngredients:rnWheatrnLentils (Split Bengal gram, Red lentils, and others)rnSpices (Coriander, Turmeric, Cumin, Cinnamon, Cloves, and more)rnSaltrnGhee (Clarified Butter)rnFlavor Enhancersrn(Note: Exact proportions are listed on the package.)rnrnMaking ProcessrnrnPreparation:rnBoil your choice of meat (chicken, beef, or mutton) until tender.rnShred the meat and set it aside.rnrnCooking:rnIn a large pot, mix the ACI Pure Shahi Haleem Mix with water to form a smooth consistency.rnAdd the shredded meat to the mixture and stir thoroughly.rnSimmer on low heat, stirring occasionally, until the dish thickens to your desired consistency.rnrnServing:rnGarnish with fried onions, lemon wedges, green chilies, and fresh coriander before serving.rn(Complete cooking instructions are on the package.)rnrnBrand : ACI PurernPack Size : 200 gm",
+  "Slug": "aci-pure-shahi-haleem-mix-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/aci-pure-shahi-haleem-mix-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177465&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    339,
+    343
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 3,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 53,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 3082,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 23,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    5936
+  ],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 546
+}

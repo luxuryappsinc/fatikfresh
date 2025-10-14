@@ -1,0 +1,112 @@
+{
+  "ProductVariantId": 10604,
+  "Name": "Pran Chotpoti Masala 45 gm",
+  "NameBn": "প্রাণ চটপটি মশলা ৪৫ গ্রাম",
+  "NameWithoutSubText": "Pran Chotpoti Masala",
+  "SubText": "45 gm",
+  "Price": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "PRAN Chotpoti Masala 45g is a ready-to-use spice mix crafted to deliver the authentic taste of traditional Bangladeshi chotpoti. This aromatic blend combines key spices—such as cumin, chili, black salt, and tamarind powder—to create the perfect balance of tangy and spicy flavors. Ideal for home cooks, it simplifies the preparation of chotpoti, a beloved street food made with chickpeas, potatoes, onions, and puffed rice. Produced by PRAN Foods in Bangladesh, this masala is packaged in a 45g box for convenience and freshness.",
+  "Slug": "pran-chotpoti-masala-45-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/pran-chotpoti-masala-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175132&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    131
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757802668196",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 52,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 82,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 3325,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 14,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    3068
+  ],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 528
+}

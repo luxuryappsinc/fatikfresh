@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 28561,
+  "Name": "Sunshine Suji 500 gm",
+  "NameBn": "সানসাইন সুজি ৫০০ গ্রাম",
+  "NameWithoutSubText": "Sunshine Suji",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 48,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 48,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 48,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Each pack contains 500 grams of premium quality suji (semolina). rnSunshine Suji is extensively used in making a variety of dishes, including upma, halwa, and other desserts. The dough made from Sunshine Suji never lets your expectation down.  Contamination-Free: Sunshine Suji is being kept in a completely contamination-free automated silo.",
+  "Slug": "sunshine-suji-500-gm-2",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/sunshine-suji-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D90335&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1352
+  ],
+  "AllRecursiveCategoryIds": [
+    1352,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1008,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 18,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2330
+  ],
+  "IsAgeRestricted": false,
+  "category": "Shemai_Suji",
+  "id": 590
+}

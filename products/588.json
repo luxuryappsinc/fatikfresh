@@ -1,0 +1,99 @@
+{
+  "ProductVariantId": 49708,
+  "Name": "Olympic Lascha Shemai 200 gm",
+  "NameBn": "অলিম্পিক লাচ্ছা সেমাই ২০০ গ্রাম",
+  "NameWithoutSubText": "Olympic Lascha Shemai",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 50,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 50,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 50,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "The Olympic Lascha Shemai 200 gm is a traditional South Asian vermicelli product commonly used for preparing both sweet and savory dishes. Made from high-quality wheat flour, it has a fine texture that ensures consistent cooking. This shemai is perfect for preparing desserts like kheer, payesh, or sweet pudding, as well as savory recipes like semai pulao. Ideal for special occasions or daily meals, it is a versatile ingredient celebrated for its delicate taste and premium quality.",
+  "Slug": "olympic-lascha-shemai-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/olympic-lascha-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D154920&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1352
+  ],
+  "AllRecursiveCategoryIds": [
+    1352,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 210,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 211354416,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 2184,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Shemai_Suji",
+  "id": 588
+}

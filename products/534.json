@@ -1,0 +1,105 @@
+{
+  "ProductVariantId": 18291,
+  "Name": "Nestle Maggi Shaad-e Magic Seasoning Mix 4 gm 12 pcs",
+  "NameBn": "নেসলে ম্যাগি স্বাদ-এ ময়াজিক সিজনিং মিক্স ৪ গ্রাম ১২ টি",
+  "NameWithoutSubText": "Nestle Maggi Shaad-e Magic Seasoning Mix 4 gm",
+  "SubText": "12 pcs",
+  "Price": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "MAGGI Shaad-e Magic is a unique blend of roasted spices that can enhance the taste of everyday dishes. rnrnThis seasoning is comprised of well-known Bangladeshi spices such as cumin, chili, turmeric, and garlic which enriches the taste of a wide variety of traditional Bangladeshi dishes.rnrnFortified with vital nutrients such as vitamin A, Iron, and Iodine.rnrnQuantity: This multipack contains 12pcs of MAGGI Shaad-e Magic 4g sachet",
+  "Slug": "nestle-maggi-shaad-e-magic-seasoning-mix-4gm12pcs",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/nestle-maggi-shaad-e-magic-seasoning-mix-4-gm-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178321&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/nestle-maggi-shaad-e-magic-seasoning-mix-4-gm-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D117019&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    446,
+    472,
+    529,
+    293
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 48,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 216,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 9,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 534
+}

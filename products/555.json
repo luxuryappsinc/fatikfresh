@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 9527,
+  "Name": "Shan Seekh Kabab Masala Mix 50 gm",
+  "NameBn": "শান শিক কাবাব মাসালা মিক্স ৫০ গ্রাম",
+  "NameWithoutSubText": "Shan Seekh Kabab Masala Mix",
+  "SubText": "50 gm",
+  "Price": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Shan Seekh Kabab Masala is a meticulously crafted spice blend that brings the authentic taste of Seekh Kababs right to your kitchen. This premium masala mix combines a symphony of high-quality herbs and spices, expertly blended to achieve the perfect balance of savory and aromatic flavors.",
+  "Slug": "shan-seekh-kabab-masala-mix-50-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/shan-seekh-kabab-masala-mix-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48323&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "PK",
+  "Capacity": {
+    "Weight": {
+      "Lo": 70,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 3325,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 14,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    6078
+  ],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 555
+}

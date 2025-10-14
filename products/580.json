@@ -1,0 +1,129 @@
+{
+  "ProductVariantId": 19851,
+  "Name": "Dekko Shahi Shemai 180 gm",
+  "NameBn": "ডেকো শাহী সেমাই ১৮০ গ্রাম",
+  "NameWithoutSubText": "Dekko Shahi Shemai",
+  "SubText": "180 gm",
+  "Price": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Dekko Shahi Shemai is a delicious vermicelli dessert, perfect for special occasions. Enjoy the sweet, rich flavor of this traditional treat, prepared with care.rn",
+  "Slug": "dekko-shahi-shemai-180-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/dekko-shahi-shemai-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123371&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1352
+  ],
+  "AllRecursiveCategoryIds": [
+    1352,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    266,
+    277,
+    364
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 6,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757802858102",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 49,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 105,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 220,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 2340,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 26,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2331
+  ],
+  "IsAgeRestricted": false,
+  "category": "Shemai_Suji",
+  "id": 580
+}

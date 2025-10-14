@@ -1,0 +1,99 @@
+{
+  "ProductVariantId": 8039,
+  "Name": "Shan Karachi Beef Biryani 60 gm",
+  "NameBn": "শান করাচি বীফ বিরিয়ানি ৬০ গ্রাম",
+  "NameWithoutSubText": "Shan Karachi Beef Biryani",
+  "SubText": "60 gm",
+  "Price": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Shan Karachi Beef Biryani is a rice-based dish made with spices, rice (usually basmati) beef, mutton, fish, eggs, or vegetables.",
+  "Slug": "shan-karachi-beef-biriyani-60-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/shan-karachi-beef-biryani-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48317&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "PK",
+  "Capacity": {
+    "Weight": {
+      "Lo": 78,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 3325,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 14,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 540
+}

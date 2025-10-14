@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 21326,
+  "Name": "Bombay Sweets Instant Laccha Shemai 180 gm",
+  "NameBn": "বোম্বে সুইটস ইনস্ট্যান্ট লাচ্ছা সেমাই ১৮০ গ্রাম",
+  "NameWithoutSubText": "Bombay Sweets Instant Laccha Shemai",
+  "SubText": "180 gm",
+  "Price": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Bombay Sweets Instant Laccha Shemai (180 gm) is a ready-to-cook product made from finely shredded wheat flour. It is ideal for preparing traditional Bengali desserts like Shemai (vermicelli) with ease and convenience. This instant laccha shemai is quick to cook and can be used to prepare a variety of sweet or savory dishes, such as milk-based desserts or fried snacks. The product is packaged in a 180 gm quantity, making it suitable for smaller servings, and it offers a versatile addition to your kitchen essentials. Ingredients: Wheat flour, Starch, Palm olein. Nutrition facts- Calories 545, protein 13g & No cholesterol.",
+  "Slug": "bombay-laccha-shemai-180-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/bombay-sweets-instant-laccha-shemai-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D159835&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1352
+  ],
+  "AllRecursiveCategoryIds": [
+    1352,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    277
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 212,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 917675584,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 1778,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Shemai_Suji",
+  "id": 587
+}

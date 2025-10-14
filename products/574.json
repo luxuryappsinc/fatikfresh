@@ -1,0 +1,114 @@
+{
+  "ProductVariantId": 4270,
+  "Name": "Teer Semolina Suji 500 gm",
+  "NameBn": "তীর সেমোলিনা সুজি ৫০০ গ্রাম",
+  "NameWithoutSubText": "Teer Semolina Suji",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 48,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 48,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 48,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "TEER Semolina is milled from selected high-protein wheat from Canada, America, Australia, and Russia using top-notch Swiss technologies from Buhler. TEER Semolina is the result of attention to detail, consistency in milling, and a desire to ensure the very best baking experience possible, every time. Only selected fine semolina is packed for the consumers to ensure taste as well as nutrition.",
+  "Slug": "teer-semolina-suji-pack-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/teer-semolina-suji-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101043&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/teer-semolina-suji-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101044&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1352
+  ],
+  "AllRecursiveCategoryIds": [
+    1352,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    168,
+    277,
+    382,
+    471
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 18,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757802858102",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 68,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 506,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1725,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 23,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Shemai_Suji",
+  "id": 574
+}

@@ -1,0 +1,105 @@
+{
+  "ProductVariantId": 27936,
+  "Name": "Well Food Lachcha Shemai 400 gm",
+  "NameBn": "ওয়েল ফুড লাচ্ছা সেমাই ৪০০ গ্রাম",
+  "NameWithoutSubText": "Well Food Lachcha Shemai",
+  "SubText": "400 gm",
+  "Price": {
+    "Lo": 210,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 210,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 210,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Well Food Lachcha Shemai is a traditional Bangladeshi dessert ingredient made from fine wheat. This 400 gm pack is ideal for preparing sweet dishes like Sheer Khurma and other festive desserts. The thin, crispy strands cook quickly and are perfect for enhancing any celebratory meal.",
+  "Slug": "well-food-lachcha-shemai-400-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/well-food-lachcha-shemai-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138270&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1352
+  ],
+  "AllRecursiveCategoryIds": [
+    1352,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    277,
+    423,
+    471
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 400,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 39015,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 51,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    6101
+  ],
+  "IsAgeRestricted": false,
+  "category": "Shemai_Suji",
+  "id": 589
+}

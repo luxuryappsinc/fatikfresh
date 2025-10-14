@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 3682,
+  "Name": "Kolson Special Lascha Semai 180 gm",
+  "NameBn": "কুলসন স্পেশাল লাচ্ছা সেমাই ১৮০ গ্রাম",
+  "NameWithoutSubText": "Kolson Special Lascha Semai",
+  "SubText": "180 gm",
+  "Price": {
+    "Lo": 50,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 50,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 50,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Kolson Special Lascha Semai is a fine, delicate vermicelli perfect for making traditional desserts like Shemai or Payesh. Its soft texture cooks quickly and blends beautifully with milk, sugar, and cardamom. Ideal for special occasions or everyday indulgence. Enjoy the rich taste of tradition.",
+  "Slug": "kolson-special-lascha-semai-180-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/kolson-special-lascha-semai-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113038&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1352
+  ],
+  "AllRecursiveCategoryIds": [
+    1352,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    213,
+    242,
+    549
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 185,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1382658525,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 1905,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Shemai_Suji",
+  "id": 582
+}

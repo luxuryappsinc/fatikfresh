@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 30407,
+  "Name": "ACI Pure Shahi Roast Masala 35 gm",
+  "NameBn": "এ সি আই পিওর শাহী রোস্ট মসলা ৩৫ গ্রাম",
+  "NameWithoutSubText": "ACI Pure Shahi Roast Masala",
+  "SubText": "35 gm",
+  "Price": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "ACI Pure Shahi Roast Masala is a rich and aromatic blend of premium spices designed to give your roast dishes a royal flavor. Perfect for preparing grilled or roasted meats, this masala brings a traditional and rich taste that enhances the flavor of chicken, mutton, beef, or vegetables.rnrnrnIngredients:rnCorianderrnCuminrnFennel seedsrnRed chili powderrnTurmericrnCinnamonrnClovesrnBlack pepperrnGarlic powderrnGinger powderrnSaltrnOther select spicesrn(Exact proportions are available on the packaging.)rnrnrnUses:rnRoast Dishes: Ideal for preparing Shahi Roast Chicken, Mutton Roast, or Vegetable Roast.rnMarinade: Use this masala to marinate meats or vegetables for grilling, roasting, or pan-frying.rnGravy: It can also be added to make rich, flavorful gravies.rnrnBenefits:rnAuthentic Flavor: Gives your dishes a traditional royal taste, perfect for special occasions or family meals.rnVersatile: Can be used for a variety of meat, poultry, or vegetarian dishes.rnConvenient: Ready-to-use blend, making it easy to prepare flavorful dishes in no time.rnrnBrand : ACI Pure rnPack Size : 35 gm",
+  "Slug": "aci-pure-shahi-roast-masala-35-gm-2",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/aci-pure-shahi-roast-masala-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177468&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    339,
+    343
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 35,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 3375,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 125,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    3110
+  ],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 545
+}

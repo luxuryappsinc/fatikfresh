@@ -1,0 +1,108 @@
+{
+  "ProductVariantId": 27185,
+  "Name": "Pumpkin Seed 100 gm",
+  "NameBn": "মিষ্টি কুমড়া বীজ ১০০ গ্রাম",
+  "NameWithoutSubText": "Pumpkin Seed",
+  "SubText": "100 gm",
+  "Price": {
+    "Lo": 129,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 99,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 99,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Pumpkin seeds, also known as pepitas, are nutrient-dense, flat, and oval-shaped edible seeds with a mild, nutty flavor. Ideal for snacking and versatile in cooking.rnrnUses:rnSnacks: Enjoy raw or roasted.rnToppings: Sprinkle on salads, soups, or yogurt.rnBaking: Add to bread, muffins, or granola.rnCooking: Incorporate into stir-fries, rice dishes, or stews.rnrnBenefits:rnRich in Nutrients: High in protein, healthy fats, magnesium, and zinc.rnHeart Health: Supports cardiovascular health with antioxidants and omega-3s.rnBetter Sleep: Contains tryptophan, promoting restful sleep.rnDigestive Aid: High in fiber for improved digestion.rnImmune Support: Strengthens immunity with zinc and antioxidants.",
+  "Slug": "pumpkin-seed-100-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/pumpkin-seed-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D86418&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    200
+  ],
+  "AllRecursiveCategoryIds": [
+    200,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 5,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757803018684",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 55,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 101,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 448,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 14,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Special_Ingredients",
+  "id": 600
+}

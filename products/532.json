@@ -1,0 +1,107 @@
+{
+  "ProductVariantId": 2396,
+  "Name": "Radhuni Biryani Masala 40 gm",
+  "NameBn": "রাঁধুনি বিরিয়ানি মশলা ৪০ গ্রাম",
+  "NameWithoutSubText": "Radhuni Biryani Masala",
+  "SubText": "40 gm",
+  "Price": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "The Radhuni Biryani Masala is a specially crafted spice mix that simplifies the preparation of aromatic and flavorful biryani. It combines a perfect blend of authentic spices, making your biryani rich in taste and aroma while saving you time in the kitchen.rnrnIngredients:rnCorianderrnCuminrnCardamomrnCinnamonrnClovesrnNutmegrnMacernDried gingerrnBay leafrnSaltrnOther premium spicesrn(Exact proportions are listed on the package.)rnrnUses:rnIdeal for preparing traditional biryani dishes like chicken, beef, or mutton biryani.rnCan be used to enhance pulao or other spiced rice dishes.rnrnBrand: RadhunirnPack Size: 40 gm",
+  "Slug": "radhuni-biryani-masala-40-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/radhuni-biryani-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109980&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    186,
+    506,
+    528,
+    257,
+    317,
+    472,
+    474
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 40,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 30614112,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 127,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 532
+}

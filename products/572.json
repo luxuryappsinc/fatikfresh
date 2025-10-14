@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 55753,
+  "Name": "Foodela Suji 500 gm",
+  "NameBn": "ফুডেলা সুজি ৫০০ গ্রাম",
+  "NameWithoutSubText": "Foodela Suji",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 48,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 48,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 48,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Foodela Suji is a premium-grade semolina made from finely ground, purified wheat, delivering a coarse yet smooth texture ideal for both traditional and contemporary recipes. Rich in taste and naturally nutritious, it is perfect for making halwa, upma, semolina cakes, crispy coating for frying, and more. Processed under stringent hygiene standards, Foodela Suji ensures consistent quality and long-lasting freshness.",
+  "Slug": "foodela-suji-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/foodela-suji-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178451&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1352
+  ],
+  "AllRecursiveCategoryIds": [
+    1352,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    572
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 25,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757802858102",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 26,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 580644,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 3
+    },
+    "MaxDimension": {
+      "Lo": 1524,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Shemai_Suji",
+  "id": 572
+}

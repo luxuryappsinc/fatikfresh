@@ -1,0 +1,116 @@
+{
+  "ProductVariantId": 6708,
+  "Name": "Shan Malay Spice Mix for Memoni Mutton Biryani 60 gm",
+  "NameBn": "শান মালাই স্পাইস মিক্স ফর মেমুনি মাটন বিরিয়ানি ৬০ গ্রাম",
+  "NameWithoutSubText": "Shan Malay Spice Mix for Memoni Mutton Biryani",
+  "SubText": "60 gm",
+  "Price": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Shan Malay Spice Mix for Memoni Mutton Biryani is a delightful blend of rich and aromatic spices that brings the true essence of Biryani to your kitchen.  this spice mix imparts the perfect flavor to mutton in your Biryani. It captures the essence of traditional Memoni cuisine.",
+  "Slug": "shan-malay-spice-mix-for-memoni-mutton-biriyani-60-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/shan-malay-spice-mix-for-memoni-mutton-biryani-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127108&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 52,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "PK",
+  "Capacity": {
+    "Weight": {
+      "Lo": 86,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 399,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 14,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    3102
+  ],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 560
+}

@@ -1,0 +1,110 @@
+{
+  "ProductVariantId": 9333,
+  "Name": "Tamarind peeled (Tetul) 200 gm",
+  "NameBn": "তেতুল খোসা ছাড়ানো ২০০ গ্রাম",
+  "NameWithoutSubText": "Tamarind peeled (Tetul)",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 90,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 69,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 69,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Sweet and tangy, tamarind is one of the widely used spices found in every South-Asian kitchen. Tamarind fruit contains certain health-benefiting essential volatile chemical compounds, minerals, vitamins, and dietary fiber. This spice is a good source of minerals like copper, potassium, calcium, iron, selenium, zinc, and magnesium. Potassium is an important component of cells and body fluids that helps control heart rate and blood pressure. Iron is essential for red blood cell production and as a co-factor for cytochrome oxidase enzymes. In addition, it is also rich in many vital vitamins, including thiamin (36% of daily required levels), vitamin A, folic acid, riboflavin, niacin, and vitamin C. Much of these vitamins plays antioxidant as well as co-factor functions for enzyme metabolism inside the body. Usually, it is the juice or paste that is used as a souring agent, particularly in Bangladeshi lentil dishes, curries, and chutneys, where its flavor is more authentic than vinegar or lemon juice.",
+  "Slug": "tamarind-peeled-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/tamarind-peeled-tetul-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64745&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    200
+  ],
+  "AllRecursiveCategoryIds": [
+    200,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    257
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757803018683",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 51,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 210,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 420,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 10,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Special_Ingredients",
+  "id": 598
+}

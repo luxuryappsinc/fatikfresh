@@ -1,0 +1,113 @@
+{
+  "ProductVariantId": 11901,
+  "Name": "Banoful Lashcha Shemai 200 gm",
+  "NameBn": "বনফুল লাচ্ছা সেমাই ২০০ গ্রাম",
+  "NameWithoutSubText": "Banoful Lashcha Shemai",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 50,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 50,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 50,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Banoful Laccha Shemai is a popular food item in Bangladesh. Especially during Eid. Almost every Muslim Origin: Bangladesh household makes Shemai to celebrate Eid. People of all ages love Shemai a lot. Laccha Shemai brings the country’s best laccha shemai to the table. Making Shemai requires no hard effort. Just put Laccha Shemai into hot boiling milk with sugar. It takes a few minutes to get this job done.",
+  "Slug": "banoful-lashcha-shemai-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/banoful-lashcha-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101139&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    238,
+    1352
+  ],
+  "AllRecursiveCategoryIds": [
+    238,
+    1352,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    277,
+    471
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 6,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757802858102",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 56,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1548577548,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2286,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Shemai_Suji",
+  "id": 573
+}

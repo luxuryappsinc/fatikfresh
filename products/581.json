@@ -1,0 +1,128 @@
+{
+  "ProductVariantId": 3538,
+  "Name": "Haldiram Lachha Shemai 500 gm",
+  "NameBn": "হালদিরাম লাচ্ছা সেমাই ৫০০ গ্রাম",
+  "NameWithoutSubText": "Haldiram Lachha Shemai",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 595,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 595,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 595,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Haldiram Lachha Shemai 500grnrnDetails:rnHaldiram Lachha Shemai is a premium quality vermicelli, often used in various sweet and savory dishes in Indian cuisine. Known for its slightly thicker texture compared to regular vermicelli, Lachha Shemai holds its shape well when cooked, making it ideal for rich, flavorful dishes like sheer khurma, payesh (vermicelli kheer), or even savory preparations like vermicelli upma. The product is made with high-quality wheat flour and is carefully processed to ensure consistent texture and taste.rnrnWeightrnThe pack contains 500 grams of Lachha Shemai, which is a medium-sized pack suitable for making multiple servings of dishes.rnrnIngredients rnThe main ingredients typically include:  rn- Wheat Flour (Maida)rn- Saltrn- Waterrn- Vegetable Oil (in some variations)  rnrnUsesrnSweet Dishes:  rnSheer Khurma: A rich, milk-based dessert made with dates, nuts, and vermicelli.  rnPayesh (Vermicelli Kheer): A traditional Bengali sweet dish made by simmering the vermicelli in milk and sugar, flavored with cardamom.  rnSavory Dishes:  rnUpma: A savory dish made with roasted Lachha Shemai, cooked with spices, vegetables, and sometimes nuts.  rnStir-Fried: Prepare a quick and tasty stir-fry with vegetables and spices for a wholesome meal.  rnSnacks: Roast the vermicelli and toss with sugar and cardamom to create a sweet snack, or serve it with a savory chutney as an appetizer.  rnBreakfast: A delicious option for a quick and hearty breakfast when paired with milk and sugar.",
+  "Slug": "haldiram-lachha-shemai-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/haldiram-lachha-shemai-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108106&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/haldiram-lachha-shemai-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174147&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1352
+  ],
+  "AllRecursiveCategoryIds": [
+    1352,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    242
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757802858102",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 53,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "IN",
+  "Capacity": {
+    "Weight": {
+      "Lo": 540,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 9570,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 33,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2323
+  ],
+  "IsAgeRestricted": false,
+  "category": "Shemai_Suji",
+  "id": 581
+}

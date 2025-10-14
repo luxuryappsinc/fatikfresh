@@ -1,0 +1,99 @@
+{
+  "ProductVariantId": 47739,
+  "Name": "Chandan Royal Elaichi Mix Mouth Freshener 50 Sachets 55 gm",
+  "NameBn": "চন্দন রয়েল এলাচি মিক্স মাউথ ফ্রেশনার ৫০ স্যাচেট ৫৫ গ্রাম",
+  "NameWithoutSubText": "Chandan Royal Elaichi Mix Mouth Freshener 50 Sachets",
+  "SubText": "55 gm",
+  "Price": {
+    "Lo": 250,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 250,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 250,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "This lavish mix will certainly rejuvenate your mood, satiate those cravings and at the same time impart some health benefits. This classic mix consists of polyphenol-rich dry dates, immunity-boosting coriander seeds, Indian gooseberry which is an excellent source of Vitamin C and E. The ambrosial cardamom and the infused minty flavour, along with the silver leaves make it totally matchless, healthy, and delectable. Perfect to consume post meals, refresh your breath, and quench your cravings. Filled with natural goodness, we use natural colours for all our products.",
+  "Slug": "chandan-royal-elaichi-mix-mouth-freshener-50-sachets-55-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/chandan-royal-elaichi-mix-mouth-freshener-50-sachets-55-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D149394&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "IN",
+  "Capacity": {
+    "Weight": {
+      "Lo": 60,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 250,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 10,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 543
+}

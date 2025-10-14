@@ -1,0 +1,102 @@
+{
+  "ProductVariantId": 4149,
+  "Name": "Shan Tikka Bbq 50 gm",
+  "NameBn": "শান টিক্কা বারবিকিউ ৫০ গ্রাম",
+  "NameWithoutSubText": "Shan Tikka Bbq",
+  "SubText": "50 gm",
+  "Price": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Shan Tikka BBQ  halal. May contain: traces of Sulphite, Sesame, Mustard, Gluten and Tree Nuts,  Suitable for Vegetarian, No artificial colours, No artificial preservatives.  Ingredients: Salt, Red Chilli, Papain, Turmeric, Fennel, Cinnamon, Cumin, Brown Cardamom, Black Pepper, Mace, Nutmeg, Star Aniseed, Ginger, Garlic, Citric Acid (E330), Artificial Food Clolours FD & C Yellow 5& 6/ E102 & E110.",
+  "Slug": "shan-tikka-bbq-50-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/shan-tikka-bbq-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48330&q=best&v=1&m=400",
+    "https://i.chaldn.com/_mpimage/shan-tikka-boti-bbq-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125091&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "PK",
+  "Capacity": {
+    "Weight": {
+      "Lo": 70,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 450,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 15,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    5375
+  ],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 561
+}

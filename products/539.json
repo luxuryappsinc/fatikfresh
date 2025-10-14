@@ -1,0 +1,99 @@
+{
+  "ProductVariantId": 55067,
+  "Name": "Radhuni Fried Rice Seasoning 48 gm 6 pcs",
+  "NameBn": "রাঁধুনী ফ্রাইড রাইস সিজনিং ৪৮ গ্রাম ৬ প্যাক",
+  "NameWithoutSubText": "Radhuni Fried Rice Seasoning 48 gm",
+  "SubText": "6 pcs",
+  "Price": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Radhuni Fried Rice Seasoning 48 gm (08X6 pcs) Fried rice is a popular dish around the world, celebrated for its versatility and delicious flavors. Whether you’re using leftover rice or whipping up a quick meal, the right seasoning mix can elevate your fried rice from ordinary to extraordinary. Radhuni, the pioneer in the spice market of Bangladesh, has introduced a Fried Rice Seasoning Mix with the assurance of authentic taste and flavor. It is developed with a unique shallot flavor giving true restaurant-style aroma and taste. Also, no added MSG gives it a healthy connection to daily life. Radhuni Fried Rice Seasoning Mix will add value to modern busy life through an oriental food experience with minimal effort at home.",
+  "Slug": "radhuni-fried-rice-seasoning-48-gm-6-pcs",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/radhuni-fried-rice-seasoning-48-gm-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174904&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 50,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 69375,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 185,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 539
+}

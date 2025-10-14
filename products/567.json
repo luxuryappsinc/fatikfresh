@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 2890,
+  "Name": "Shan Spice Mix For Malay Chicken Biryani 60 gm",
+  "NameBn": "শান স্পাইস মিক্স ফর মালাই চিকেন বিরিয়ানি ৬০ গ্রাম",
+  "NameWithoutSubText": "Shan Spice Mix For Malay Chicken Biryani",
+  "SubText": "60 gm",
+  "Price": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Shan Spice Mix For Malay Chicken Biryani is a product of Pakistan. Shan Spice Mix For Malay Chicken Biryani made from  Paprika, Himalayan Pink Salt, Red Chilli, Nigella Seed, Star Aniseed, Cumin, Cinnamon, Black Pepper, Brown Cardamom, Clove, Turmeric, Garlic, Maltodextrin, Hydrolyzed Soy Protein, Citric Acid, Cane Sugar, Canola Oil, Natural And Artificial Food Flavour, Silicon Dioxide (anti-caking agent). Shan Spice Mix For Malay Chicken Biryani has no artificial preservative, no artificial color, and is halal.",
+  "Slug": "shan-spice-mix-for-malay-chicken-biryani-60-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/shan-spice-mix-for-malay-chicken-biryani-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180889&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    242
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "PK",
+  "Capacity": {
+    "Weight": {
+      "Lo": 86,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 450,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 15,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    3069
+  ],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 567
+}

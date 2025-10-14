@@ -1,0 +1,99 @@
+{
+  "ProductVariantId": 55065,
+  "Name": "Radhuni Shaadmishali 48 gm 12 pcs",
+  "NameBn": "রাঁধুনী স্বাদমিশালী ৪৮ গ্রাম ১২ প্যাক",
+  "NameWithoutSubText": "Radhuni Shaadmishali 48 gm",
+  "SubText": "12 pcs",
+  "Price": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Radhuni Shaadmishali 48 gm (04X12 pcs) Radhuni, the pioneer in the spice market of Bangladesh, has introduced Radhuni Shaadmishali which is a perfectly balanced seasoning mix designed to enhance the taste of vegetables, and snacks with ease. Crafted with 15 different blends of aromatic spices, it elevates the flavor of curries, vegetables, and snack dishes, making home cooking more delicious and convenient. Whether you're preparing a quick meal or a special dish, Radhuni Shaadmishali adds a rich and well-rounded taste, ensuring every bite is full of authentic flavor.",
+  "Slug": "radhuni-shaadmishali-48-gm-12-pcs",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/radhuni-shaadmishali-48-gm-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174901&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 50,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 456,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 19,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 541
+}

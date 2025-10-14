@@ -1,0 +1,118 @@
+{
+    "ProductVariantId": 4389,
+    "Name": "Chickpea Flour (Boot Beshon) 500 gm",
+    "NameBn": "বুটের বেসন ৫০০ গ্রাম",
+    "NameWithoutSubText": "Chickpea Flour (Boot Beshon)",
+    "SubText": "500 gm",
+    "Price": {
+      "Lo": 65,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "DiscountedPrice": {
+      "Lo": 65,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "CorporatePrice": {
+      "Lo": 65,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "LongDescription": "Chickpea Flour (known as Boot Beshon in South Asia) is a fine, pale yellow flour made from ground chickpeas (garbanzo beans). It is a staple in many cuisines, particularly in Indian, Middle Eastern, and Mediterranean cooking. Chickpea \"\"Chickpea Flour (known as Boot Beshon in South Asia) is a fine, pale yellow flour made from ground chickpeas (garbanzo beans). It is a staple in many cuisines, particularly in Indian, Middle Eastern, and Mediterranean cooking. Chickpea flour is naturally gluten-free and high in protein, making it a popular alternative to wheat flour in various dishes. It is used in both savory and sweet recipes and is a key ingredient in many traditional recipes like pakoras, bhajis, and besan laddus.\r\n\r\nUses: Batter for Frying, Curries and Dishes, Pancakes and Flatbreads, Sweets, Baking:Coating.\r\n\r\nBenefits:\r\nRich in Protein: Chickpea flour is an excellent source of plant-based protein, making it an ideal ingredient for vegetarians and vegans.\r\nHigh in Fiber: It aids in digestion and helps regulate blood sugar levels.\r\nSupports Heart Health: The fiber, along with the presence of healthy fats, helps in lowering bad cholesterol levels and supporting heart health.\r\nGluten-Free: A suitable alternative for those who are gluten intolerant or have celiac disease.\r\nRich in Nutrients: Chickpea flour contains important vitamins and minerals, including iron, magnesium, and B-vitamins, which contribute to overall health.\r\nNaturally gluten-free and high in protein, making it a popular alternative to wheat flour in various dishes. It is used in both savory and sweet recipes and is a key ingredient in many traditional recipes like pakoras, bhajis, and besan laddus.\r\n\r\nUses: Batter for Frying, Curries and Dishes, Pancakes and Flatbreads, Sweets, Baking, Coating.\r\n\r\nBenefits:\r\nRich in Protein: Chickpea flour is an excellent source of plant-based protein, making it an ideal ingredient for vegetarians and vegans.\r\nHigh in Fiber: It aids in digestion and helps regulate blood sugar levels.\r\nSupports Heart Health: The fiber, along with the presence of healthy fats, helps in lowering bad cholesterol levels and supporting heart health.\r\nGluten-Free: A suitable alternative for those who are gluten intolerant or have celiac disease.\r\nRich in Nutrients: Chickpea flour contains important vitamins and minerals, including iron, magnesium, and B-vitamins, which contribute to overall health.",
+    "Slug": "chick-peas-powder-booter-beshon-450-gm",
+    "RecType": "",
+    "PictureUrls": [
+      "https://i.chaldn.com/_mpimage/chickpea-flour-boot-beshon-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176725&q=best&v=1"
+    ],
+    "OfferPictureUrls": [],
+    "AllCategoryIds": [
+      103,
+      200
+    ],
+    "AllRecursiveCategoryIds": [
+      103,
+      100,
+      2,
+      200,
+      104,
+      2
+    ],
+    "AllManufacturerIds": [
+      257,
+      278,
+      431,
+      531,
+      532
+    ],
+    "DoNotApplyDiscounts": false,
+    "BlockSale": false,
+    "ProductAvailabilityForSelectedWarehouse": [
+      {
+        "Quantity": 2,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1757803018684",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      },
+      {
+        "EarliestAvailableTimeOfDay": {
+          "Ticks": "0"
+        },
+        "AvailabilityCutOffTimeOfDay": {
+          "Ticks": "810000000000"
+        },
+        "Quantity": 50,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1757818800000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        },
+        "AvailabilityExpiryTime": {
+          "UnixTimeMilliseconds": "1757863800000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      }
+    ],
+    "UnitQuantity": 1,
+    "UnitType": "",
+    "DrugRegulationType": "",
+    "BaseProductQuantity": 52,
+    "CatalogItemType": "Grocery",
+    "AlternateOf": "",
+    "SimilarOf": "",
+    "AdditionalShippingFee": 0,
+    "CountryOriginCode": "BD",
+    "Capacity": {
+      "Weight": {
+        "Lo": 507,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      },
+      "Volume": {
+        "Lo": 958643244,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 6
+      },
+      "MaxDimension": {
+        "Lo": 1651,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 2
+      }
+    },
+    "AlternateGroupIds": [],
+    "IsAgeRestricted": false,
+    "category": "Special_Ingredients",
+    "id": 599
+  }

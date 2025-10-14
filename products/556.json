@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 9311,
+  "Name": "Sajeeb Ready Mix Pancake 500 gm",
+  "NameBn": "সজীব কমপ্লিট মিক্স প্যানপিঠা ৫০০ গ্রাম",
+  "NameWithoutSubText": "Sajeeb Ready Mix Pancake",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 225,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 225,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 225,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Sajeeb Ready Mix Pancake 500 gm is a convenient and easy-to-use pancake mix that helps you create delicious, fluffy pancakes in no time. Perfect for busy mornings or a quick snack, this ready mix requires just the addition of water or milk to prepare the batter. The 500-gram pack provides enough mix to make several servings, making it ideal for families or gatherings. With its smooth texture and light taste, Sajeeb Ready Mix Pancake delivers a satisfying breakfast or treat that can be customized with your favorite toppings, such as syrup, fruits, or whipped cream. Enjoy a hassle-free, tasty pancake experience with Sajeeb!",
+  "Slug": "sajeeb-ready-mix-pancake-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/sajeeb-ready-mix-pancake-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D94968&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/sajeeb-ready-mix-pancake-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D94969&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    213
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 539,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1235,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 19,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    3103
+  ],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 556
+}

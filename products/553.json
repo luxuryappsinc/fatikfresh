@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 10605,
+  "Name": "Shan Pilau Biryani 50 gm",
+  "NameBn": "শান পোলাও বিরিয়ানি ৫০ গ্রাম",
+  "NameWithoutSubText": "Shan Pilau Biryani",
+  "SubText": "50 gm",
+  "Price": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 115,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Shan Pilau Biryani is a delightful blend of aromatic spices, carefully crafted by the renowned brand Shan. Each 50-gram pack contains a harmonious mix of ingredients, including garlic, ginger, cumin, bay leaf, cardamom, carom, green cardamom, clove, red chili, sugar, coriander, turmeric, hydrolyzed soy protein, maltodextrin, canola oil, natural food flavor, and silicon dioxide. Whether you’re a seasoned cook or a beginner, Shan Pilau Biryani makes your culinary journey flavorful and convenient. Just follow the instructions, and let the magic of spices transform your meal.",
+  "Slug": "shan-pilau-biryani-50-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/shan-pilau-biryani-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133623&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    110
+  ],
+  "AllRecursiveCategoryIds": [
+    110,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "PK",
+  "Capacity": {
+    "Weight": {
+      "Lo": 72,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 344375,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 3
+    },
+    "MaxDimension": {
+      "Lo": 145,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    3105
+  ],
+  "IsAgeRestricted": false,
+  "category": "Ready_Mix",
+  "id": 553
+}
