@@ -1,0 +1,100 @@
+{
+  "ProductVariantId": 23838,
+  "Name": "Paragon Brown Egg 12 pcs",
+  "NameBn": "প্যারাগন ব্রাউন ডিম ১২ টি",
+  "NameWithoutSubText": "Paragon Brown Egg",
+  "SubText": "12 pcs",
+  "Price": {
+    "Lo": 205,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 205,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 205,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Paragon Brown Eggs are carefully sourced to guarantee freshness and safety, making them a reliable choice for health-conscious consumers.rnrnQuantity: 12 eggs per packrnrnQuality Assurance:rn1. Natural and farm-freshrn2. Free from antibiotics and harmful substances, ensuring safety and purityrn3. No artificial additives or chemicals used in productionrnCertifications:rn1. ISO 22000: Ensuring stringent food safety management practicesrn2. GMP (Good Manufacturing Practices): Adherence to the highest manufacturing standardsrn3. HACCP: Comprehensive hazard analysis and critical control points systemrn4. HALAL: Certified and compliant with halal standardsrnrnKey Benefits:rn1. Rich, natural flavor with high nutritional valuern2. Ideal for a balanced and healthy dietrn3. Suitable for various culinary uses, including baking, frying, boiling, and more.",
+  "Slug": "paragon-brown-egg-12-pcs",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/paragon-brown-egg-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77564&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    61,
+    1702
+  ],
+  "AllRecursiveCategoryIds": [
+    61,
+    58,
+    2,
+    1702,
+    14,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757984400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757984400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 850,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 319547748,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 3302,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Eggs",
+  "id": 883
+}

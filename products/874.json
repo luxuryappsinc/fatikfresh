@@ -1,0 +1,105 @@
+{
+  "ProductVariantId": 4210,
+  "Name": "Suree Sweet Chilli Sauce 295 ml",
+  "NameBn": "সাউরি সুইট চিলি সস ২৯৫ মিলি",
+  "NameWithoutSubText": "Suree Sweet Chilli Sauce",
+  "SubText": "295 ml",
+  "Price": {
+    "Lo": 299,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 299,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 299,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Suree Sweet Chili Sauce is a rich blend of chilies and garlic. Perfect as a dip with fish cakes, roasted chicken, rice crackers, and spring rolls. It can be used as an ingredient to spice up your stir fry, Suree Sweet Chili Sauce is also suitable for vegetarians and vegans",
+  "Slug": "suree-sweet-chili-sauce-295-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/suree-sweet-chilli-sauce-295-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136018&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1633
+  ],
+  "AllRecursiveCategoryIds": [
+    1633,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [
+    176,
+    301,
+    361
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951392147",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 620,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1248,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 195,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    5585
+  ],
+  "IsAgeRestricted": false,
+  "category": "Other_Table_Sauces",
+  "id": 874
+}

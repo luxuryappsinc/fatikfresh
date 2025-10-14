@@ -1,0 +1,120 @@
+{
+  "ProductVariantId": 23095,
+  "Name": "Ruchi Alubukhara Pickle 400 gm",
+  "NameBn": "রুচি আলুবুখার আচার ৪০০ গ্রাম",
+  "NameWithoutSubText": "Ruchi Alubukhara Pickle",
+  "SubText": "400 gm",
+  "Price": {
+    "Lo": 320,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 320,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 320,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Ruchi Alubukhara Pickle is a delightful blend of tangy and sweet flavors crafted from premium dried plums (alubukhara). This traditional pickle is a perfect accompaniment to enhance the taste of your meals.rnrnIngredients:rnDried Plums (Alubukhara)rnMustard OilrnSugarrnVinegarrnSaltrnRed Chili PowderrnTurmeric PowderrnMixed SpicesrnrnMaking Process:rnSelection of Ingredients: High-quality dried plums are carefully selected for freshness and flavor.rnMarination: The plums are marinated with salt, sugar, and spices to absorb the flavors.rnCooking: The marinated plums are cooked in mustard oil along with spices, vinegar, and turmeric to create a flavorful and tangy pickle.rnPreservation: The pickle is stored in sterilized jars to retain freshness and taste for an extended period.rnrnrnUses:rnA delicious side dish to complement rice, roti, parathas, and other main meals.rnCan be used as a tangy spread in sandwiches and wraps.rnPerfect as a dip or accompaniment for snacks like papads or crackers.rnrnrnBrand: Ruchi rnPack Size: 400 gm",
+  "Slug": "ruchi-alubukhara-pickle-400-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/ruchi-alubukhara-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133060&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    78
+  ],
+  "AllRecursiveCategoryIds": [
+    78,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [
+    506,
+    528,
+    317
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757997000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757953800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951199124",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 51,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 644,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 73125,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 13,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2606
+  ],
+  "IsAgeRestricted": false,
+  "category": "Pickles",
+  "id": 818
+}

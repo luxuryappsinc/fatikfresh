@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 6220,
+  "Name": "Ruchi Tamarind Sauce 370 gm",
+  "NameBn": "রুচি তেঁতুল সস ৩৭০ গ্রাম",
+  "NameWithoutSubText": "Ruchi Tamarind Sauce",
+  "SubText": "370 gm",
+  "Price": {
+    "Lo": 130,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 130,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 130,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Ruchi Tamarind Sauce is a tangy and flavorful sauce made from premium quality tamarind, offering a perfect balance of sweet and sour tastes. This versatile sauce can be used as a dip, marinade, or an ingredient to enhance various dishes. Ideal for adding a zesty twist to your meals, it's a popular choice for snacks, chats, and grilled foods.rnrnIngredients:rnTamarindrnSugarrnSaltrnSpices (including chili powder, coriander powder, cumin powder)rnVinegarrnWaterrn(Exact proportions are available on the packaging.)rnrnUses:rnDip: Perfect for pairing with snacks like samosas, pakoras, spring rolls, or French fries.rnMarinade: Use it as a marinade for meats, poultry, or seafood to add a tangy flavor before grilling or roasting.rnIn Recipes: Add to curries, soups, or rice dishes for an extra kick.rnIn Chutneys and Chats: A key ingredient for making tangy chutneys or popular street food like bhel puri and pani puri.rnrnBrand: RadhunirnPack Size: 370 gm",
+  "Slug": "ruchi-tamarind-sauce-370-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/ruchi-tamarind-sauce-370-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75111&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1633
+  ],
+  "AllRecursiveCategoryIds": [
+    1633,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [
+    506,
+    528,
+    186,
+    317
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951392146",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 629,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 781625,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 3
+    },
+    "MaxDimension": {
+      "Lo": 185,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Other_Table_Sauces",
+  "id": 858
+}

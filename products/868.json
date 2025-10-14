@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 11500,
+  "Name": "Nando's Peri Peri Hot Sauce 250 gm",
+  "NameBn": "নানদ'স পেরি পেরি হট সস ২৫০ গ্রাম",
+  "NameWithoutSubText": "Nando's Peri Peri Hot Sauce",
+  "SubText": "250 gm",
+  "Price": {
+    "Lo": 535,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 535,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 535,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Nando's Peri Peri Hot Sauce is a fiery and flavorful condiment renowned for its signature blend of spicy peri peri peppers and zesty ingredients. This hot sauce is inspired by the vibrant flavors of Portuguese-African cuisine and is crafted to add a kick of heat and a burst of tangy goodness to your dishes. Packaged in a convenient 250 gm bottle, Nando's Peri Peri Hot Sauce is your passport to a bold and spicy culinary adventure, whether used as a marinade, dipping sauce, or table condiment.",
+  "Slug": "nandos-peri-peri-hot-sauce-250-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/nandos-peri-peri-hot-sauce-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131212&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1633
+  ],
+  "AllRecursiveCategoryIds": [
+    1633,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [
+    296
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951392147",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "ZA",
+  "Capacity": {
+    "Weight": {
+      "Lo": 458,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 831488,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 3
+    },
+    "MaxDimension": {
+      "Lo": 203,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    2670
+  ],
+  "IsAgeRestricted": false,
+  "category": "Other_Table_Sauces",
+  "id": 868
+}

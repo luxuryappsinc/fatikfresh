@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 8410,
+  "Name": "BD Food Boroi Chutney 500 gm",
+  "NameBn": "বিডি ফুড বড়ই এর চাটনি ৫০০ গ্রাম",
+  "NameWithoutSubText": "BD Food Boroi Chutney",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 170,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 170,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 170,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "BD Food Boroi Chutney is a traditional Bangladeshi condiment made from boroi (Indian plum), offering a tangy and sweet flavor that complements various dishes.rnrnShort Description: This chutney combines ripe boroi with sugar and spices, creating a versatile accompaniment for snacks and meals.rnrnManufacturer: BD Food LimitedrnrnIngredients: The primary ingredients include boroi (Indian plum), sugar, spices, vinegar, and natural preservatives.rnrnWeight: 500 grams per jar.rnrnUses: BD Food Boroi Chutney is commonly used as:rnrnDip: Pairs well with fried snacks like samosas, pakoras, and fritters.rnCondiment: Enhances the flavor of rice dishes, curries, and grilled meats.rnSpread: Can be used on bread or crackers for a tangy twist.",
+  "Slug": "bd-food-boroi-chutney-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/bd-food-boroi-chutney-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125547&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    78
+  ],
+  "AllRecursiveCategoryIds": [
+    78,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [
+    207
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951199124",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 657,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 73125,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 13,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2613
+  ],
+  "IsAgeRestricted": false,
+  "category": "Pickles",
+  "id": 820
+}

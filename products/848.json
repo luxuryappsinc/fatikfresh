@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 2286,
+  "Name": "Life Oyster Flavoured Sauce 510 gm",
+  "NameBn": "লাইফ ওয়েস্টার ফ্লাভারড সস ৫১০ গ্রাম",
+  "NameWithoutSubText": "Life Oyster Flavoured Sauce",
+  "SubText": "510 gm",
+  "Price": {
+    "Lo": 382,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 382,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 382,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Life Oyster Flavoured Sauce is the perfect ingredient to enhance your dishes with a delicious umami flavor. This versatile sauce brings a savory depth to a wide variety of dishes, from stir-fries and marinades to dipping sauces. With its authentic oyster taste, it's ideal for those who love to add a burst of flavor to meats, seafood, and vegetables.rnrn•Authentic Oyster Flavor: Provides a rich, savory, and slightly sweet umami taste, perfect for Asian-inspired dishes.rn•Versatile Use: Ideal for stir-fries, grilling, dipping sauces, noodle dishes, soups, and more.rn•High-Quality Ingredients: Crafted with premium ingredients to ensure a consistently delicious flavor every time.rn•Large 510g Size: Perfect for frequent use in both home kitchens and restaurants.",
+  "Slug": "life-oyster-flavoured-sauce-510-gm-5",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/life-oyster-flavoured-sauce-510-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130069&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1703
+  ],
+  "AllRecursiveCategoryIds": [
+    1703,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951319095",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "MY",
+  "Capacity": {
+    "Weight": {
+      "Lo": 848,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1077375,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 3
+    },
+    "MaxDimension": {
+      "Lo": 255,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    2677
+  ],
+  "IsAgeRestricted": false,
+  "category": "Cooking_Sauces",
+  "id": 848
+}

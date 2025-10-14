@@ -1,0 +1,95 @@
+{
+  "ProductVariantId": 47668,
+  "Name": "The Eastern Pickle Company Alu Bukhara Achar 215 gm",
+  "NameBn": "দ্য ইস্টার্ন পিকল কোম্পানি আলু বোখারার আচার ২১৫ গ্রাম",
+  "NameWithoutSubText": "The Eastern Pickle Company Alu Bukhara Achar",
+  "SubText": "215 gm",
+  "Price": {
+    "Lo": 250,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 250,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 250,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "The Eastern Pickle Company Alu Bukhara Achar 215g is a tangy and flavorful plum pickle made using premium-quality Alu Bukhara (dried plums) and a blend of aromatic spices. This traditional achar (pickle) is perfect for enhancing the flavor of your meals, offering a delightful combination of sweetness and spiciness.rnrnIngredients: Alu Bukhara (Dried Plums), Mustard Oil, Spices (Turmeric, Red Chili Powder, Fenugreek Seeds, etc.), Salt, Sugar, Acidic Regulator (Acetic Acid).rnrnUses: As a Side Dish: Pairs perfectly with rice, parathas, or chapatis.rnFlavor Enhancer: Adds a tangy and sweet twist to meals.rnSnack Companion: Enjoy with crackers or bread for a quick treat.",
+  "Slug": "the-eastern-pickle-company-alu-bukhara-achar-215-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/the-eastern-pickle-company-alu-bukhara-achar-215-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D148888&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    78
+  ],
+  "AllRecursiveCategoryIds": [
+    78,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757997000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757953800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 1,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 375,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 232875,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 3
+    },
+    "MaxDimension": {
+      "Lo": 115,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    2606
+  ],
+  "IsAgeRestricted": false,
+  "category": "Pickles",
+  "id": 830
+}

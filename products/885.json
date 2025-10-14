@@ -1,0 +1,130 @@
+{
+  "ProductVariantId": 9751,
+  "Name": "Purnava Omega 3 Enriched Eggs 12 pcs",
+  "NameBn": "পুরনাভা ওমেগা ৩ সমৃদ্ধ ডিম ১২ টি",
+  "NameWithoutSubText": "Purnava Omega 3 Enriched Eggs",
+  "SubText": "12 pcs",
+  "Price": {
+    "Lo": 280,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 280,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 280,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Egg Weight (Per Pc): 60-70 gm rnrnrnNaturally farm chicken eggs are little source of Omega 3, it contents about less than 1mg per egg. Whereas Purnava Omega 3 enriched eggs are produced by adding extra Alpha Tochopherol (Omega 3) and about 50% daily values can be met by taking 1 average size Omega 3 enriched egg per day. Purnava Omega 3  eggs come from hens feed completely natural vegetable feed sources and do not use any animal source. Hens farmed in friendly environment and free from Salmonella. Purnava Omega 3  egg is free of chemicals, chromium, antibiotics or hormones as well.",
+  "Slug": "purnava-omega-3-enriched-eggs-12-pcs",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/purnava-omega-3-enriched-eggs-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132429&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    61,
+    235,
+    1505,
+    1702
+  ],
+  "AllRecursiveCategoryIds": [
+    61,
+    58,
+    2,
+    235,
+    14,
+    2,
+    1505,
+    1484,
+    1702,
+    14,
+    2
+  ],
+  "AllManufacturerIds": [
+    217
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "378000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "792000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951445827",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757948400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757984400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757984400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 100,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 850,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 319547748,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 3302,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Eggs",
+  "id": 885
+}

@@ -1,0 +1,128 @@
+{
+  "ProductVariantId": 4101,
+  "Name": "Ruchi Garlic Pickle 200 gm",
+  "NameBn": "রুচি রসুনের আচার ২০০ গ্রাম",
+  "NameWithoutSubText": "Ruchi Garlic Pickle",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 165,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 165,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 165,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Ruchi Garlic Pickle is a flavorful and aromatic condiment made from fresh garlic cloves blended with a combination of mustard oil, vinegar, and traditional South Asian spices. Known for its bold and tangy taste, this pickle is a perfect complement to various dishes, adding depth and spiciness. Packaged in a convenient 200 gm jar, it is a popular choice for enhancing meals.rnrnIngredients: Fresh Garlic Cloves,Mustard Oil,Salt,Vinegar,Red Chili Powder,Turmeric Powder,Fenugreek Seeds,Mustard Seeds,Asafoetida (Hing),Other traditional spicesrnrnMaking Process:rnPreparation of Garlic: Fresh garlic cloves are peeled and washed thoroughly.rnSpice Roasting: Spices like fenugreek seeds and mustard seeds are lightly roasted to enhance their aroma and flavor.rnCooking: The garlic cloves are sautéed in mustard oil along with roasted spices.rnMixing with Vinegar and Salt: Vinegar and salt are added to the mixture to ensure preservation and balance the flavors.rnBlending: The mixture is left to marinate, allowing the flavors to develop and infuse over time.rnPackaging: Once ready, the pickle is carefully packed into airtight jars to maintain freshness.rnrnUses:rnSide Dish: Pair with plain rice, parathas, chapatis, or lentils for a burst of flavor.rnCooking Ingredient: Add to curries or stir-fries to enhance the taste with a garlicky kick.rnSnacks: Use as a dip or spread for sandwiches, wraps, or samosas.rnMarinade: Mix with meats or vegetables for flavorful grilling or roasting.rnrnStorage Instructions:rnCool, Dry Place: Store in a cool, dry area away from moisture and sunlight.rnRefrigeration: Recommended after opening to maintain freshness and extend shelf life.rnAirtight Seal: Always close the jar tightly after use.",
+  "Slug": "ruchi-garlic-pickle-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/ruchi-garlic-pickle-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133069&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    78
+  ],
+  "AllRecursiveCategoryIds": [
+    78,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [
+    506,
+    528,
+    186,
+    317
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757947599123",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757997000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757953800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951199123",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 53,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 33275,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    },
+    "MaxDimension": {
+      "Lo": 11,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Pickles",
+  "id": 810
+}

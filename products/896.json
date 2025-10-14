@@ -1,0 +1,113 @@
+{
+  "ProductVariantId": 35848,
+  "Name": "Nestle Nido Fortigrow Full Cream Milk Powder Tin 1 kg",
+  "NameBn": "নেসলে নিডো ফরটিগ্রো ফুল ক্রিম মিল্ক পাউডার টিন ১ কেজি",
+  "NameWithoutSubText": "Nestle Nido Fortigrow Full Cream Milk Powder Tin",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 1400,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 1400,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 1400,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from New Zealand.rnrnNIDO Fortigrow- World’s no 1 selling milk powder which ensures proper nutrition for children above 5 years old.    It has Iron, Vitamin A, C & D which help to maintain your child's normal immune function and overall growth    #Source: Euromonitor International Limited; Packaged Food 2019 Edition; NIDO brand shares by umbrella brand name, as per powder milk definition; all retail channels; retail value rsp. 2018 data.    Net Weight: 1kg    Marketed by Nestlé Bangladesh Limited.",
+  "Slug": "nestle-nido-fortigrow-full-cream-milk-powder-tin-1-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/nestle-nido-fortigrow-full-cream-milk-powder-tin-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131372&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1580
+  ],
+  "AllRecursiveCategoryIds": [
+    1580,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    450,
+    529
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757948017538",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951617538",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 51,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1100,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 32955,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 195,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    1797
+  ],
+  "IsAgeRestricted": false,
+  "category": "Powder_Milk",
+  "id": 896
+}

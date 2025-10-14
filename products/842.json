@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 27762,
+  "Name": "Chef Le Light Soya Sauce 500 ml",
+  "NameBn": "শেফ লে লাইট সয়া সস ৫০০ মিলি",
+  "NameWithoutSubText": "Chef Le Light Soya Sauce",
+  "SubText": "500 ml",
+  "Price": {
+    "Lo": 294,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 294,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 294,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Bring a delicate umami flavor to your dishes with Chef Le Light Soya Sauce. This premium soy sauce offers a lighter, milder taste compared to regular soy sauce, making it perfect for a wide range of culinary creations. Ideal for stir-fries, marinades, dips, and dressings, it brings a rich depth of flavor without overpowering the taste of your ingredients.rnrn• Mild & Balanced Flavor: Provides a lighter, less salty taste that complements a variety of dishes.rn• Lower Sodium: Perfect for those looking to reduce their sodium intake without compromising on flavor.rn• Versatile Usage: Great for cooking, marinating, dipping, or even as a salad dressing.rn• Generous 500ml Bottle: The larger size offers great value for both home and professional kitchens.rnrnIdeal for health-conscious cooking, offering reduced salt but full flavor.rnrnElevate your meals with Chef Le Light Soya Sauce—perfect for those who want a milder, healthier option without sacrificing taste!",
+  "Slug": "chef-le-light-soya-sauce-500-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/chef-le-light-soya-sauce-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D88026&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1703
+  ],
+  "AllRecursiveCategoryIds": [
+    1703,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951319095",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "CN",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 36870894,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 4
+    },
+    "MaxDimension": {
+      "Lo": 254,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    2680
+  ],
+  "IsAgeRestricted": false,
+  "category": "Cooking_Sauces",
+  "id": 842
+}

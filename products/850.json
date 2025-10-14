@@ -1,0 +1,112 @@
+{
+  "ProductVariantId": 55328,
+  "Name": "Ching's Green Chilli Sauce 190 gm",
+  "NameBn": "চিং'স গ্রিন চিলি সস ১৯০ গ্রাম",
+  "NameWithoutSubText": "Ching's Green Chilli Sauce",
+  "SubText": "190 gm",
+  "Price": {
+    "Lo": 150,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 150,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 150,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Maximise Your Culinary Creations: Ching's Secret Green Chilli Sauce isn't just a sauce - it's a transformational ingredient. Whether you're infusing meats with flavour, tossing vegetables with zest, or giving a kick to your stir-fries, this sauce integrates flawlessly into any dish. Elevate Your Dining Experience: Craving that authentic desi Chinese flavour from your favourite restaurant? With Ching's Secret Green Chilli Sauce, you can recreate those complex, signature tastes right in your own home. Effortless Cooking, Every Time: Say goodbye to bland meals and complicated recipes. Ching's Secret offers a perfectly balanced sauce with a smooth texture that pours easily and mixes well, ensuring a deliciously spiced dish without the extra hassle.",
+  "Slug": "chings-green-chilli-sauce-190-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/chings-green-chilli-sauce-190-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177092&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1633,
+    1703
+  ],
+  "AllRecursiveCategoryIds": [
+    1633,
+    1631,
+    2,
+    1703,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757947792146",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951392146",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 52,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "IN",
+  "Capacity": {
+    "Weight": {
+      "Lo": 358,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 4032,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 175,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Other_Table_Sauces",
+  "id": 850
+}

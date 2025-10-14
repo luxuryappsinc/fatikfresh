@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 2151,
+  "Name": "Best's Chilli & Garlic Sauce 320 gm",
+  "NameBn": "বেস্ট'স মরিচ এবং রসুনের সস ৩২০ গ্রাম",
+  "NameWithoutSubText": "Best's Chilli & Garlic Sauce",
+  "SubText": "320 gm",
+  "Price": {
+    "Lo": 210,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 210,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 210,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Best's Chilli & Garlic Sauce is a delicious and spicy condiment that adds flavor and heat to your favorite dishes. This sauce is made from a blend of fresh red chilies and garlic that are carefully selected and combined to create a bold and complex flavor. This sauce is gluten-free, vegan-friendly, and contains no artificial colors, flavors, or preservatives.",
+  "Slug": "bests-chilli-garlic-sauce-320-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/bests-chilli-garlic-sauce-320-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125672&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1633,
+    1703
+  ],
+  "AllRecursiveCategoryIds": [
+    1633,
+    1631,
+    2,
+    1703,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951392146",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "MY",
+  "Capacity": {
+    "Weight": {
+      "Lo": 550,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1029,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 21,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Other_Table_Sauces",
+  "id": 856
+}

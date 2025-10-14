@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 9841,
+  "Name": "Maekrua Oyster Sauce 600 ml",
+  "NameBn": "মাইক্রুয়া ওয়েস্টার সস ৬০০ মিলি",
+  "NameWithoutSubText": "Maekrua Oyster Sauce",
+  "SubText": "600 ml",
+  "Price": {
+    "Lo": 549,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 549,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 549,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Maekrua Oyster Sauce is a beloved and versatile condiment that enhances the depth of flavor in a wide range of Asian and international dishes. This oyster sauce is expertly crafted to offer a harmonious blend of savory and slightly sweet notes, making it a key ingredient in stir-fries, marinades, dipping sauces, and more. Presented in a generous 600 ml bottle, Maekrua Oyster Sauce is a kitchen staple that adds a rich umami taste to your culinary creations.",
+  "Slug": "maekrua-oyster-sauce-600-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/maekrua-oyster-sauce-600-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47535&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1703
+  ],
+  "AllRecursiveCategoryIds": [
+    1703,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951319095",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "TH",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1018,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1659375,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 3
+    },
+    "MaxDimension": {
+      "Lo": 295,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    2677
+  ],
+  "IsAgeRestricted": false,
+  "category": "Cooking_Sauces",
+  "id": 844
+}

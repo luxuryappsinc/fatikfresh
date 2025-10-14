@@ -1,0 +1,103 @@
+{
+    "ProductVariantId": 26722,
+    "Name": "Ruchi Sweet Chilli Sauce 350 gm",
+    "NameBn": "রুচি মিষ্টি চিলি সস ৩৫০ গ্রাম",
+    "NameWithoutSubText": "Ruchi Sweet Chilli Sauce",
+    "SubText": "350 gm",
+    "Price": {
+      "Lo": 130,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "DiscountedPrice": {
+      "Lo": 130,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "CorporatePrice": {
+      "Lo": 130,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "LongDescription": "Ruchi Sweet Chili Sauce is a whole different taste enhancer of daily snacks. It gives a magnificent punch of spice and sweetness together. It has a seasoned secret \"Ruchi\" Recipe with high-quality chili flakes and other ingredients.",
+    "Slug": "ruchi-sweet-chilli-sauce-350-gm",
+    "RecType": "",
+    "PictureUrls": [
+      "https://i.chaldn.com/_mpimage/ruchi-sweet-chilli-sauce-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133079&q=best&v=1"
+    ],
+    "OfferPictureUrls": [],
+    "AllCategoryIds": [
+      1633
+    ],
+    "AllRecursiveCategoryIds": [
+      1633,
+      1631,
+      2
+    ],
+    "AllManufacturerIds": [
+      506,
+      528,
+      317
+    ],
+    "DoNotApplyDiscounts": false,
+    "BlockSale": false,
+    "ProductAvailabilityForSelectedWarehouse": [
+      {
+        "EarliestAvailableTimeOfDay": {
+          "Ticks": "0"
+        },
+        "AvailabilityCutOffTimeOfDay": {
+          "Ticks": "810000000000"
+        },
+        "Quantity": 50,
+        "EarliestAvailableTime": {
+          "UnixTimeMilliseconds": "1757951392146",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        },
+        "AvailabilityExpiryTime": {
+          "UnixTimeMilliseconds": "1757950200000",
+          "Offset": {
+            "Ticks": "216000000000"
+          }
+        }
+      }
+    ],
+    "UnitQuantity": 1,
+    "UnitType": "",
+    "DrugRegulationType": "",
+    "BaseProductQuantity": 50,
+    "CatalogItemType": "Grocery",
+    "AlternateOf": "",
+    "SimilarOf": "",
+    "AdditionalShippingFee": 0,
+    "CountryOriginCode": "BD",
+    "Capacity": {
+      "Weight": {
+        "Lo": 350,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 0
+      },
+      "Volume": {
+        "Lo": 768143625,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 6
+      },
+      "MaxDimension": {
+        "Lo": 1905,
+        "Mid": 0,
+        "Hi": 0,
+        "SignScale": 2
+      }
+    },
+    "AlternateGroupIds": [],
+    "IsAgeRestricted": false,
+    "category": "Other_Table_Sauces",
+    "id": 855
+  }

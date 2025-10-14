@@ -1,0 +1,114 @@
+{
+  "ProductVariantId": 8642,
+  "Name": "Marks Diet Non Fat Milk Powder 400 gm",
+  "NameBn": "মার্কস ডায়েট নন ফ্যাট মিল্ক পাউডার ৪০০ গ্রাম",
+  "NameWithoutSubText": "Marks Diet Non Fat Milk Powder",
+  "SubText": "400 gm",
+  "Price": {
+    "Lo": 425,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 425,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 425,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Marks Diet Non-Fat Milk Powder 400g is a high-quality milk powder designed for individuals seeking a low-fat, nutritious, and versatile dairy option. Made from non-fat milk solids, it delivers the essential nutrients of milk, including protein, calcium, and vitamins, without the added calories from fat. Its creamy texture and rich taste make it perfect for a variety of uses in your daily diet.rnrnIngredients:rnNon-Fat Milk SolidsrnVitamins A & DrnrnBenefitsrnLow-Calorie Nutrition : Suitable for weight management and a balanced diet.rnRich in Calcium: Strengthens bones and teeth.rnHigh in Protein: Supports muscle development and repair.rnFortified with Vitamins A & D: Enhances immunity, bone health, and vision.rnVersatile: Ideal for various culinary and beverage applications.rnrnUses:rnBeverages: Mix with water for a low-fat milk drink or add to coffee, tea, or smoothies.rnCooking: Perfect for soups, sauces, and desserts.rnBaking: Adds richness to cakes, pastries, and bread.rnBreakfast: Use in cereals, oats, or porridge.rnStorage InformationrnStore in a cool, dry place away from direct sunlight.rnReseal the pack tightly after opening to maintain freshness.rnUse within the suggested period for optimal quality.",
+  "Slug": "marks-diet-non-fat-milk-powder-400-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/marks-diet-non-fat-milk-powder-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D160943&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1580,
+    1420
+  ],
+  "AllRecursiveCategoryIds": [
+    1580,
+    58,
+    2,
+    1420
+  ],
+  "AllManufacturerIds": [
+    177
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 4,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757948017538",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951617538",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 54,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 451,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1764,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 21,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    6193
+  ],
+  "IsAgeRestricted": false,
+  "category": "Powder_Milk",
+  "id": 895
+}

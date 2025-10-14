@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 3243,
+  "Name": "BD Food Mango Pickle 400 gm",
+  "NameBn": "বিডি ফুড আমের আঁচার ৪০০ গ্রাম",
+  "NameWithoutSubText": "BD Food Mango Pickle",
+  "SubText": "400 gm",
+  "Price": {
+    "Lo": 200,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 200,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 200,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "BD Food Mango Pickle is a traditional Bangladeshi condiment that combines the tanginess of mangoes with aromatic spices, offering a burst of flavor to your meals.rnManufacturer: BD Foods Ltd is a leading Bangladeshi company specializing in a variety of spices and culinary products.rnrnIngredients: The pickle typically includes: Fresh mangoes, Mustard oil, Spices such as red chili, turmeric, cumin, coriander, and fenugreek, Salt, Natural preservatives.rnrnUse: BD Food Mango Pickle is commonly used as a condiment to enhance the flavor of various dishes, including: Rice, Parathas, Curries, Sandwiches, Grilled meats.rnIts rich, spicy profile adds a zesty kick to both vegetarian and non-vegetarian recipes.",
+  "Slug": "bd-food-mango-pickle-400-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/bd-food-mango-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125669&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    78
+  ],
+  "AllRecursiveCategoryIds": [
+    78,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [
+    207
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951199125",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 400,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 637,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 13,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2625
+  ],
+  "IsAgeRestricted": false,
+  "category": "Pickles",
+  "id": 826
+}

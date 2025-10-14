@@ -1,0 +1,89 @@
+{
+  "ProductVariantId": 56117,
+  "Name": "Kikkoman Soy Sauce 1 ltr",
+  "NameBn": "কিকোমান সয়া সস ১ লিটার",
+  "NameWithoutSubText": "Kikkoman Soy Sauce",
+  "SubText": "1 ltr",
+  "Price": {
+    "Lo": 1499,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 1499,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 1499,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Kikkoman Soy Sauce in the 1-liter bottle is a staple for any kitchen that loves authentic Asian cooking. Naturally brewed over several months, it contains only four simple ingredients: soybeans, wheat, salt, and water. The result is a deep, savory umami flavor that enhances everything from stir-fries and marinades to soups, rice, and sushi. Its larger size is perfect for frequent use in home or commercial kitchens. With a rich aroma and balanced saltiness, this soy sauce is more than a condiment—it’s a cooking essential. Versatile and consistent in quality, it’s trusted by chefs and home cooks worldwide.",
+  "Slug": "kikkoman-soy-sauce-1-ltr",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/kikkoman-soy-sauce-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180155&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1479,
+    1703
+  ],
+  "AllRecursiveCategoryIds": [
+    1479,
+    1703,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 5,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757947719094",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 5,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "JP",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1243,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1548577548,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2667,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Cooking_Sauces",
+  "id": 833
+}

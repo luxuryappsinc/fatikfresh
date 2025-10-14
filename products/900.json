@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 19871,
+  "Name": "Starship Full Cream Milk Powder 500 gm",
+  "NameBn": "স্টারশিপ ফুল ক্রিম মিল্ক পাউডার ৫০০ গ্রাম",
+  "NameWithoutSubText": "Starship Full Cream Milk Powder",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 370,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 370,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 370,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Introducing Starship Milk Powder, a versatile and nutritious dairy product conveniently packaged in a 500 gm container. This milk powder offers a convenient solution for incorporating the goodness of milk into your daily routine, whether for drinking, cooking, or baking.rnrnStarship Milk Powder is a nutritional powerhouse crafted from high-quality milk that has been carefully processed into a powder form. This preservation method retains the essential nutrients found in milk, including calcium, protein, and vitamins, making it a valuable addition to a balanced diet.",
+  "Slug": "starship-full-cream-milk-powder-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/starship-full-cream-milk-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D152337&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    238,
+    1580
+  ],
+  "AllRecursiveCategoryIds": [
+    238,
+    1580,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    472
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951617538",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1442061632,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2032,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Powder_Milk",
+  "id": 900
+}

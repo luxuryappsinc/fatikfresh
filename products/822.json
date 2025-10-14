@@ -1,0 +1,106 @@
+{
+  "ProductVariantId": 6215,
+  "Name": "Ruchi Chutney Tetul 15 gm 12 pcs",
+  "NameBn": "রুচি চাটনি তেঁতুল ১৫ গ্রাম ১২ টি",
+  "NameWithoutSubText": "Ruchi Chutney Tetul 15 gm",
+  "SubText": "12 pcs",
+  "Price": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 60,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Ruchi Chutney Tetul 15g (12 pcs) is a tangy and flavorful tamarind chutney that adds a delightful zing to your meals. Packed in convenient 20g sachets, this chutney brings a burst of authentic Bengali taste, ideal for enhancing the flavor of various dishes. The pack of 12 pieces ensures that you have a ready supply for snacks, meals, and parties.rnrnUses:rnAs a Dip: Perfect as a dipping sauce for snacks like samosas, pakoras, or chips.rnWith Meals: A great accompaniment to rice, parathas, or even sandwiches for added flavor.rnFor Garnishing: Use as a topping for chaats, salads, or grilled items.rnAs a Spread: Can be used to spread on bread or crackers for a tangy twist.rnrnMaking Process:rnRuchi Chutney Tetul is made from high-quality tamarind, sugar, spices, and preservatives to create a balanced blend of sweet and tangy flavors. The tamarind pulp is mixed with spices and sugar, then boiled to achieve the desired consistency and flavor profile.rnrnBenefits:rnRich in Flavor: The natural tanginess of tamarind paired with spices gives a unique and bold taste.rnDigestive Aid: Tamarind is known for its digestive properties, helping to ease digestion.rnAppetizer Enhancer: Enhances the flavor of appetizers and snacks, making them more appetizing.rnConvenient and Ready-to-Use: Ideal for busy individuals or for quick meals and gatherings.rnrnKeeping System : rnStore in a cool, dry place.rnAfter opening, refrigerate the chutney and consume within the suggested time on the packaging for optimal freshness.rnEnsure the pack is tightly sealed after use to maintain its quality.",
+  "Slug": "ruchi-chutney-tetul-15-gm-12-pcs",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/ruchi-chutney-tetul-15-gm-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D172150&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    78
+  ],
+  "AllRecursiveCategoryIds": [
+    78,
+    1631,
+    2
+  ],
+  "AllManufacturerIds": [
+    506,
+    528,
+    186,
+    317
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951199125",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 16,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 6853,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 14,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    2637
+  ],
+  "IsAgeRestricted": false,
+  "category": "Pickles",
+  "id": 822
+}
