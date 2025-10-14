@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 9924,
+  "Name": "Anchor Boot Dal 500 gm",
+  "NameBn": "অ্যাংকর বুট ডাল ৫০০ গ্রাম",
+  "NameWithoutSubText": "Anchor Boot Dal",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 45,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Anchor Boot Dal 500 gm is a nutritious lentil variety, commonly used in various South Asian cuisines. It is rich in iron and potassium, making it a healthy choice for promoting good health, particularly for maintaining a balanced diet. The dal is considered low in calories while providing essential nutrients.rnrnIngredients: rnPure Anchor Boot Dal.rnrnUses: rnAnchor Boot Dal is typically used to prepare dals or soups. It can be cooked with spices, herbs, and vegetables to create a flavorful, protein-rich dish. Ideal for vegetarian meals, it is often paired with rice for a complete, nutritious meal.",
+  "Slug": "anchor-dal-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/anchor-boot-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47038&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    198
+  ],
+  "AllRecursiveCategoryIds": [
+    198,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    257,
+    295,
+    348
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 504,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1350,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 18,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Dal_or_Lentil",
+  "id": 490
+}

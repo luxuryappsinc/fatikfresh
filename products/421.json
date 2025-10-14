@@ -1,0 +1,87 @@
+{
+  "ProductVariantId": 51271,
+  "Name": "Athash Rice (Boiled)  ± 200 gm 25 kg",
+  "NameBn": "আঠাস চাল (সিদ্ধ) ± ২০০ গ্রাম ২৫ কেজি",
+  "NameWithoutSubText": "Athash Rice (Boiled)  ± 200 gm",
+  "SubText": "25 kg",
+  "Price": {
+    "Lo": 1759,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 1589,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 1589,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Athash Rice (Boiled) is a high-quality, parboiled rice known for its rich taste and nutritional value. The parboiling process involves partially boiling the rice in the husk, which helps retain essential nutrients and enhances the rice's texture.",
+  "Slug": "athash-rice-boiled-200-gm-25-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/athash-rice-boiled-200-gm-25-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D165060&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    80
+  ],
+  "AllRecursiveCategoryIds": [
+    80,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 4,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757800029003",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 4,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 25030,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 3181468728,
+      "Mid": 10,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 5842,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Rice",
+  "id": 421
+}

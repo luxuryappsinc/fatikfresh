@@ -1,0 +1,118 @@
+{
+  "ProductVariantId": 36966,
+  "Name": "Akij Essential Miniket Rice 5 kg",
+  "NameBn": "আকিজ এসেনসিয়াল মিনিকেট চাল ৫ কেজি",
+  "NameWithoutSubText": "Akij Essential Miniket Rice",
+  "SubText": "5 kg",
+  "Price": {
+    "Lo": 450,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 450,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 450,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Essential is a food commodity brand from the trusted house of Akij.rnEssential Miniket Rice is produced on the fertile soil of Bangladesh with the care and love of skilled local farmers. A professional team of innovative and highly skilled people is engaged in the process of quality control who ensure the use of most modern technology of rice milling in Bangladesh in producing the best quality product.rnEssential Miniket Rice ensures the best quality rice at the consumer level by combining technology, efficiency and care at every stage of production.",
+  "Slug": "akij-essential-miniket-rice-5-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/akij-essential-miniket-rice-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122562&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    80
+  ],
+  "AllRecursiveCategoryIds": [
+    80,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    278
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 52,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 5050,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 3706016702,
+      "Mid": 2,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 3937,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    1761
+  ],
+  "IsAgeRestricted": false,
+  "category": "Rice",
+  "id": 465
+}

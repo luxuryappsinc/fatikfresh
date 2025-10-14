@@ -1,0 +1,112 @@
+{
+  "ProductVariantId": 3743,
+  "Name": "Mashkolai Dal Peeled 500 gm",
+  "NameBn": "মাসকলাই ডাল পিলড ৫০০ গ্রাম",
+  "NameWithoutSubText": "Mashkolai Dal Peeled",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 99,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 99,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 99,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Mashkolai Dal Peeled is a type of lentil commonly known as Black Mash Dal (or Black Gram Lentils). These lentils are peeled to remove their outer skin, making them soft and easy to cook. Mashkolai Dal is a rich source of protein, fiber, and essential nutrients, and it is a staple in many South Asian cuisines. It has a mild, earthy flavor that absorbs spices and flavors well, making it ideal for various dishes such as soups, stews, and curries.rnrnUses: Dal (Lentil Soup): Curries and Stews Salads, Snacks, Patties or Fritters.rnrnBenefits:rnHigh in Protein: A great source of plant-based protein, making it ideal for vegetarians and vegans.rnRich in Fiber: Helps promote digestive health and maintain a healthy weight by providing a feeling of fullness.rnSupports Heart Health: Low in fat and cholesterol, which makes it beneficial for maintaining a healthy heart.rnNutrient-Rich: Contains essential vitamins and minerals such as iron, magnesium, and folate, which contribute to overall health.rnHelps Manage Blood Sugar: The fiber and protein content help regulate blood sugar levels, making it beneficial for diabetics.",
+  "Slug": "mash-dal-peeled-500-gm-pack",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/mashkolai-dal-peeled-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46113&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    198
+  ],
+  "AllRecursiveCategoryIds": [
+    198,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    257,
+    295,
+    364
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 4,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757802391253",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 54,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 501,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 780,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 20,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Dal_or_Lentil",
+  "id": 483
+}

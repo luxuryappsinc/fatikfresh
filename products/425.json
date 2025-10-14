@@ -1,0 +1,108 @@
+{
+  "ProductVariantId": 23850,
+  "Name": "Katari Boiled Rice ± 50 gm 5 kg",
+  "NameBn": "কাটারি সিদ্ধ চাল ± ৫০ গ্রাম ৫ কেজি",
+  "NameWithoutSubText": "Katari Boiled Rice ± 50 gm",
+  "SubText": "5 kg",
+  "Price": {
+    "Lo": 469,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 469,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 469,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Katari Siddha Rice is a special type of rice known for its smooth, soft and delicious quality after parboiling. It is commonly used in cooking and imparts special taste and quality to various types of rice. The characteristics of Katari Siddha rice per kilogram are:rnrnTaste: Parboiled rice imparts a smooth and delicious taste to cooking. It enhances the general taste of the rice and provides a rich experience in every bite.rnAroma: After boiling it has a natural and aromatic aroma which brings a fresh and attractive flavor to the cooking. It enhances the aroma of food and provides a pleasant experience while cooking.rnColor: Parboiled rice is usually white or light golden in color, which gives a natural and beautiful color to the dish.rnUses: It is used in various cuisines, such as rice, polao, biryani, khichuri, and other rice items. Katari siddha rice is especially used for daily meals and entertaining guests.rnNutritional value: Katari parboiled rice is a good source of carbohydrates and is easily digested. It provides energy and is used as a healthy food.rnThe price of parboiled rice per kilogram may vary depending on its quality and availability in the market.",
+  "Slug": "katari-boiled-rice-50-gm-5-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/katari-boiled-rice-50-gm-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74508&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    80
+  ],
+  "AllRecursiveCategoryIds": [
+    80,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 4,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757800029003",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 54,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 5005,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 7056,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 21,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Rice",
+  "id": 425
+}

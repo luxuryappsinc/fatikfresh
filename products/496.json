@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 12340,
+  "Name": "ACI Pure Moshur Dal 1 kg",
+  "NameBn": "এ সি আই পিওর মসুর ডাল ১ কেজি ",
+  "NameWithoutSubText": "ACI Pure Moshur Dal",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 185,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 185,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 185,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "ACI Pure Moshur Dal, also known as red lentils, is a powerhouse of essential nutrients. rnMoshur dal is loaded with protein, making it an excellent choice for vegetarians and those seeking plant-based protein.rnIt contains dietary fiber, aiding digestion and promoting gut health.rnRich in magnesium, calcium, and B vitamins, it contributes to overall well-being.rnThe nutrients in masoor dal promote healthy skin and may help prevent acne.",
+  "Slug": "aci-pure-moshur-dal-1-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/aci-pure-moshur-dal-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122834&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    198
+  ],
+  "AllRecursiveCategoryIds": [
+    198,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    135
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1008,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1680,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 28,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Dal_or_Lentil",
+  "id": 496
+}

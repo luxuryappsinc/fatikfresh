@@ -1,0 +1,116 @@
+{
+  "ProductVariantId": 20093,
+  "Name": "Rupchanda Jirashail Rice 5 kg",
+  "NameBn": "রূপচাঁদা জিরাশাইল চাল ৫ কেজি",
+  "NameWithoutSubText": "Rupchanda Jirashail Rice",
+  "SubText": "5 kg",
+  "Price": {
+    "Lo": 495,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 495,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 495,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Introducing Rupchanda Jirashail Rice, a premium-quality rice variety that embodies excellence, fragrance, and versatility. Encased in a generous 5 kg pack, this rice offers a culinary experience that's a celebration of authentic taste and superior quality.    Rupchanda Jirashail Rice showcases the art of rice cultivation, featuring grains that are meticulously chosen for their exceptional quality and distinct aroma. This rice variety is renowned for its small and slender grains, which, upon cooking, yield a fragrant and delicate texture that's ideal for a variety of dishes. With its captivating aroma and nuanced flavor, this rice serves as a versatile canvas for your culinary endeavors.",
+  "Slug": "rupchanda-miniket-rice-5-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/rupchanda-jirashail-rice-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169273&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    80
+  ],
+  "AllRecursiveCategoryIds": [
+    80,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 9,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757910600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757867400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 59,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 50046,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "Volume": {
+      "Lo": 811159668,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 381,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    1762
+  ],
+  "IsAgeRestricted": false,
+  "category": "Rice",
+  "id": 462
+}

@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 15974,
+  "Name": "Paijam Rice (Boiled) 1 kg",
+  "NameBn": " পাইজাম চাল (সিদ্ধ) ১ কেজি",
+  "NameWithoutSubText": "Paijam Rice (Boiled)",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 75,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 65,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 65,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Pajam rice is a special quality rice known for its delicious and soft properties. It is commonly used in cooking rice and helps to enhance the taste and quality of food. The characteristics of Pajam rice per kilogram are:rnrnTaste: Pajam rice imparts a smooth and delicious taste to cooking. It enhances the overall taste of the rice and gives a rich and satisfying experience in every bite.rnSmell: It has a natural and aromatic aroma that brings a fresh and sweet flavor to cooking. It enhances the aroma of food and provides a pleasurable experience while cooking.rnColor: Pajam rice is usually white or light golden in color, which gives a natural and beautiful color to the dish.rnUses: It is used in various cuisines, such as rice, polao, biryani, khichuri, and other rice items. Pajam rice is especially used for everyday food and special occasions.rnNutrition: Pyjam rice is a good source of carbohydrates and is easily digested. It provides energy and is used as a healthy food.rnThe price of pyjam rice per kilogram may vary depending on its quality and availability in the market.",
+  "Slug": "paijam-rice-boiled-1-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/paijam-rice-boiled-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80161&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    80
+  ],
+  "AllRecursiveCategoryIds": [
+    80,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    257,
+    277,
+    295
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1000,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 967690978,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2083,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Rice",
+  "id": 443
+}

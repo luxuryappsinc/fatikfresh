@@ -1,0 +1,108 @@
+{
+  "ProductVariantId": 20094,
+  "Name": "Rupchanda Premium Nazirshail Rice 5 kg",
+  "NameBn": "রূপচাঁদা প্রিমিয়াম নাজিরশাল চাল ৫ কেজি",
+  "NameWithoutSubText": "Rupchanda Premium Nazirshail Rice",
+  "SubText": "5 kg",
+  "Price": {
+    "Lo": 525,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 525,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 525,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Introducing Rupchanda Premium Nazirshail Rice, a premium-quality rice variety that embodies excellence, flavor, and versatility. Presented in a substantial 5 kg pack, this rice offers a culinary experience that's a celebration of authentic taste and superior quality.rnrnRupchanda Premium Nazirshail Rice is a testament to the art of rice cultivation, featuring grains that are carefully selected for their exceptional quality and distinctive aroma. This rice variety is known for its long and slender grains, which, when cooked, result in a fluffy and aromatic texture that's perfect for a wide range of dishes.",
+  "Slug": "rupchanda-nazirshail-rice-5-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/rupchanda-premium-nazirshail-rice-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133083&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    80
+  ],
+  "AllRecursiveCategoryIds": [
+    80,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 6,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757800029003",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 56,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 50029,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "Volume": {
+      "Lo": 458837792,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 3556,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Rice",
+  "id": 424
+}

@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 3322,
+  "Name": "White Chick Peas (Kabuli Boot) 500 gm",
+  "NameBn": "কাবুলি বুট (সাদা ছোলা) ৫০০ গ্রাম",
+  "NameWithoutSubText": "White Chick Peas (Kabuli Boot)",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 139,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 139,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 139,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from India.rnrnWhite Chick Peas, commonly known as Kabuli Chana, are versatile legumes celebrated for their nutritional benefits and culinary applications.rnIngredients: The primary ingredient is pure dried white chickpeas.rnUse: Kabuli Chana is a versatile ingredient used in various dishes, including:rnCurries: Cooked with spices to create flavorful curries.rnSalads: Tossed with vegetables and dressings for a nutritious salad.rnHummus: Blended with tahini, garlic, and lemon juice to make hummus.rnSnacks: Roasted or spiced for a healthy snack option. Kabuli Chana is rich in protein, fiber, and essential nutrients, making it a valuable addition to a balanced diet.",
+  "Slug": "white-chick-peas-kabuli-boot-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/white-chick-peas-kabuli-boot-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47040&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    198
+  ],
+  "AllRecursiveCategoryIds": [
+    198,
+    104,
+    2
+  ],
+  "AllManufacturerIds": [
+    348
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 502,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1680,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 20,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Dal_or_Lentil",
+  "id": 499
+}

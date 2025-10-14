@@ -1,0 +1,116 @@
+{
+  "ProductVariantId": 6373,
+  "Name": "Miniket Rice Premium (Boiled) ± 50 gm 5 kg",
+  "NameBn": "মিনিকেট চাল প্রিমিয়াম (সিদ্ধ) ± ৫০ গ্রাম ৫ কেজি",
+  "NameWithoutSubText": "Miniket Rice Premium (Boiled) ± 50 gm",
+  "SubText": "5 kg",
+  "Price": {
+    "Lo": 449,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 439,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 439,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Miniket rice is a popular and delicious type of rice that is used in different regions of Bangladesh. It is soft and aromatic in cooking and is especially known to enhance the flavor of rice. Features of miniket rice per kilogram are:rnrnTaste: Miniket rice provides a delicious and smooth taste that brings a satisfying cooking experience. It enhances the taste of the food and gives extremely soft and fragrant rice.rnSmell: It has an aromatic and natural aroma that brings a fresh and sweet flavor to cooking. It enhances the aroma of the food and provides a pleasant experience while cooking.rnColor: The grains of miniket rice are usually white or light golden in color, which gives a natural and beautiful color to the dish.rnUses: Miniket rice is used in various types of cooking, such as rice, polao, khichuri, biryani, and other rice dishes. It is especially used as a day-to-day meal and on special occasions.rnNutrition: Miniket rice provides a good amount of carbohydrates that provide energy. Since it is not processed, most of the nutrients are preserved.rnPrice per kilogram of miniket rice may vary depending on it's quality and availability in the market.",
+  "Slug": "miniket-rice-premium-boiled-50-gm-5-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/miniket-rice-premium-boiled-50-gm-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48081&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    80,
+    238
+  ],
+  "AllRecursiveCategoryIds": [
+    80,
+    104,
+    2,
+    238
+  ],
+  "AllManufacturerIds": [
+    205,
+    277,
+    278,
+    287,
+    364
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 49,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757800029002",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757818800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757863800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 99,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 5049,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1566053240,
+      "Mid": 1,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 1854,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Rice",
+  "id": 408
+}
