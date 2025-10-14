@@ -1,0 +1,99 @@
+{
+  "ProductVariantId": 55158,
+  "Name": "Fram Fresh UHT Milk 200 ml",
+  "NameBn": "ফার্ম ফ্রেশ ইউএইচটি দুধ ২০০ মিলি",
+  "NameWithoutSubText": "Fram Fresh UHT Milk",
+  "SubText": "200 ml",
+  "Price": {
+    "Lo": 30,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 30,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 30,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Enjoy the pure goodness of Farm Fresh UHT Milk, now in a convenient 200ml pack. Sourced and processed in Bangladesh, this ultra-heat-treated milk is hygienically packed to preserve freshness, nutrition, and taste, without the need for refrigeration until opened. Perfect for daily use in tea, coffee, cereals, or simply as a nutritious drink.rnrn✅ Long shelf life without refrigerationrnrn✅ Rich in calcium and essential nutrientsrnrn✅ Ideal for home, office, or on-the-go usernrnStay fresh, stay healthy with Farm Fresh.",
+  "Slug": "fram-fresh-uht-milk-200-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/fram-fresh-uht-milk-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176418&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1380
+  ],
+  "AllRecursiveCategoryIds": [
+    1380,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951745156",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 600,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 20,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Liquid_UHT_Milk",
+  "id": 953
+}

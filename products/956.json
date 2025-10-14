@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 30648,
+  "Name": "Farm Fresh Chocolate Flavoured UHT Milk 250 ml",
+  "NameBn": "ফার্ম ফ্রেশ চকলেট ফ্লেভারড ইউএইচটি মিল্ক ২৫০ মিলি",
+  "NameWithoutSubText": "Farm Fresh Chocolate Flavoured UHT Milk",
+  "SubText": "250 ml",
+  "Price": {
+    "Lo": 40,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 40,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 40,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Farm Fresh Chocolate Flavoured UHT Milk combines the goodness of full-cream milk with rich chocolate flavor. This 250 ml UHT pack provides a creamy, satisfying drink perfect for chocolate lovers. Enjoy it chilled or at room temperature anytime of the day.",
+  "Slug": "farm-fresh-chocolate-flavored-uht-milk-250-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/farm-fresh-chocolate-flavoured-uht-milk-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D98585&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1380
+  ],
+  "AllRecursiveCategoryIds": [
+    1380,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    245,
+    471
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951745157",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 250,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 304,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 19,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    1918
+  ],
+  "IsAgeRestricted": false,
+  "category": "Liquid_UHT_Milk",
+  "id": 956
+}

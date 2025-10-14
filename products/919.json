@@ -1,0 +1,99 @@
+{
+  "ProductVariantId": 21398,
+  "Name": "Danish Full Cream Milk Powder 1 kg",
+  "NameBn": "ড্যানিশ ফুল ক্রিম গুঁড়া দুধ ১ কেজি",
+  "NameWithoutSubText": "Danish Full Cream Milk Powder",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 870,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 870,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 870,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Manufacturer: Danish Foods Ltd.rnDanish full cream milk powder is full of protein, calcium, and minerals which gives complete nourishment. It also can be used to make tea, coffee, and sweetmeats.rnIngredients: Full cream milk powder, soya lecithin, Vitamin A, Vitamin D, and minerals. rnNutrition: Butterfat, minerals, lactose, protein, moisture.",
+  "Slug": "danish-full-cream-milk-powders-1-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/danish-full-cream-milk-powder-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101742&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1580
+  ],
+  "AllRecursiveCategoryIds": [
+    1580,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951617539",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1004,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1573158144,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2032,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Powder_Milk",
+  "id": 919
+}

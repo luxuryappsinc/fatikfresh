@@ -1,0 +1,106 @@
+{
+  "ProductVariantId": 8920,
+  "Name": "Almarai Spreadable Cream Cheese 200 gm",
+  "NameBn": "আলমারাই স্প্রেডেবল ক্রিম চিজ ২০০ গ্রাম",
+  "NameWithoutSubText": "Almarai Spreadable Cream Cheese",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 669,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 669,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 669,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Spreadable  processed cream cheese with vegetable oil.Ingredients: water, palm oil, milk fat, milk solids, mineral salts, salt, stabilizers, preservatives, culture, milk (6% minimum)  Nutrition: Calories, Saturated fat, Cholesterol, Sodium, Vitamin A, calcium.",
+  "Slug": "almarai-spreadable-cream-cheese-240gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/almarai-spreadable-cream-cheese-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175776&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1596,
+    60,
+    1505
+  ],
+  "AllRecursiveCategoryIds": [
+    1596,
+    14,
+    2,
+    60,
+    58,
+    2,
+    1505,
+    1484
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "SA",
+  "Capacity": {
+    "Weight": {
+      "Lo": 270,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 612,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 17,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Cheese",
+  "id": 1000
+}

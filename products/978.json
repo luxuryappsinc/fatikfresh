@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 37797,
+  "Name": "Ultra Probiotic Mango Yogurt Drink 200 ml",
+  "NameBn": "আল্ট্রা প্রোবায়োটিক ম্যাংগো ইয়োগার্ট ড্রিংক ২০০ মিলি",
+  "NameWithoutSubText": "Ultra Probiotic Mango Yogurt Drink",
+  "SubText": "200 ml",
+  "Price": {
+    "Lo": 50,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 50,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 50,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "The Ultra Probiotic Mango Yogurt Drink combines the creamy goodness of yogurt with the tropical sweetness of mango. Enriched with probiotics, it supports digestive health and offers a refreshing, flavorful experience. This drink is a perfect blend of nutrition and taste, making it an ideal choice for a healthy snack or on-the-go refreshment.rnrnIngredients:rnFresh MilkrnMango PureernLive Probiotic Cultures (Lactobacillus acidophilus and Bifidobacterium)rnSugarrnNatural Flavoring AgentsrnrnSupports Digestive Health: Contains live probiotics that promote gut health and improve digestion.rnBoosts Immunity: Probiotics may help strengthen the immune system.rnRich in Calcium and Vitamins: Essential for strong bones and overall health.rnLow-Fat and Refreshing: A light and tasty option for a nutritious snack.rnrnBrand: UltrarnPack Size: 200 ml",
+  "Slug": "ultra-probiotic-mango-yogurt-drink-200-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/ultra-probiotic-mango-yogurt-drink-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124770&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    64
+  ],
+  "AllRecursiveCategoryIds": [
+    64,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 455479277,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 1397,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    2089
+  ],
+  "IsAgeRestricted": false,
+  "category": "Yogurt_Sweets",
+  "id": 978
+}

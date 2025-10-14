@@ -1,0 +1,99 @@
+{
+  "ProductVariantId": 50230,
+  "Name": "Anchor Processed Cheddar Cheese 24 Slice 400 gm",
+  "NameBn": "অ্যাঙ্কর প্রসেসড চেডার চিজ ২৪ স্লাইস ৪০০ গ্রাম",
+  "NameWithoutSubText": "Anchor Processed Cheddar Cheese 24 Slice",
+  "SubText": "400 gm",
+  "Price": {
+    "Lo": 785,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 785,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 785,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "With Anchor Cheddar Cheese Slices, it’s never been simpler to prepare tasty treats for the whole family. These convenient slices come individually-wrapped, so they can be easily added to your recipes or enjoyed on-the-go.rnIngredientsrnCheese (63%) (Cow’s Milk, Salt, Cultures, Enzymes (Calves & Vegetarian Rennet), Water, Emulsifier (341, 331, 339, 322, 460), Milk Solid, Non Fat Milk Solids, Salt, Acidity Regulator (330,500), Preservative (200), Colour (160b), Contains emulsifiers and acidity regulator as permitted food conditioners. Contains permitted colouring and preservative. Min. FDM 45%. Allergen Information: Contains Milk, Soy and Cellulose Products.",
+  "Slug": "anchor-processed-cheddar-cheese-24-slice-400-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/anchor-processed-cheddar-cheese-24-slice-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D158509&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    60
+  ],
+  "AllRecursiveCategoryIds": [
+    60,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "NZ",
+  "Capacity": {
+    "Weight": {
+      "Lo": 470,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 19431,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 1905,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Cheese",
+  "id": 999
+}

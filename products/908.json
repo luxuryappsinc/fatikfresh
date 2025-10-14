@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 50448,
+  "Name": "Dano Delight Full Cream Milk Powder 1 kg",
+  "NameBn": "ড্যানো ডিলাইট ফুল ক্রিম মিল্ক পাউডার ১ কেজি",
+  "NameWithoutSubText": "Dano Delight Full Cream Milk Powder",
+  "SubText": "1 kg",
+  "Price": {
+    "Lo": 950,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 950,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 950,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from New Zealand.rnrnDano Delight, a 28% milk fat-enriched full cream milk powder, makes your desserts like cakes, custards, puddings, and any food creamy and more delicious. Make your desserts more delightful with Dano Delight!    Experience the joy of dessert-making with Dano Delight and turn simple ingredients into extraordinary experiences. Treat your family and friends to the sumptuousness of your baked goods and watch as they savor every creamy, dreamy spoonful. With Dano Delight, every dessert becomes an occasion to celebrate the sweeter side of life.  Ingredients:  Whole Milk, Soy Lecithin, Vitamin A and D3  Allergens:  Soya Lecithin, Lactose",
+  "Slug": "danno-delight-full-cream-milk-powder-1-kg",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/dano-delight-full-cream-milk-powder-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161830&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1580
+  ],
+  "AllRecursiveCategoryIds": [
+    1580,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    544
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951617539",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1015,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 8008,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 325,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Powder_Milk",
+  "id": 908
+}

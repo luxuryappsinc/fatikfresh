@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 10548,
+  "Name": "Cowhead Slim Fat Free Milk 1 ltr",
+  "NameBn": "কাউহেড স্লিম চর্বি মুক্ত দুধ ১ লিটার",
+  "NameWithoutSubText": "Cowhead Slim Fat Free Milk",
+  "SubText": "1 ltr",
+  "Price": {
+    "Lo": 509,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 509,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 509,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "•Brand: Cowheadrn•Weight:  1 Litrern•Item Shape: Fluidrn•Flavor: MilkrnItem Informationrn•Natural fresh cow's milkrn•UHT processed to maintain long life and retain all the qualities and flavor of milkrn•Cowhead Slim UHT Milk contains 0.1% Fat.rn•This is 97% less fat than Cowhead Full Cream Milk.rnFrom natural fresh milk, Processed to maintain long life and retain the qualities and flavor of milk. Cowhead Milk is made from pure fresh milk from Australia. On top of coming from one of the best dairy sources in the world, our milk comes from cows that are antibiotic-free, hormone-free, Non-GMO. Furthermore, our cows are Free Range and Grass-fed! Cowhead fresh milk only goes through.rnrnIngredients: Pure Milk. rn                                            rnSafety Information: Keep refrigerated between 0°C- 4°C.",
+  "Slug": "cowhead-slim-fat-free-milk-1-ltr",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/cowhead-slim-fat-free-milk-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127199&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1380
+  ],
+  "AllRecursiveCategoryIds": [
+    1380,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    281,
+    295
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951745157",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "NZ",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1073,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 13965,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 21,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    1841
+  ],
+  "IsAgeRestricted": false,
+  "category": "Liquid_UHT_Milk",
+  "id": 960
+}

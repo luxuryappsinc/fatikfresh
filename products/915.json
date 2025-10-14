@@ -1,0 +1,104 @@
+{
+  "ProductVariantId": 29885,
+  "Name": "Farm Fresh Full Cream Milk Powder 500 gm",
+  "NameBn": "ফার্ম ফ্রেশ ফুল ক্রিম মিল্ক পাউডার ৫০০ গ্রাম",
+  "NameWithoutSubText": "Farm Fresh Full Cream Milk Powder",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 460,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 460,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 460,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "The 500 gm pack is perfect for families or avid bakers. Farm Fresh Full Cream Milk Powder delivers rich and creamy flavor in drinks, desserts, and recipes. This long-lasting product dissolves smoothly and doesn’t require refrigeration, ideal for long-term storage and everyday use.",
+  "Slug": "farm-fresh-full-cream-milk-powder-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/farm-fresh-full-cream-milk-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D160172&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1580
+  ],
+  "AllRecursiveCategoryIds": [
+    1580,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    245,
+    471
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951617539",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 5135,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "Volume": {
+      "Lo": 26676,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    },
+    "MaxDimension": {
+      "Lo": 26,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    1801
+  ],
+  "IsAgeRestricted": false,
+  "category": "Powder_Milk",
+  "id": 915
+}

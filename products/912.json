@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 38460,
+  "Name": "Goalini Daily Milk Powder 500 gm",
+  "NameBn": "গোয়ালিনী ডেইলি মিল্ক পাউডার ৫০০ গ্রাম",
+  "NameWithoutSubText": "Goalini Daily Milk Powder",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 385,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 385,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 385,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from Switzerland.rnrnProduct Type: Partial Skimmed Milk Powder.rnBrand: Goalini Daily Milk Powder. rnCapacity: 1kg, 500gm, 250gm.rnTechnology: SwitzerlandrnSimple, easy to usernConvenient powder formrnUseful for baking, pudding, ice-cream, Cake, desserts, etc.rnPacked with essential vitamins, minerals, Calcium, Vitamin D, Phosphorous, Potassium, vitamins A & B, and Iodine.",
+  "Slug": "goalini-daily-milk-powder-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/goalini-daily-milk-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127251&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1580
+  ],
+  "AllRecursiveCategoryIds": [
+    1580,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    541
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951617539",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1808664,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 3
+    },
+    "MaxDimension": {
+      "Lo": 2046,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    1809
+  ],
+  "IsAgeRestricted": false,
+  "category": "Powder_Milk",
+  "id": 912
+}

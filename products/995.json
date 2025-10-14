@@ -1,0 +1,99 @@
+{
+  "ProductVariantId": 50229,
+  "Name": "Anchor Processed Cheddar Cheese 12 Slice 200 gm",
+  "NameBn": "অ্যাঙ্কর প্রসেসড চেডার চিজ ১২ স্লাইস ২০০ গ্রাম",
+  "NameWithoutSubText": "Anchor Processed Cheddar Cheese 12 Slice",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 485,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 485,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 485,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Anchor Processed 12 Slice Cheese Cheddar is a type of cheese that is processed and packaged by Anchor. The cheese is made from cheddar milk, which is sourced from local farms. It is a popular choice for sandwiches and snacks, and it is often used in cheese fondue or melted over nachos. The cheese is sold in 200-gram packs. It is a popular choice for grating on pasta, sandwiches, and snacking.",
+  "Slug": "anchor-processed-cheddar-cheese-12-slice-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/anchor-processed-cheddar-cheese-12-slice-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D158504&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    60
+  ],
+  "AllRecursiveCategoryIds": [
+    60,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "NZ",
+  "Capacity": {
+    "Weight": {
+      "Lo": 270,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 612,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 17,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Cheese",
+  "id": 995
+}

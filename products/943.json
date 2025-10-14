@@ -1,0 +1,96 @@
+{
+  "ProductVariantId": 21504,
+  "Name": "Danish Ayran Pasteurized Full Cream Liquid Milk 1 ltr",
+  "NameBn": "ড্যানিশ আইরান পাস্তুরিত পূর্ন ননীযুক্ত তরল দুধ ১ লিটার",
+  "NameWithoutSubText": "Danish Ayran Pasteurized Full Cream Liquid Milk",
+  "SubText": "1 ltr",
+  "Price": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 140,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Milk is the best source for calcium. And it keeps skin soft and glowing. And in order to improve proper growth,",
+  "Slug": "danish-ayran-pasteurized-full-cream-liquid-milk-1-ltr",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/danish-ayran-pasteurized-full-cream-liquid-milk-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127452&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1380
+  ],
+  "AllRecursiveCategoryIds": [
+    1380,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757984400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757984400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1084,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 262193024,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 254,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Liquid_UHT_Milk",
+  "id": 943
+}

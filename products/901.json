@@ -1,0 +1,113 @@
+{
+  "ProductVariantId": 11973,
+  "Name": "Dano Daily Pushti Milk Powder 500 gm",
+  "NameBn": "আরলা ডানো ডেইলি পুষ্টি  গুঁড়া দুধ ৫০০ গ্রাম",
+  "NameWithoutSubText": "Dano Daily Pushti Milk Powder",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 400,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 400,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 400,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from Denmark.rnrnDANO Daily Pushti helps you to afford the goodness of milk at a reasonable price with convenient pack sizes that can be used for your everyday dairy needs. Thus, it helps to maintain the overall wellbeing of your family for your every day journey towards a better life.rnrnIngredients:rnMilk [Skimmed milk, Butter Milk], Vegetable oil, Sucrose, Calcium Carbonate, Vitamin A and D3rnAllergens:rnSoya Lecithin, Lactose",
+  "Slug": "dano-daily-pushti-milk-powder-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/dano-daily-pushti-milk-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180158&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/arla-dano-daily-pusti-milk-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D121094&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/arla-dano-daily-pusti-milk-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D121169&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/arla-dano-daily-pusti-milk-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D121170&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/arla-dano-daily-pusti-milk-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D121171&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    238,
+    1580
+  ],
+  "AllRecursiveCategoryIds": [
+    238,
+    1580,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    543,
+    191,
+    277,
+    278,
+    287,
+    440,
+    472
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951617538",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 202789917,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 2286,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Powder_Milk",
+  "id": 901
+}

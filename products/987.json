@@ -1,0 +1,113 @@
+{
+  "ProductVariantId": 23536,
+  "Name": "Arla Herbs & Spices Cream Cheese 150 gm",
+  "NameBn": "আরলা হারবস ও স্পাইসেস ক্রিম চিজ ১৫০ গ্রাম",
+  "NameWithoutSubText": "Arla Herbs & Spices Cream Cheese",
+  "SubText": "150 gm",
+  "Price": {
+    "Lo": 420,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 420,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 420,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Arla Herbs & Spices Cream Cheese is produced from natural ingredients and is characterized by its distinct fresh taste. It is the perfect solution for a quick snack, a last-minute lunch, or a quick recipe for the whole family. Wholesome and tasty, it is just perfect for whenever you need it - in a bagel or just out of a spoon.",
+  "Slug": "arla-herbs-spices-cream-cheese-150-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/arla-herbs-spices-cream-cheese-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125238&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    60,
+    1505
+  ],
+  "AllRecursiveCategoryIds": [
+    60,
+    58,
+    2,
+    1505,
+    1484
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 2,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757952815434",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 52,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "DK",
+  "Capacity": {
+    "Weight": {
+      "Lo": 166,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 263090025,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 1143,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    2037
+  ],
+  "IsAgeRestricted": false,
+  "category": "Cheese",
+  "id": 987
+}

@@ -1,0 +1,129 @@
+{
+  "ProductVariantId": 22272,
+  "Name": "Aarong Dairy Paneer 200 gm",
+  "NameBn": "আড়ং ডেইরি পনির ২০০ গ্রাম",
+  "NameWithoutSubText": "Aarong Dairy Paneer",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 200,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 200,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 200,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Paneer is a fresh, creamy, normally unsalted cheese. It is made by curdling hot milk using lemon juice, citric acid or vinegar. The result is a soft, fluffy cheese that is firm and can be cut into slices, pieces or blocks as required but doesn’t crumble easily. The texture is firm and has the ability to retain its shape for a long time, even when it’s cooked or baked over high heat.  CATEGORIES: PONIR, CHEESE.",
+  "Slug": "aarong-dairy-paneer-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/aarong-dairy-paneer-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122751&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    60
+  ],
+  "AllRecursiveCategoryIds": [
+    60,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    364,
+    472
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757952815434",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "378000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "792000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757997000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758034800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757984400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757984400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 101,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 2048383,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 4
+    },
+    "MaxDimension": {
+      "Lo": 635,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Cheese",
+  "id": 984
+}

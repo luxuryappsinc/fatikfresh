@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 50595,
+  "Name": "Farm Fresh Sweetened Yogurt 500 gm",
+  "NameBn": "ফার্ম ফ্রেশ মিষ্টি দই ৫০০ গ্রাম",
+  "NameWithoutSubText": "Farm Fresh Sweetened Yogurt",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 150,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 150,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 150,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Indulge in the creamy goodness of Farm Fresh sweetened yogurt, made with the finest milk from local farms. Farm Fresh yogurt is carefully crafted with a touch of sweetness ensuring a delightful taste experience. Perfect for snacking, adding to your favorite recipes, or as a healthy breakfast option. Enjoy the wholesome goodness of our farm-fresh sweetened yogurt today.",
+  "Slug": "farm-fresh-sweetened-yogurt-500-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/farm-fresh-sweetened-yogurt-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161204&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    64
+  ],
+  "AllRecursiveCategoryIds": [
+    64,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 614125,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 3
+    },
+    "MaxDimension": {
+      "Lo": 85,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [
+    2088
+  ],
+  "IsAgeRestricted": false,
+  "category": "Yogurt_Sweets",
+  "id": 975
+}

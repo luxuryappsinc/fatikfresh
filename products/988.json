@@ -1,0 +1,108 @@
+{
+  "ProductVariantId": 21458,
+  "Name": "Arla Sandwich Slice Cheese 200 gm",
+  "NameBn": "আরলা স্যান্ডউইচ স্লাইস পনির ২০০ গ্রাম",
+  "NameWithoutSubText": "Arla Sandwich Slice Cheese",
+  "SubText": "200 gm",
+  "Price": {
+    "Lo": 460,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 460,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 460,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Give your sandwiches a boost – slide the Arla Sandwiches Slices in for that epic upgrade! Arla Sandwich Slices are a delightful blend of vegetable fat and cheese (24% fat); it is great to use with all types of bread and melt wonderfully on toast. Enjoy the richness of protein and calcium in the soft texture of every slice, wrapped conveniently in individual packages. No matter the type of sandwich you choose to make, each slice is a guaranteed cheesy delight. Storage Information: Refrigerate between 2-8°C.rnIngredients: Cheese (49%, water, butter, skimmed milk powder, emulsifying salts (E452, E341), milk protein, salt, acidity regulator (E500), preservative (E200)",
+  "Slug": "american-garden-arla-sandwich-slice-cheese-200-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/arla-sandwich-slice-cheese-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125242&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    60
+  ],
+  "AllRecursiveCategoryIds": [
+    60,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 1,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757952815434",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 51,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "DK",
+  "Capacity": {
+    "Weight": {
+      "Lo": 270,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 612,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 17,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Cheese",
+  "id": 988
+}

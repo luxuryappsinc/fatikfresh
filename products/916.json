@@ -1,0 +1,108 @@
+{
+  "ProductVariantId": 27278,
+  "Name": "Dano Power Full Cream Milk Powder 400 gm",
+  "NameBn": "আরলা ডানো পাওয়ার ফুল ক্রিম গুঁড়া দুধ ৪০০ গ্রাম",
+  "NameWithoutSubText": "Dano Power Full Cream Milk Powder",
+  "SubText": "400 gm",
+  "Price": {
+    "Lo": 400,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 400,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 400,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from Denmark.rnrnDANO Power full cream milk powder provides the essential nutrients for your entire family, allowing you to enjoy a healthy and active life together. DANO believes that its milk, which is rich in protein, calcium, vitamins B2, B12, A, and D, helps you and your family maintain robust health and vitality.rnIngredients:rnWhole Milk, Soy Lecithin, Vitamin A and D3rnAllergens:rnSoya Lecithin, Lactose",
+  "Slug": "arla-dano-power-full-cream-milk-powder-400-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/dano-power-full-cream-milk-powder-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169325&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/arla-dano-power-full-cream-milk-powder-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120853&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/arla-dano-power-full-cream-milk-powder-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120855&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/arla-dano-power-full-cream-milk-powder-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120857&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/arla-dano-power-full-cream-milk-powder-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120858&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1580
+  ],
+  "AllRecursiveCategoryIds": [
+    1580,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    191,
+    439
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951617539",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 444,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1689915975,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 1905,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    1804
+  ],
+  "IsAgeRestricted": false,
+  "category": "Powder_Milk",
+  "id": 916
+}

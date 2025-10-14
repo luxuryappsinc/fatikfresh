@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 55640,
+  "Name": "Nestle Nido School Age (5+ Years) Powder Milk 350 gm",
+  "NameBn": "নেসলে নিডো স্কুল এজ (৫+ বছর) পাউডার দুধ ৩৫০ গ্রাম",
+  "NameWithoutSubText": "Nestle Nido School Age (5+ Years) Powder Milk",
+  "SubText": "350 gm",
+  "Price": {
+    "Lo": 480,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 480,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 480,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "NIDO School Age 5+ provides the nourishment for children above 5 years old & need to stay active, engaged, and ready to learn every day. It contains:rn- 20 Essential Nutrients for overall Learning & developmentrn- Iron & Vitamin B12 that are essential for focus & memoryrn- Vitamin A that maintain healthy visionrn- Iron, Vitamin B12, B2 & C that help to be energized & reduce fatiguern- High-quality ingredients sourced from New ZealandrnNet Weight: 350grnFormulation From SwitzerlandrnMarketed by Nestlé Bangladesh PLC.",
+  "Slug": "nestle-nido-school-age-5-years-powder-milk-350-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/nestle-nido-school-age-5-years-powder-milk-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177797&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    221,
+    1580
+  ],
+  "AllRecursiveCategoryIds": [
+    221,
+    216,
+    209,
+    1580,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951617539",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 400,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1622496755,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 1829,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Powder_Milk",
+  "id": 909
+}

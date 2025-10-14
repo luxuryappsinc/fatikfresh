@@ -1,0 +1,98 @@
+{
+  "ProductVariantId": 10974,
+  "Name": "Pran Sour Curd 500 ml",
+  "NameBn": "প্রান টক দই ৫০০ মিলি",
+  "NameWithoutSubText": "Pran Sour Curd",
+  "SubText": "500 ml",
+  "Price": {
+    "Lo": 120,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 120,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 120,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Pran Sour Curd 500ml is a high-quality, thick, and creamy curd made from fresh, pasteurized milk. Known for its tangy flavor and smooth texture, this sour curd is a perfect addition to your meals, whether used as a side dish, ingredient, or base for dips and dressings. Its probiotic properties make it not only delicious but also beneficial for digestion and overall health.rnrnIngredients: Fresh Milk, Lactic Acid Bacteria (Probiotic Culture).rnrnBenefits: Rich in Probiotics: Supports gut health and aids digestion.rnHigh Nutritional Value: A good source of calcium, protein, and essential vitamins.rnVersatile Use: Ideal for curries, salads, marinades, and desserts.rnRefreshing Taste: The tangy flavor complements various cuisines.",
+  "Slug": "pran-sour-curd-500-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/pran-sour-curd-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132328&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    64
+  ],
+  "AllRecursiveCategoryIds": [
+    64,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    131
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757984400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757984400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 585,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 16387064,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 4
+    },
+    "MaxDimension": {
+      "Lo": 127,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Yogurt_Sweets",
+  "id": 968
+}

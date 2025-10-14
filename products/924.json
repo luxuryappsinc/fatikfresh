@@ -1,0 +1,105 @@
+{
+  "ProductVariantId": 7650,
+  "Name": "Shape Up Non Fat High Protein Milk Powder 400 gm",
+  "NameBn": "শেপ আপ নন ফ্যাট হাই প্রোটিন মিল্ক পাউডার ৪০০ গ্রাম",
+  "NameWithoutSubText": "Shape Up Non Fat High Protein Milk Powder",
+  "SubText": "400 gm",
+  "Price": {
+    "Lo": 490,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 490,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 490,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "One of the most common problems after surviving at 30s is we start to lose fitness. Being a Low-fat milk with high protein intake, Shape Up fills the basic needs of your body without the fat of regular milk. It contains high protein that plays an important role in developing muscles and skin tissue. Maintaining healthy weight • Keeping your skin looking fresh and youthful. • Reproductive issues, anything from getting pregnant—or not—to finding a birth control method that matches your lifestyle. • Preventing bone loss. • Reducing stress. • Respiration by contraction of muscles. • Low Fat Milk is associated with decreased risk of Type – 2 Diabetes. • Low Fat Milk is part of heart-healthy diet, protecting against heart disease, stroke and reduces the risk of high blood pressure.",
+  "Slug": "shape-up-non-fat-high-protein-milk-powder-400-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/shape-up-non-fat-high-protein-milk-powder-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175835&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1580
+  ],
+  "AllRecursiveCategoryIds": [
+    1580,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    548,
+    549,
+    146
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951617540",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 462,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1760,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 22,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    1808
+  ],
+  "IsAgeRestricted": false,
+  "category": "Powder_Milk",
+  "id": 924
+}

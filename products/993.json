@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 56107,
+  "Name": "Puck Cream Cheese Spread 140 gm",
+  "NameBn": "পাক ক্রিম চিজ স্প্রেড ১৪০ গ্রাম",
+  "NameWithoutSubText": "Puck Cream Cheese Spread",
+  "SubText": "140 gm",
+  "Price": {
+    "Lo": 399,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 399,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 399,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Puck Cream Cheese Spread in a 140g tub offers creamy, smooth cheese with a mild, rich flavor that suits both sweet and savory dishes. It spreads effortlessly on bagels, toast, and crackers, making breakfast or snacks quick and satisfying. It also works well in recipes—from cheesecakes and frostings to pasta sauces and dips. Made with quality ingredients, Puck Cream Cheese is a source of calcium and protein. Its resealable packaging keeps the spread fresh, and its convenient size makes it easy to store in any refrigerator. A versatile must-have for home cooks and cheese lovers alike.",
+  "Slug": "puck-cream-cheese-spread-140-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/puck-cream-cheese-spread-140-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180125&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    60,
+    1479
+  ],
+  "AllRecursiveCategoryIds": [
+    60,
+    58,
+    2,
+    1479
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "DK",
+  "Capacity": {
+    "Weight": {
+      "Lo": 193,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 294967152,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 762,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Cheese",
+  "id": 993
+}

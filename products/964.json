@@ -1,0 +1,137 @@
+{
+  "ProductVariantId": 2115,
+  "Name": "Aarong Dairy Sour Curd 500 gm",
+  "NameBn": "আড়ং ডেইরি টক দই ৫০০ গ্রাম",
+  "NameWithoutSubText": "Aarong Dairy Sour Curd",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 120,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 120,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 120,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Aarong Sour Yogurt is delicious, creamy and smooth, made from fresh milk collected every day from homestead dairy farmers across Bangladesh. It is completely natural, free of artificial ingredients and preservatives.rnrnBrac Dairy & Food Projectrnrn1. Boosts Immunity Levelrn2. Prevents Coldrn3. Better Digestionrn4. Strengthen The Bones",
+  "Slug": "aarong-dairy-sour-curd-500-ml-6",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/aarong-dairy-sour-curd-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77433&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    64,
+    238,
+    1505
+  ],
+  "AllRecursiveCategoryIds": [
+    64,
+    58,
+    2,
+    238,
+    1505,
+    1484
+  ],
+  "AllManufacturerIds": [
+    165,
+    277,
+    364,
+    472,
+    474
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 4,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757952716960",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "252000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757984400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757984400000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 104,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 540,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 11757025,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 4
+    },
+    "MaxDimension": {
+      "Lo": 115,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 1
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Yogurt_Sweets",
+  "id": 964
+}

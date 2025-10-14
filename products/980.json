@@ -1,0 +1,103 @@
+{
+  "ProductVariantId": 31123,
+  "Name": "Aarong Dairy Roshogolla 600 gm",
+  "NameBn": "আড়ং ডেইরি রসগোল্লা ৬০০ গ্রাম",
+  "NameWithoutSubText": "Aarong Dairy Roshogolla",
+  "SubText": "600 gm",
+  "Price": {
+    "Lo": 200,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 200,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 200,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Aarong Dairy Roshogolla is a traditional Bengali dessert made from fresh cottage cheese (chhana), offering a sweet and delightful flavor. Packaged in a 600 gm tin, it is perfect for various occasions and celebrations. rnrnIngredients: Whole Milk, Chhana (cottage cheese), Sugar, Wheat, Flour, Vinegar, Cardamom, Potable Water , BADAMI.rnMaking Process:rnPreparation of Chhana:rnBoil whole milk and curdle it using vinegar to separate the curds from the whey.rnStrain the curds through a muslin cloth to obtain chhana.rnKneading:Knead the chhana with a small amount of wheat flour until it becomes smooth and pliable.rnShaping:Divide the kneaded chhana into small, smooth balls.rnCooking in Syrup:Prepare a light sugar syrup infused with cardamom.rnBoil the chhana balls in the syrup until they expand and become spongy.rnSoaking:Allow the cooked roshogollas to soak in the syrup to absorb sweetness.rnUse:rnServing:Serve chilled or at room temperature as a dessert.rnIdeal for festive occasions, family gatherings, or as a sweet treat after meals.rnrnBenefits:rnSource of Protein:Chhana provides a good amount of protein, essential for body functions.rnCalcium-Rich:Made from milk, it offers calcium, beneficial for bone health.rnEnergy Boost:The sugar content provides a quick source of energy.rnrnNet Weight : 600 gm.",
+  "Slug": "aarong-dairy-rasgulla-600-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/aarong-dairy-roshogolla-600-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122754&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    64
+  ],
+  "AllRecursiveCategoryIds": [
+    64,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    361
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 600,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 80515968,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 1016,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    2085
+  ],
+  "IsAgeRestricted": false,
+  "category": "Yogurt_Sweets",
+  "id": 980
+}

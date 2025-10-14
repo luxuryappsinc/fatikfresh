@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 39304,
+  "Name": "Goalini Full Cream Milk Powder 500 gm",
+  "NameBn": "গোয়ালিনী ফুল ক্রিম গুঁড়া দুধ ৫০০ গ্রাম",
+  "NameWithoutSubText": "Goalini Full Cream Milk Powder",
+  "SubText": "500 gm",
+  "Price": {
+    "Lo": 460,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 460,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 460,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Product Type: Full Cream Milk PowderrnBrand: GoalinirnCapacity: 500gmrnPremium QualityrnTechnology : Switzerland, BuhlerrnSimple, easy to usernAdd water for instant usernProvides all the benefits of fresh full cream milk in convenient powder formrnUseful for baking, ice-cream, desserts, etcrnCreamy flavorrnPacked with essential vitamins, mineralsrnCalciumrnVitamin DrnPhosphorousrnPotassiumrnVitamin A & BrnIodine",
+  "Slug": "goalini-full-cream-milk-powder-500-gm-3",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/goalini-full-cream-milk-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133892&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1580
+  ],
+  "AllRecursiveCategoryIds": [
+    1580,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    541
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951617539",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1917286488,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 2286,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Powder_Milk",
+  "id": 911
+}

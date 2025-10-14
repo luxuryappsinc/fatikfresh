@@ -1,0 +1,112 @@
+{
+  "ProductVariantId": 36607,
+  "Name": "Marks Active School Belgian Chocolate Flavour Milk Shake 200 ml",
+  "NameBn": "মার্কস অ্যাক্টিভ স্কুল বেলজিয়ান চকোলেট ফ্লেভার মিল্ক শেক ২০০ মিলি",
+  "NameWithoutSubText": "Marks Active School Belgian Chocolate Flavour Milk Shake",
+  "SubText": "200 ml",
+  "Price": {
+    "Lo": 40,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 40,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 40,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Introducing Marks Active School Belgian Chocolate Flavour Milk Shake, a delectable 200 ml serving of pure delight that brings the rich and indulgent essence of Belgian chocolate to your beverage experience. This product offers a perfect combination of flavor and nourishment, making it a delightful choice for both young and adult chocolate enthusiasts.rnrnDiscover the exquisite taste of Marks Active School Belgian Chocolate Flavour Milk Shake. Each 200 ml serving is a harmonious blend of creamy milk and the luxurious essence of Belgian chocolate. Whether you're seeking a delightful treat for a quick energy boost, a post-school snack, or a satisfying beverage, this milkshake offers a convenient and flavorful solution.",
+  "Slug": "marks-active-school-belgian-chocolate-flavour-milk-shake-200-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/marks-active-school-belgian-chocolate-flavour-milk-shake-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120533&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1380,
+    1420
+  ],
+  "AllRecursiveCategoryIds": [
+    1380,
+    58,
+    2,
+    1420
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 5,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757948145155",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951745155",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 55,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 200,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 216,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 12,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    1857
+  ],
+  "IsAgeRestricted": false,
+  "category": "Liquid_UHT_Milk",
+  "id": 935
+}

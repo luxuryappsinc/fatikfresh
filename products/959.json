@@ -1,0 +1,105 @@
+{
+  "ProductVariantId": 10705,
+  "Name": "Arla UHT Milk Low Fat 1 ltr",
+  "NameBn": "আরলা ইউএইচটি মিল্ক লো ফ্যাট ১ লিটার",
+  "NameWithoutSubText": "Arla UHT Milk Low Fat",
+  "SubText": "1 ltr",
+  "Price": {
+    "Lo": 380,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 380,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 380,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from Denmark.rnrnLove milk, but are concerned about milk fat? Arla UHT Low Fat Milk naturally contains a higher amount of Calcium, Protein, and Potassium along with Vitamins A, B & D, and minerals. Below-lower fat risks at best only for you.rnLow Fat Milk with 1.5% fat content, 92 kcal energy per serving.",
+  "Slug": "arla-uht-milk-low-fat-1-ltr",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/arla-uht-milk-low-fat-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126666&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/arla-low-fat-15-uht-milk-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126668&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1380
+  ],
+  "AllRecursiveCategoryIds": [
+    1380,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    191,
+    442
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951745157",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 1000,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 135999728,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 5
+    },
+    "MaxDimension": {
+      "Lo": 2108,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [
+    1908
+  ],
+  "IsAgeRestricted": false,
+  "category": "Liquid_UHT_Milk",
+  "id": 959
+}

@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 15175,
+  "Name": "Aarong Dairy Strawberry Yogurt Drink UHT Milk 200 ml",
+  "NameBn": "আড়ং ডেইরি স্ট্রবেরি দই ড্রিংক ইউএইচটি দুধ ২০০ মিলি",
+  "NameWithoutSubText": "Aarong Dairy Strawberry Yogurt Drink UHT Milk",
+  "SubText": "200 ml",
+  "Price": {
+    "Lo": 35,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 35,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 35,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "The Aarong Dairy Strawberry Yogurt Drink (UHT) 200 ml is a ready-to-drink yogurt beverage, that combines the sweetness of strawberry flavor with the creamy richness of yogurt. It is made using ultra-heat treatment (UHT) for extended shelf life, ensuring freshness and taste without the need for refrigeration until opened. This drink is an excellent source of probiotics, which support digestion and gut health, and it offers a refreshing option for both kids and adults. Perfect as a snack or on-the-go refreshment, it is designed to cater to health-conscious consumers looking for a flavorful and nutritious treat​.",
+  "Slug": "aarong-dairy-strawberry-yogurt-drink-uht-milk-200-ml",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/aarong-dairy-strawberry-yogurt-drink-uht-milk-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122758&q=best&v=1&m=400"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1380
+  ],
+  "AllRecursiveCategoryIds": [
+    1380,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [
+    165
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951745156",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 203,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 360,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 12,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Liquid_UHT_Milk",
+  "id": 954
+}

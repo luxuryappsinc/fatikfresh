@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 56105,
+  "Name": "Puck Cheese Triangles 120 gm 8 pcs",
+  "NameBn": "পাক চিজ ট্রায়াঙ্গেল ১২০ গ্রাম ৮ টি",
+  "NameWithoutSubText": "Puck Cheese Triangles 120 gm",
+  "SubText": "8 pcs",
+  "Price": {
+    "Lo": 305,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 305,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 305,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Puck Cheese Triangles offer a convenient and tasty cheese option in individually wrapped portions, making them ideal for lunchboxes, on-the-go snacks, or picnics. This 120g pack contains soft, creamy cheese with a mild flavor that appeals to both kids and adults. The triangles are easy to spread on bread, crackers, or vegetables, and they also melt well for a quick cheese sauce. Fortified with calcium, they can be a nutritious addition to daily meals. The fun, easy-to-open packaging adds to their appeal, making healthy snacking simple and delicious wherever you are.",
+  "Slug": "puck-cheese-triangles-120-gm-8-pcs",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/puck-cheese-triangles-120-gm-8-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180123&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    60,
+    1479
+  ],
+  "AllRecursiveCategoryIds": [
+    60,
+    58,
+    2,
+    1479
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757991600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1758036600000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "DK",
+  "Capacity": {
+    "Weight": {
+      "Lo": 132,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 331838046,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 6
+    },
+    "MaxDimension": {
+      "Lo": 1143,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 2
+    }
+  },
+  "AlternateGroupIds": [],
+  "IsAgeRestricted": false,
+  "category": "Cheese",
+  "id": 991
+}

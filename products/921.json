@@ -1,0 +1,122 @@
+{
+  "ProductVariantId": 10675,
+  "Name": "Marks Gold High Calcium Non Fat Milk Powder 40 Y+ 400 gm",
+  "NameBn": "মার্কস গোল্ড হাই ক্যালসিয়াম নন ফ্যাট গুঁড়া দুধ ৪০ বছর+ ৪০০ গ্রাম",
+  "NameWithoutSubText": "Marks Gold High Calcium Non Fat Milk Powder 40 Y+",
+  "SubText": "400 gm",
+  "Price": {
+    "Lo": 425,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 425,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 425,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "High Calcium Non Fat Milk Powder. Recommended for those who are 40+ years of age.",
+  "Slug": "marks-gold-high-calcium-non-fat-milk-powder-40-y-400-gm",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/marks-gold-high-calcium-non-fat-milk-powder-40-y-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146818&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/marks-gold-high-calcium-low-fat-milk-powder-40-y-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120404&q=best&v=1",
+    "https://i.chaldn.com/_mpimage/marks-gold-high-calcium-non-fat-milk-powder-40-y-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D146817&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1580,
+    1420
+  ],
+  "AllRecursiveCategoryIds": [
+    1580,
+    58,
+    2,
+    1420
+  ],
+  "AllManufacturerIds": [
+    177
+  ],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "Quantity": 10,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757997000000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757953800000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    },
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "0"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951617539",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 60,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 452,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1470,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 21,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    1818
+  ],
+  "IsAgeRestricted": false,
+  "category": "Powder_Milk",
+  "id": 921
+}

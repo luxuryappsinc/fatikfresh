@@ -1,0 +1,101 @@
+{
+  "ProductVariantId": 50596,
+  "Name": "Farm Fresh Pasteurized Milk 500 ml",
+  "NameBn": "ফার্ম ফ্রেশ পাস্তুরিত দুধ ৫০০ মিলি",
+  "NameWithoutSubText": "Farm Fresh Pasteurized Milk",
+  "SubText": "500 ml",
+  "Price": {
+    "Lo": 55,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "DiscountedPrice": {
+    "Lo": 55,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "CorporatePrice": {
+    "Lo": 55,
+    "Mid": 0,
+    "Hi": 0,
+    "SignScale": 0
+  },
+  "LongDescription": "Experience the wholesome goodness of Farm Fresh Pasteurized Milk, delivered straight from local farms to your doorstep. Our milk is carefully pasteurized to preserve its natural taste and nutritional value, ensuring a pure and safe product for your family. Each pack is full of essential vitamins and minerals, providing a creamy, rich flavor perfect for drinking, cooking, or baking. Choose Farm Fresh Pasteurized Milk for a nutritious, delicious, and responsible choice for your family. Enjoy the taste of farm Fresh goodness every day! Key Features: * Pure & Natural *Rich in Nutrients *Ultra Fresh",
+  "Slug": "farm-fresh-pasteurized-milk-500-ml-2",
+  "RecType": "",
+  "PictureUrls": [
+    "https://i.chaldn.com/_mpimage/farm-fresh-pasteurized-milk-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161205&q=best&v=1"
+  ],
+  "OfferPictureUrls": [],
+  "AllCategoryIds": [
+    1380
+  ],
+  "AllRecursiveCategoryIds": [
+    1380,
+    58,
+    2
+  ],
+  "AllManufacturerIds": [],
+  "DoNotApplyDiscounts": false,
+  "BlockSale": false,
+  "ProductAvailabilityForSelectedWarehouse": [
+    {
+      "EarliestAvailableTimeOfDay": {
+        "Ticks": "324000000000"
+      },
+      "AvailabilityCutOffTimeOfDay": {
+        "Ticks": "810000000000"
+      },
+      "Quantity": 50,
+      "EarliestAvailableTime": {
+        "UnixTimeMilliseconds": "1757951745156",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      },
+      "AvailabilityExpiryTime": {
+        "UnixTimeMilliseconds": "1757950200000",
+        "Offset": {
+          "Ticks": "216000000000"
+        }
+      }
+    }
+  ],
+  "UnitQuantity": 1,
+  "UnitType": "",
+  "DrugRegulationType": "",
+  "BaseProductQuantity": 50,
+  "CatalogItemType": "Grocery",
+  "AlternateOf": "",
+  "SimilarOf": "",
+  "AdditionalShippingFee": 0,
+  "CountryOriginCode": "BD",
+  "Capacity": {
+    "Weight": {
+      "Lo": 500,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "Volume": {
+      "Lo": 1122,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    },
+    "MaxDimension": {
+      "Lo": 17,
+      "Mid": 0,
+      "Hi": 0,
+      "SignScale": 0
+    }
+  },
+  "AlternateGroupIds": [
+    6153
+  ],
+  "IsAgeRestricted": false,
+  "category": "Liquid_UHT_Milk",
+  "id": 951
+}
